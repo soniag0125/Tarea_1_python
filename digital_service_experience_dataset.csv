@@ -1,0 +1,1516 @@
+﻿user_id,interaction_date,age,gender,city,user_type,device_type,internet_quality,sessions_per_week,avg_session_minutes,completed_activities,pending_activities,support_tickets,response_time_hours,platform_errors,training_received,support_channel,platform_module,perceived_usability,recommendation_score,satisfaction_level,satisfied
+USR00386,2025-04-26,24,Femenino,Ibarra,Estudiante,Computador de escritorio,Media,6,34.9,22,5,0,1.7,2,Sí,Chat,Pagos,4.3,6,Baja,0
+USR01436,2025-11-28,23,Masculino,Ambato,Estudiante,Laptop,Alta,2,41.2,9,11,0,2.2,2,No,Autoservicio,Evaluaciones,3.5,4,Media,0
+USR00204,2025-05-14,33,Masculino,Guayaquil,Estudiante,Laptop,Media,5,55.6,12,6,0,2.9,1,Sí,Autoservicio,Biblioteca digital,4,8,Media,0
+USR01396,2025-06-24,27,Masculino,Manta,Estudiante,Móvil,Media,4,30.2,16,8,2,6.9,2,Sí,Teléfono,Evaluaciones,3.2,5,Media,0
+USR01229,2025-04-28,20,Masculino,Quito,Estudiante,Móvil,Media,8,18.7,13,5,3,5.2,3,No,Autoservicio,Aula virtual,2.6,2,Baja,0
+USR00776,2026-05-03,23,Femenino,Quito,Estudiante,Móvil,Alta,5,29.9,4,6,0,4.1,4,No,Chat,Pagos,2.6,5,Baja,0
+USR00176,2025-09-17,22,Femenino,Guayaquil,Estudiante,Móvil,Alta,4,32.4,12,3,3,8.7,2,Sí,Chat,Biblioteca digital,4.7,9,Alta,1
+USR01123,2025-06-07,33,Femenino,Ibarra,Docente,Computador de escritorio,Alta,4,8.2,10,7,0,10.2,2,No,Autoservicio,Inscripciones,3.1,5,Baja,0
+USR00476,2025-04-01,34,Femenino,Quito,Estudiante,Laptop,Media,5,58.2,22,11,1,23.2,5,No,Teléfono,Evaluaciones,1.8,4,Baja,0
+USR01177,2025-08-04,26,Femenino,Quito,Estudiante,Móvil,Alta,7,54.5,18,1,0,3.9,2,Sí,Teléfono,Inscripciones,5,8,Alta,1
+USR00127,2025-06-13,41,Femenino,Loja,Docente,Laptop,Alta,9,88.4,16,6,2,3,0,Sí,Autoservicio,Evaluaciones,5,8,Alta,1
+USR01282,2026-06-19,26,Masculino,Quito,Administrativo,Tablet,Media,10,55.1,18,11,0,0.9,0,No,Chat,Pagos,1.9,4,Media,0
+USR00094,2025-12-29,29,Femenino,Guayaquil,Estudiante,Laptop,Media,7,24,21,5,2,5.4,2,No,Chat,Inscripciones,2.9,4,Baja,0
+USR00884,2025-10-19,27,Masculino,Quito,Estudiante,Móvil,Media,6,50.4,26,5,0,4,5,Sí,Autoservicio,Pagos,4,8,Media,0
+USR00271,2025-05-18,45,Masculino,Guayaquil,Estudiante,Laptop,Media,6,44.5,12,1,1,4.1,0,Sí,Chat,Inscripciones,3.9,5,Baja,0
+USR01381,2025-01-21,30,Masculino,Santo Domingo,Estudiante,Tablet,Media,4,40.4,16,4,1,3,0,Sí,Chat,Biblioteca digital,3.1,5,Media,0
+USR00681,2025-02-13,35,Masculino,Cuenca,Docente,Laptop,Media,7,52.8,7,9,1,3.6,2,No,Autoservicio,Soporte académico,3.4,4,Baja,0
+USR00598,2026-03-23,32,Masculino,Santo Domingo,Estudiante,Laptop,Media,7,70.3,16,1,2,10.8,0,Sí,Autoservicio,Biblioteca digital,3.6,6,Baja,0
+USR00890,2026-03-20,33,Femenino,Santo Domingo,Estudiante,Móvil,Alta,1,24.9,9,11,1,4.3,1,No,Correo,Evaluaciones,3.8,7,Baja,0
+USR01206,2025-03-07,42,Femenino,Quito,Estudiante,Tablet,Baja,2,52.5,14,9,5,4.6,8,No,Correo,Soporte académico,1.2,1,Baja,0
+USR00552,2026-05-14,37,Femenino,Santo Domingo,Estudiante,Móvil,Alta,10,37.7,28,10,0,2.2,6,,Teléfono,Aula virtual,2.9,6,Media,0
+USR01376,2025-03-08,23,Femenino,Quito,Estudiante,Móvil,Baja,4,45.1,17,10,3,7.7,7,No,Chat,Pagos,1,2,Baja,0
+USR01182,2025-04-19,32,Femenino,Cuenca,Administrativo,Laptop,Alta,3,43.2,22,7,0,4.2,2,Sí,Chat,Biblioteca digital,4.4,8,Media,0
+USR00713,2025-02-12,17,Masculino,Loja,Estudiante,Móvil,Baja,3,64.1,17,9,1,15.6,7,Sí,Chat,Biblioteca digital,1.7,1,Baja,0
+USR00329,2025-02-07,36,Femenino,Quito,Estudiante,Laptop,Media,10,66,27,3,3,6,0,Sí,Autoservicio,Aula virtual,4,6,Alta,1
+USR00538,2025-07-06,17,Masculino,Ibarra,Estudiante,Móvil,Baja,7,13.3,11,6,1,6.2,6,,Chat,Biblioteca digital,3.6,4,Media,0
+USR00758,2025-02-11,17,Masculino,Quito,Estudiante,Móvil,Baja,5,6.4,19,12,4,8.9,7,No,Chat,Evaluaciones,1.6,2,Baja,0
+USR00251,2026-02-21,35,Femenino,Cuenca,Estudiante,Móvil,Media,5,53.4,15,9,0,2,1,No,Autoservicio,Evaluaciones,3.2,3,Media,0
+USR01444,2026-05-18,27,Masculino,Quito,Estudiante,Laptop,Alta,8,5,23,2,1,4.4,1,Sí,Autoservicio,Aula virtual,4.7,7,Media,0
+USR00051,2025-11-29,32,Femenino,Quito,Estudiante,Móvil,Alta,2,24.1,18,5,0,3.1,1,Sí,Correo,Biblioteca digital,3.8,6,Alta,1
+USR01111,2025-07-10,44,Femenino,Ibarra,Docente,Móvil,Baja,6,51.6,16,10,3,4.5,4,No,Autoservicio,Soporte académico,2,1,Media,0
+USR00882,2026-01-18,54,Femenino,Manta,Estudiante,Móvil,Media,5,5,20,5,3,12.8,2,Sí,Teléfono,Soporte académico,3.8,8,Media,0
+USR00246,2025-07-04,42,Masculino,Cuenca,Estudiante,Tablet,Media,11,34.3,16,0,3,5.5,1,Sí,Correo,Aula virtual,3.8,7,Alta,1
+USR01467,2026-02-26,46,Masculino,Ambato,Docente,Móvil,Media,7,13.3,19,8,2,3.1,1,Sí,Chat,Evaluaciones,4.3,6,Baja,0
+USR00192,2025-12-17,24,Femenino,Ambato,Estudiante,Laptop,Alta,6,53,14,7,2,3.7,5,Sí,Chat,Evaluaciones,5,8,Baja,0
+USR00856,2026-05-25,25,Masculino,Guayaquil,Estudiante,Computador de escritorio,Alta,4,41.3,19,5,4,6.3,0,No,Autoservicio,Aula virtual,2.9,4,Baja,0
+USR00648,2026-04-22,54,Masculino,Manta,Estudiante,Laptop,Media,5,53.7,24,7,2,10.7,3,No,Autoservicio,Aula virtual,2.9,5,Media,0
+USR00954,2026-05-19,25,Femenino,Guayaquil,Administrativo,Móvil,Media,7,37.7,20,4,3,5.5,3,No,Chat,Aula virtual,2.1,2,Media,0
+USR00130,2026-02-05,26,Masculino,Ambato,Estudiante,Laptop,Media,7,54.4,15,10,0,12.2,3,No,Correo,Inscripciones,2.1,2,Baja,0
+USR00268,2026-03-11,27,Femenino,Quito,Estudiante,Computador de escritorio,,4,18.4,22,7,4,7.4,5,Sí,Chat,Evaluaciones,3.1,4,Baja,0
+USR00077,2025-04-23,34,Femenino,Guayaquil,Estudiante,Móvil,Media,7,30.7,14,0,0,3.3,4,Sí,Autoservicio,Evaluaciones,3.3,4,Media,0
+USR00475,2026-02-17,19,Femenino,Quito,Estudiante,Laptop,Media,7,36.8,15,1,0,8,0,Sí,Chat,Inscripciones,3.6,4,Media,0
+USR00637,2026-03-07,42,Femenino,Quito,Estudiante,Laptop,Alta,7,25.7,9,10,0,6.3,4,Sí,Correo,Biblioteca digital,3.9,3,Media,0
+USR01115,2025-02-18,37,Femenino,Cuenca,Estudiante,Tablet,Alta,5,14.2,15,8,3,5.7,1,Sí,Chat,Aula virtual,4.9,6,Alta,1
+USR00157,2026-06-09,26,Masculino,Manta,Administrativo,Móvil,Media,8,14.8,4,4,0,3.5,2,No,Chat,Pagos,2.9,4,Media,0
+USR00810,2025-06-04,43,Masculino,Guayaquil,Estudiante,Tablet,Media,6,30.3,11,9,0,8.5,1,No,Correo,Pagos,2.6,5,Media,0
+USR00497,2025-12-04,28,Masculino,Guayaquil,Estudiante,Laptop,Media,4,23.4,15,5,0,2.5,0,Sí,Teléfono,Inscripciones,4.3,7,Alta,1
+USR00620,2026-04-22,22,Femenino,Guayaquil,Estudiante,Móvil,Media,3,32.6,28,5,2,3.6,0,Sí,Chat,Evaluaciones,4.2,6,Media,0
+USR00626,2025-07-09,23,Masculino,Cuenca,Docente,Móvil,Baja,10,27.5,23,6,2,20.6,5,Sí,Correo,Aula virtual,2.2,5,Baja,0
+USR00693,2025-11-05,31,Masculino,Quito,Estudiante,Laptop,Alta,4,41.9,14,4,0,1.9,4,No,Correo,Aula virtual,3.7,4,Media,0
+USR00661,2025-02-11,41,Femenino,Ambato,Estudiante,Móvil,,2,44,12,11,1,3.1,3,No,Autoservicio,Pagos,3.2,6,Media,0
+USR01331,2026-05-27,25,Femenino,Ambato,Estudiante,Tablet,Media,4,21.3,16,5,1,3.1,4,No,Chat,Pagos,2.8,3,Baja,0
+USR00697,2026-04-08,18,Femenino,Quito,Estudiante,Móvil,Alta,9,36.4,27,9,3,4.4,4,Sí,Correo,Aula virtual,4.4,7,Baja,0
+USR01293,2026-01-31,26,Femenino,Quito,Docente,Laptop,Media,10,39.4,19,9,2,7.5,6,No,Correo,Aula virtual,1.7,0,Baja,0
+USR00196,2025-06-14,42,Femenino,Quito,Estudiante,Laptop,Media,5,45.9,24,0,1,6.2,4,Sí,Correo,Pagos,2.8,5,Media,0
+USR00316,2025-01-03,28,Masculino,Quito,Estudiante,Laptop,Media,9,59,14,5,3,5.6,0,No,Correo,Pagos,3.3,5,Baja,0
+USR00136,2025-03-10,30,Femenino,Cuenca,Estudiante,Tablet,Media,2,23.4,14,10,0,1.4,0,No,Chat,Inscripciones,2.3,3,Baja,0
+USR01462,2025-04-25,44,Masculino,Quito,Administrativo,Laptop,Media,10,24.2,19,7,1,3.1,0,No,Chat,Biblioteca digital,2.5,3,Media,0
+USR00888,2025-04-13,31,Masculino,Quito,Estudiante,Tablet,Media,7,51.8,25,4,1,5.1,0,Sí,Autoservicio,Biblioteca digital,3.8,9,Media,0
+USR00965,2025-03-20,28,Femenino,Quito,Docente,Laptop,Baja,7,49.3,26,4,3,23.1,5,Sí,Correo,Pagos,1.1,2,Media,0
+USR00152,2025-08-18,18,Prefiere no decir,Manta,Estudiante,Móvil,Alta,3,55.8,10,8,0,1.2,0,Sí,Correo,Aula virtual,4.5,10,Alta,1
+USR01031,2026-05-11,39,Femenino,Guayaquil,Estudiante,Tablet,Alta,2,22.2,9,5,3,4.8,0,No,Autoservicio,Inscripciones,3.7,5,Baja,0
+USR01336,2026-05-27,42,Femenino,Ambato,Estudiante,Tablet,Baja,1,36.7,16,7,3,13.5,5,No,Correo,Pagos,1,0,Baja,0
+USR00919,2025-12-11,32,Masculino,Ibarra,Estudiante,Computador de escritorio,Baja,4,64.6,22,16,2,31.2,5,No,Correo,Inscripciones,1,2,Baja,0
+USR00233,2025-03-21,26,Masculino,Cuenca,Docente,Móvil,Baja,4,5,24,7,2,12.9,5,Sí,Autoservicio,Biblioteca digital,2.2,3,Media,0
+USR00240,2025-09-14,33,Masculino,Quito,Estudiante,Móvil,Baja,4,50,26,7,3,4.6,3,Sí,Chat,Aula virtual,2.9,4,Baja,0
+USR01038,2025-06-27,23,Masculino,Ibarra,Estudiante,Móvil,Media,6,57.9,17,3,3,7.1,1,Sí,Autoservicio,Inscripciones,4.5,9,Alta,1
+USR00596,2026-01-31,31,Femenino,Quito,Docente,Laptop,Media,7,39.5,22,9,0,2.8,3,Sí,Autoservicio,Evaluaciones,3,5,Baja,0
+USR00282,2025-08-30,30,Femenino,Loja,Estudiante,Laptop,Media,5,49.5,16,5,1,3.2,0,No,Correo,Evaluaciones,3.1,5,Baja,0
+USR00998,2025-04-16,46,Masculino,Quito,Estudiante,Móvil,Media,5,29.1,16,10,0,3.5,2,No,Correo,Soporte académico,2,5,Baja,0
+USR00940,2025-08-18,38,Masculino,Loja,Estudiante,Laptop,,6,42.7,17,3,2,4.1,0,Sí,Correo,Aula virtual,3.7,8,Baja,0
+USR01061,2026-03-22,31,Femenino,Quito,Estudiante,Móvil,Baja,4,17,8,9,4,5.4,11,No,Chat,Inscripciones,1,2,Media,0
+USR00122,2026-02-08,30,Femenino,Cuenca,Estudiante,Computador de escritorio,Media,4,13.2,16,7,2,9.9,2,Sí,Chat,Evaluaciones,3.6,7,Baja,0
+USR00994,2026-04-16,26,Masculino,Quito,Estudiante,Móvil,Alta,2,38.8,8,9,0,0.7,3,No,Correo,Soporte académico,4.1,7,Media,0
+USR01311,2025-02-01,28,Femenino,Quito,Estudiante,Laptop,Media,6,35.4,13,7,1,7.4,3,Sí,Chat,Aula virtual,3.6,7,Baja,0
+USR00567,2025-07-12,42,Femenino,Manta,Estudiante,Laptop,,4,44,17,4,2,6.6,0,Sí,Teléfono,Pagos,4.6,9,Alta,1
+USR01294,2025-05-16,35,Masculino,Cuenca,Estudiante,Móvil,Media,8,24,26,1,2,4,3,Sí,Autoservicio,Biblioteca digital,2.6,4,Baja,0
+USR00951,2025-05-16,30,Femenino,Guayaquil,Estudiante,Laptop,Baja,6,21.1,19,7,3,4.2,2,Sí,Chat,Aula virtual,2.8,4,Baja,0
+USR00125,2026-04-18,50,Femenino,Manta,Estudiante,Laptop,,7,34.4,21,1,0,5.1,3,Sí,Autoservicio,Aula virtual,3.1,6,Media,0
+USR00342,2026-02-02,35,Masculino,Ibarra,Estudiante,Laptop,Media,3,44.6,8,6,0,1.5,3,No,Chat,Evaluaciones,2.9,4,Media,0
+USR00084,2025-08-12,17,Masculino,Manta,Estudiante,Móvil,Media,8,55.5,24,3,0,7.9,2,Sí,Chat,Soporte académico,3.1,4,Media,0
+USR01079,2025-04-21,18,Masculino,Guayaquil,Administrativo,Tablet,Media,6,55.6,18,8,0,3.4,0,Sí,Chat,Aula virtual,4,7,Baja,0
+USR01340,2025-05-04,22,Femenino,Cuenca,Estudiante,Móvil,Baja,5,46.8,24,9,3,8.9,5,No,Teléfono,Aula virtual,1.7,0,Baja,0
+USR01372,2025-09-02,24,Prefiere no decir,Quito,Estudiante,Laptop,Baja,3,49.8,19,5,3,5.3,5,Sí,Teléfono,Aula virtual,2,3,Baja,0
+USR01323,2025-10-30,25,Femenino,Ibarra,Estudiante,Móvil,Baja,1,22.8,17,12,2,3.1,4,No,Chat,Soporte académico,2.8,4,Baja,0
+USR01289,2025-09-22,31,Femenino,Guayaquil,Estudiante,Laptop,Media,4,53.5,21,1,0,5.3,4,Sí,Chat,Biblioteca digital,3.5,4,Media,0
+USR00844,2025-12-17,35,Femenino,Santo Domingo,Estudiante,Laptop,Alta,4,69.1,5,10,2,4.3,0,No,Correo,Aula virtual,3.2,6,Baja,0
+USR00600,2025-04-14,33,Femenino,Ambato,Estudiante,Móvil,Media,7,61.9,19,6,1,4.3,6,Sí,Chat,Biblioteca digital,2.9,5,Media,0
+USR00739,2025-11-18,30,Femenino,Santo Domingo,Docente,Móvil,Alta,7,39.3,23,10,0,2.7,3,No,Chat,Evaluaciones,4.1,5,Baja,0
+USR01050,2026-02-23,26,Masculino,Cuenca,Estudiante,Tablet,Media,3,29.7,12,4,1,3.5,0,Sí,Autoservicio,Biblioteca digital,4,7,Alta,1
+USR00970,2025-08-22,38,Masculino,Quito,Estudiante,Móvil,Alta,6,53.7,18,5,3,7.2,2,Sí,Correo,Evaluaciones,3.4,7,Media,0
+USR00654,2026-04-12,40,Femenino,Ibarra,Estudiante,Computador de escritorio,Alta,2,46.6,14,5,0,9,0,Sí,Chat,Aula virtual,4.5,8,Alta,1
+USR01023,2025-12-06,29,Femenino,Santo Domingo,Estudiante,Tablet,Media,6,35.9,13,5,0,1.6,2,Sí,Chat,Soporte académico,3.7,6,Baja,0
+USR00687,2025-10-24,31,Femenino,Loja,Estudiante,Computador de escritorio,Media,5,13.3,9,8,1,4.9,2,No,Chat,Evaluaciones,3,4,Media,0
+USR00190,2025-01-09,28,Masculino,Guayaquil,Estudiante,Laptop,Alta,4,39.9,18,6,1,11.2,4,No,Correo,Evaluaciones,2.7,4,Baja,0
+USR00527,2025-04-21,17,Masculino,Cuenca,Estudiante,Móvil,Media,3,15.2,18,5,3,12.5,0,No,Autoservicio,Pagos,2.3,4,Media,0
+USR00442,2025-09-08,33,Masculino,Quito,Estudiante,Móvil,Baja,5,46.6,23,17,3,4.3,8,No,Correo,Inscripciones,1.3,0,Media,0
+USR00096,2026-02-03,33,Masculino,Cuenca,Estudiante,Móvil,Alta,4,42,14,10,0,1.9,1,No,Chat,Evaluaciones,3.4,4,Media,0
+USR00208,2026-05-29,41,Femenino,Quito,Estudiante,Laptop,Alta,5,57.5,12,10,1,21.9,0,No,Autoservicio,Soporte académico,2.5,3,Baja,0
+USR00213,2025-02-10,20,Masculino,Quito,Estudiante,Laptop,Media,4,38.9,13,7,1,8.4,1,No,Correo,Pagos,2.3,4,Baja,0
+USR01269,2025-01-10,33,Masculino,Quito,Estudiante,Móvil,Media,2,41,11,9,0,3.9,4,Sí,Chat,Evaluaciones,4.5,8,Baja,0
+USR00558,2026-04-17,22,Masculino,Guayaquil,Estudiante,Móvil,Baja,6,59.4,24,8,3,7.9,4,Sí,Autoservicio,Soporte académico,2.3,3,Media,0
+USR01010,2025-03-01,43,Masculino,Quito,Estudiante,Laptop,Baja,5,30.3,12,7,0,1.4,8,Sí,Autoservicio,Pagos,1.6,1,Baja,0
+USR00145,2025-06-22,26,Masculino,Ambato,Estudiante,Laptop,Media,4,17.7,16,11,0,7.1,1,Sí,Correo,Aula virtual,3.7,6,Baja,0
+USR00248,2025-11-30,35,Femenino,Quito,Estudiante,Laptop,Media,4,40.3,14,5,0,2.6,1,Sí,Autoservicio,Aula virtual,4,8,Alta,1
+USR00159,2025-08-18,30,Femenino,Ambato,Docente,Laptop,Alta,4,48.2,13,8,0,3.2,0,No,Chat,Soporte académico,2.8,4,Baja,0
+USR01477,2025-01-06,26,Masculino,Ambato,Estudiante,Móvil,Alta,2,42.1,16,8,2,5.3,5,No,Autoservicio,Evaluaciones,3.5,4,Media,0
+USR01284,2025-04-08,22,Femenino,Ambato,Estudiante,Móvil,Baja,2,26.7,7,8,3,6.2,5,No,Teléfono,Pagos,1.4,1,Media,0
+USR00023,2025-01-28,39,Masculino,Quito,Estudiante,Laptop,Media,6,59,18,6,0,4.9,3,Sí,Autoservicio,Aula virtual,3.4,8,Alta,1
+USR00008,2025-08-14,34,Femenino,Manta,Estudiante,Laptop,Baja,2,44.8,14,0,2,4.9,4,Sí,Correo,Aula virtual,3.4,6,Baja,0
+USR00045,2025-08-06,23,Femenino,Ambato,Estudiante,Laptop,Media,3,49.9,27,4,2,7.6,2,Sí,Teléfono,Aula virtual,3.8,7,Alta,1
+USR01011,2025-10-20,33,Masculino,Quito,Estudiante,Laptop,Media,3,44.5,9,6,2,4,4,No,Correo,Evaluaciones,2.4,1,Media,0
+USR01054,2025-12-19,36,Femenino,Quito,Estudiante,Laptop,Media,7,39.5,17,0,2,6.8,0,No,Chat,Aula virtual,2.6,5,Media,0
+USR01044,2025-04-22,20,Masculino,Ambato,Estudiante,Móvil,Media,7,31.3,13,8,0,11.6,2,Sí,Autoservicio,Inscripciones,3.1,7,Alta,1
+USR00187,2025-10-26,27,Femenino,Santo Domingo,Docente,Tablet,Alta,2,46.3,19,4,3,7.6,1,Sí,Correo,Aula virtual,4.3,8,Alta,1
+USR00843,2025-10-14,30,Prefiere no decir,Quito,Estudiante,Móvil,Alta,1,36.2,17,10,1,6.4,3,Sí,Chat,Aula virtual,2.8,5,Baja,0
+USR01223,2025-11-26,29,Femenino,Cuenca,Estudiante,Laptop,Media,7,97.8,27,12,3,8.5,2,No,Chat,Aula virtual,2.8,3,Baja,0
+USR00664,2025-09-27,29,Femenino,Santo Domingo,Estudiante,Laptop,Alta,9,70.4,14,10,2,4.4,5,Sí,Correo,Aula virtual,4.4,6,Media,0
+USR00483,2026-02-12,42,Femenino,Quito,Estudiante,Laptop,Media,3,20.5,19,16,2,4.7,0,No,Correo,Aula virtual,1.9,3,Baja,0
+USR00905,2025-07-28,31,Femenino,Manta,Docente,Móvil,Alta,5,42,21,3,0,7.5,4,Sí,Chat,Pagos,3.3,5,Media,0
+USR00990,2025-01-29,29,Femenino,Ambato,Estudiante,Móvil,Alta,6,78.5,22,11,0,0.8,3,Sí,Teléfono,Aula virtual,3.9,9,Media,0
+USR00306,2025-02-18,34,Masculino,Ibarra,Estudiante,Móvil,Baja,2,23.6,23,5,4,4.8,4,Sí,Chat,Evaluaciones,3,3,Baja,0
+USR00682,2026-06-17,29,Masculino,Guayaquil,Estudiante,Computador de escritorio,Media,5,55.2,15,2,3,4.8,0,Sí,Autoservicio,Soporte académico,3.8,6,Alta,1
+USR00231,2025-05-09,33,Femenino,Manta,Estudiante,Laptop,Alta,6,15.8,22,2,0,1.5,0,Sí,Correo,Pagos,4.3,7,Alta,1
+USR00081,2026-02-11,32,Masculino,Loja,Estudiante,Laptop,Media,4,21,16,2,1,2.2,1,No,Autoservicio,Pagos,3.7,5,Media,0
+USR00340,2025-01-15,27,Femenino,Quito,Estudiante,Laptop,Alta,6,57.4,19,10,0,1.5,1,No,Autoservicio,Aula virtual,3.5,5,Baja,0
+USR00372,2025-07-10,25,Femenino,Quito,Estudiante,Laptop,Media,9,44.2,18,12,0,10.4,3,No,Chat,Soporte académico,2,7,Baja,0
+USR01083,2026-01-28,27,Masculino,Cuenca,Estudiante,Móvil,Baja,7,5.4,4,2,1,4.7,5,Sí,Correo,Biblioteca digital,2.5,4,Baja,0
+USR00172,2025-04-27,26,Femenino,Guayaquil,Estudiante,Laptop,Alta,7,62.1,26,5,2,6.3,2,Sí,Chat,Biblioteca digital,5,8,Alta,1
+USR00644,2025-01-18,21,Masculino,Ambato,Administrativo,Tablet,Media,9,24,22,8,4,8.5,0,Sí,Chat,Evaluaciones,3.6,3,Baja,0
+USR00155,2026-02-24,40,Femenino,Santo Domingo,Estudiante,Móvil,Alta,7,63.3,12,4,0,2.9,3,No,Chat,Pagos,3,3,Media,0
+USR00754,2025-12-14,38,Masculino,Guayaquil,Estudiante,Móvil,Alta,8,64.9,18,5,0,0.7,2,Sí,Autoservicio,Inscripciones,4.2,7,Alta,1
+USR00695,2025-11-11,31,Masculino,Quito,Estudiante,Móvil,Baja,4,51.8,23,3,3,4.9,4,Sí,Correo,Aula virtual,2.3,4,Media,0
+USR00679,2025-10-06,26,Femenino,Cuenca,Estudiante,Laptop,Alta,6,45.7,10,14,0,4.2,1,No,Correo,Soporte académico,2.6,4,Media,0
+USR00591,2026-06-10,33,Femenino,Quito,Estudiante,Computador de escritorio,Media,10,18.5,18,6,3,25,1,Sí,Correo,Aula virtual,2.6,4,Baja,0
+USR00398,2025-04-06,23,Femenino,Guayaquil,Estudiante,Móvil,Baja,3,46.3,15,7,2,2.4,7,Sí,Chat,Soporte académico,2.8,5,Media,0
+USR00380,2026-06-06,17,Femenino,Ambato,Estudiante,Laptop,Media,8,23.5,13,6,0,1,1,Sí,Chat,Inscripciones,3.5,6,Alta,1
+USR00068,2026-05-18,25,Femenino,Quito,Estudiante,Laptop,Alta,8,41,15,5,1,1.6,3,No,Teléfono,Soporte académico,2.9,3,Baja,0
+USR01169,2025-12-22,35,Masculino,Guayaquil,Estudiante,Tablet,Alta,7,25.2,21,5,4,7.6,3,,Chat,Aula virtual,3.9,7,Alta,1
+USR00992,2025-03-16,26,Masculino,Cuenca,Estudiante,Laptop,Alta,7,37.6,16,10,2,2.2,2,No,Chat,Evaluaciones,4,7,Baja,0
+USR01490,2026-02-04,37,Masculino,Quito,Estudiante,Laptop,,6,54.5,14,6,0,9.9,0,No,Chat,Inscripciones,1.8,4,Baja,0
+USR00908,2025-09-16,17,Masculino,Cuenca,Estudiante,Laptop,Alta,4,44.6,6,6,3,4.6,1,Sí,Chat,Aula virtual,4.4,7,Baja,0
+USR00281,2026-01-12,31,Prefiere no decir,Cuenca,Docente,Móvil,Alta,8,21.3,29,5,3,9.8,4,No,Teléfono,Aula virtual,2.4,4,Media,0
+USR00986,2025-05-31,42,Femenino,Guayaquil,Estudiante,Móvil,Alta,9,54,15,5,4,6.8,5,No,Teléfono,Aula virtual,2.6,3,Media,0
+USR00184,2026-05-26,41,Femenino,Guayaquil,Estudiante,Laptop,Media,3,16,15,0,0,6.2,0,,Correo,Soporte académico,4.4,8,Media,0
+USR00331,2025-05-22,46,Masculino,Santo Domingo,Estudiante,Laptop,Alta,5,22.5,11,5,1,6,0,No,Chat,Pagos,3.6,6,Media,0
+USR00307,2025-09-11,39,Femenino,Ambato,Estudiante,Laptop,Media,7,50.6,23,8,2,4.2,2,Sí,Chat,Pagos,2.6,3,Media,0
+USR01233,2025-03-04,32,Masculino,Quito,Estudiante,Móvil,Alta,4,46.6,14,4,1,2.9,2,No,Chat,Biblioteca digital,3.1,5,Baja,0
+USR00651,2025-12-08,17,Femenino,Quito,Administrativo,Laptop,Alta,6,46.5,24,5,0,1.5,2,Sí,Chat,Inscripciones,4.3,5,Alta,1
+USR01290,2026-02-22,44,Masculino,Quito,Estudiante,Laptop,Media,5,34.1,24,3,0,3.5,2,Sí,Chat,Soporte académico,3.3,7,Alta,1
+USR01393,2025-05-28,24,Femenino,Loja,Estudiante,Móvil,Alta,2,61.1,12,10,0,1.3,2,Sí,Chat,Soporte académico,4,9,Baja,0
+USR00435,2025-04-21,28,Prefiere no decir,Cuenca,Estudiante,Laptop,Media,3,54.4,9,6,3,8.2,2,Sí,Chat,Aula virtual,4.5,8,Baja,0
+USR01081,2025-10-05,45,Femenino,Manta,Estudiante,Tablet,Media,11,26.7,8,12,3,5.6,0,No,Chat,Pagos,4.2,9,Baja,0
+USR00636,2025-07-22,33,Femenino,Guayaquil,Estudiante,Laptop,Baja,2,19.4,14,11,3,11.7,5,Sí,Autoservicio,Aula virtual,2.8,4,Media,0
+USR01363,2026-02-21,31,Masculino,Guayaquil,Estudiante,Móvil,Media,8,28.7,23,7,0,8.9,0,No,Chat,Biblioteca digital,1.7,1,Media,0
+USR00729,2026-01-17,28,Femenino,Manta,Docente,Laptop,Media,6,45.9,15,6,0,3.8,1,Sí,Autoservicio,Inscripciones,4.3,8,Baja,0
+USR01232,2025-07-01,41,Femenino,Quito,Estudiante,Móvil,Media,9,36.6,18,3,0,3.7,3,Sí,Correo,Aula virtual,3.8,6,Alta,1
+USR00311,2025-05-07,28,Masculino,Cuenca,Estudiante,Computador de escritorio,Media,4,27.3,9,11,1,10.6,3,No,Correo,Aula virtual,2.6,3,Media,0
+USR00554,2026-01-07,36,Masculino,Cuenca,Estudiante,Tablet,Alta,10,35.4,21,9,1,11.6,3,No,Correo,Evaluaciones,3.2,4,Media,0
+USR00539,2026-06-15,33,Femenino,Quito,Estudiante,Laptop,Media,6,65.3,13,11,1,4.1,2,No,Autoservicio,Evaluaciones,2.7,5,Media,0
+USR00255,2025-10-28,19,Masculino,Guayaquil,Estudiante,Móvil,Baja,7,45.9,15,4,5,12.9,3,Sí,Chat,Evaluaciones,2.6,3,Media,0
+USR01035,2026-02-28,39,Femenino,Loja,Docente,Laptop,Media,8,35,18,6,1,4.5,4,No,Autoservicio,Inscripciones,1.6,3,Baja,0
+USR00526,2026-06-05,17,Femenino,Manta,Estudiante,Laptop,Baja,5,59.8,13,21,4,8,2,No,Correo,Inscripciones,1,0,Baja,0
+USR01473,2026-02-10,39,Femenino,Manta,Estudiante,Móvil,Media,9,35.9,28,8,1,10.6,2,No,Autoservicio,Aula virtual,2.2,5,Media,0
+USR00286,2025-07-13,33,Femenino,Guayaquil,Estudiante,Laptop,Media,4,26.8,16,9,0,8.1,4,No,Autoservicio,Pagos,2,1,Baja,0
+USR00117,2025-03-09,27,Masculino,Quito,Estudiante,Tablet,Baja,7,32.6,13,12,3,4.7,5,No,Chat,Inscripciones,1.1,0,Media,0
+USR00487,2026-06-21,28,Femenino,Quito,Estudiante,Móvil,Alta,5,24.1,25,4,2,2.3,2,Sí,Correo,Evaluaciones,3.3,8,Media,0
+USR00309,2025-11-09,38,Femenino,Ambato,Estudiante,Móvil,Baja,5,43.8,9,12,4,11.1,3,No,Autoservicio,Aula virtual,1.2,3,Media,0
+USR01492,2026-06-29,42,Masculino,Quito,Estudiante,Laptop,Media,10,71.6,16,7,0,2.1,0,Sí,Chat,Aula virtual,4.2,9,Alta,1
+USR00934,2026-06-27,38,Femenino,Santo Domingo,Docente,Móvil,Media,7,27.6,19,4,1,1.4,1,Sí,Autoservicio,Inscripciones,4.2,8,Alta,1
+USR00243,2025-08-27,33,Femenino,Cuenca,Estudiante,Tablet,Baja,5,51,16,11,1,2,5,No,Chat,Aula virtual,1.3,0,Media,0
+USR01314,2025-12-20,35,Femenino,Quito,Administrativo,Computador de escritorio,Media,8,36.4,17,7,1,3.2,1,Sí,Correo,Aula virtual,3.3,6,Alta,1
+USR00898,2026-06-13,30,Femenino,Manta,Estudiante,Laptop,Alta,4,33.1,13,6,3,3.1,3,No,Chat,Evaluaciones,2.2,2,Media,0
+USR00295,2025-09-29,20,Masculino,Quito,Estudiante,Computador de escritorio,Media,9,35.9,18,7,0,44.1,1,No,Correo,Aula virtual,1.8,2,Media,0
+USR00957,2026-03-16,43,Masculino,Guayaquil,Estudiante,Laptop,Media,6,80,24,9,1,2.4,2,No,Chat,Biblioteca digital,4,6,Media,0
+USR01254,2025-06-06,33,Femenino,Guayaquil,Docente,Móvil,Alta,4,47,11,6,2,7.4,4,No,Chat,Biblioteca digital,3.7,6,Media,0
+USR00923,2026-04-27,27,Masculino,Quito,Estudiante,Laptop,Alta,5,31.2,19,1,0,4,1,Sí,Teléfono,Pagos,4.6,8,Media,0
+USR00037,2025-06-05,28,Femenino,Cuenca,Docente,Tablet,Media,8,67.2,11,9,2,3.2,1,Sí,Correo,Evaluaciones,3.9,6,Media,0
+USR00845,2026-04-22,24,Masculino,Ibarra,Estudiante,Laptop,Media,4,36.7,15,12,2,8.4,2,No,Correo,Pagos,2.9,7,Media,0
+USR00788,2025-07-07,26,Femenino,Guayaquil,Administrativo,Móvil,Baja,5,46.9,22,8,2,3.9,3,Sí,Chat,Aula virtual,2.5,3,Baja,0
+USR01187,2025-08-05,25,Femenino,Quito,Estudiante,Móvil,Media,11,26.8,20,7,1,1.8,0,Sí,Autoservicio,Evaluaciones,4.1,8,Alta,1
+USR01422,2025-06-08,25,Femenino,Quito,Estudiante,Laptop,Baja,6,54.9,12,11,1,7,6,No,Autoservicio,Aula virtual,1.8,2,Media,0
+USR00411,2025-11-23,22,Femenino,Cuenca,Estudiante,Móvil,Baja,3,24.6,15,9,1,9.6,6,Sí,Chat,Biblioteca digital,2.3,2,Baja,0
+USR01343,2026-04-18,18,Femenino,Quito,Estudiante,Tablet,Media,5,48,15,4,0,7.8,5,Sí,Chat,Pagos,3.3,4,Baja,0
+USR00485,2026-01-09,35,Femenino,Ambato,Docente,Laptop,Baja,9,26.6,20,16,4,6.5,3,No,Correo,Aula virtual,1.4,0,Baja,0
+USR00889,2025-04-23,18,Prefiere no decir,Quito,Estudiante,Móvil,Media,3,39,16,10,3,6.3,1,No,Autoservicio,Aula virtual,3.2,6,Media,0
+USR01433,2025-07-11,50,Femenino,Quito,Estudiante,Móvil,Alta,8,35.5,38,0,0,5.3,6,Sí,Chat,Inscripciones,3.5,4,Media,0
+USR01125,2025-04-09,34,Femenino,Quito,Estudiante,Tablet,Media,2,15.1,15,3,0,3,0,Sí,Teléfono,Evaluaciones,4.2,8,Alta,1
+USR00893,2026-01-05,25,Femenino,Quito,Estudiante,Móvil,Media,6,36.7,28,3,1,6.2,4,Sí,Teléfono,Biblioteca digital,3.4,4,Baja,0
+USR01461,2025-08-01,43,Femenino,Quito,Estudiante,Laptop,Media,2,38.1,15,8,3,3.3,2,No,Autoservicio,Inscripciones,2.4,5,Baja,0
+USR00674,2025-06-30,30,Masculino,Guayaquil,Estudiante,Laptop,Alta,2,66.5,14,9,0,3.9,1,Sí,Correo,Aula virtual,4.3,9,Media,0
+USR00315,2026-06-07,29,Masculino,Quito,Estudiante,Móvil,Alta,6,40.6,21,11,0,1.5,2,No,Autoservicio,Evaluaciones,3.5,6,Baja,0
+USR00517,2025-01-01,27,Masculino,Quito,Estudiante,Laptop,,7,49.3,13,9,2,8.9,2,No,Correo,Evaluaciones,2.5,2,Baja,0
+USR01370,2025-06-04,28,Femenino,Quito,Estudiante,Móvil,Alta,5,20.9,11,7,1,2,3,No,Autoservicio,Inscripciones,1.8,4,Baja,0
+USR01299,2025-06-07,24,Masculino,Ambato,Estudiante,Móvil,Alta,6,27.1,12,5,1,6.8,0,No,Correo,Inscripciones,3.3,5,Media,0
+USR01320,2025-08-11,30,Masculino,Guayaquil,Estudiante,Computador de escritorio,Alta,5,24.6,8,8,2,5,4,No,Autoservicio,Pagos,2.7,5,Media,0
+USR01429,2026-06-05,37,Femenino,Quito,Estudiante,Laptop,Alta,4,32.5,16,2,2,9.3,0,Sí,Chat,Evaluaciones,3.1,5,Baja,0
+USR01453,2026-04-11,28,Femenino,Santo Domingo,Administrativo,Tablet,Media,2,38.8,21,2,2,9.9,2,Sí,Correo,Aula virtual,2.9,6,Baja,0
+USR00024,2025-09-11,40,Femenino,Quito,Estudiante,Laptop,Alta,5,33.4,12,1,3,3.8,3,Sí,Chat,Inscripciones,3.5,3,Media,0
+USR01062,2025-09-07,31,Masculino,Cuenca,Estudiante,Laptop,Alta,4,57.8,14,8,1,6.6,1,No,Autoservicio,Aula virtual,2.9,3,Media,0
+USR01357,2026-02-11,20,Masculino,Loja,Administrativo,Móvil,Media,8,49.9,22,7,1,3,0,Sí,Autoservicio,Inscripciones,5,9,Alta,1
+USR00457,2025-12-01,35,Femenino,Manta,Estudiante,Laptop,Alta,7,37.6,10,10,3,13.6,4,No,Chat,Aula virtual,2.3,3,Baja,0
+USR01127,2025-11-02,36,Femenino,Guayaquil,Estudiante,Laptop,Baja,3,31.9,18,5,7,8,5,Sí,Chat,Aula virtual,2.2,2,Baja,0
+USR01447,2025-10-08,36,Masculino,Cuenca,Estudiante,Móvil,Media,7,34.9,27,6,1,2.9,5,Sí,Chat,Aula virtual,2.5,2,Baja,0
+USR01166,2025-09-06,21,Masculino,Ibarra,Estudiante,Laptop,Media,5,36.7,12,9,2,2.9,1,Sí,Correo,Evaluaciones,3.7,5,Baja,0
+USR01052,2025-03-06,21,Femenino,Guayaquil,Administrativo,Laptop,Baja,5,42.8,21,10,2,7.8,6,Sí,Correo,Aula virtual,1.9,3,Media,0
+USR00980,2025-05-19,27,Masculino,Quito,Estudiante,Laptop,Alta,4,49.3,26,10,1,6.6,0,No,Chat,Aula virtual,3.5,7,Alta,1
+USR00628,2025-05-16,42,Masculino,Quito,Estudiante,Laptop,Baja,5,43.8,19,8,2,4,3,Sí,Autoservicio,Aula virtual,3.3,7,Baja,0
+USR00366,2025-09-11,45,Femenino,Quito,Estudiante,Móvil,Baja,4,67.9,14,11,0,2.9,9,No,Chat,Pagos,1.4,1,Baja,0
+USR00288,2025-11-17,38,Femenino,Quito,Docente,Tablet,Alta,4,20.3,8,8,2,4.4,4,No,Chat,Evaluaciones,1.7,1,Baja,0
+USR00335,2025-07-31,35,Femenino,Manta,Estudiante,Móvil,Alta,6,35.7,16,9,1,2.6,0,No,Correo,Inscripciones,3.2,6,Media,0
+USR00997,2026-01-08,32,Femenino,Ibarra,Estudiante,Móvil,Media,3,33,18,4,1,3,6,Sí,Chat,Inscripciones,2.9,4,Media,0
+USR00719,2026-02-04,34,Femenino,Ibarra,Estudiante,Tablet,Alta,5,5.6,2,15,1,4.5,0,No,Chat,Evaluaciones,2.6,3,Baja,0
+USR00985,2026-02-02,18,Femenino,Guayaquil,Estudiante,Móvil,Alta,5,9.9,6,8,2,6.5,1,No,Chat,Aula virtual,4,6,Baja,0
+USR01286,2026-03-22,20,Masculino,Santo Domingo,Estudiante,Laptop,Alta,7,30.7,16,11,2,4.2,4,No,Correo,Biblioteca digital,1.8,2,Baja,0
+USR00481,2025-12-21,25,Femenino,Quito,Docente,Laptop,Baja,6,54.5,25,7,3,6.3,5,Sí,Chat,Aula virtual,3.1,4,Media,0
+USR00197,2025-10-17,25,Femenino,Guayaquil,Estudiante,Tablet,Baja,8,54.9,21,13,1,4.7,4,No,Chat,Biblioteca digital,2.2,3,Baja,0
+USR01139,2025-06-23,17,Femenino,Quito,Estudiante,Móvil,Alta,4,52.7,18,3,0,3.3,2,Sí,Correo,Evaluaciones,4.2,6,Media,0
+USR01361,2025-02-13,31,Masculino,Quito,Estudiante,Móvil,Baja,5,21.3,10,9,6,8.7,4,No,Autoservicio,Biblioteca digital,1.8,0,Media,0
+USR01383,2026-01-06,18,Masculino,Ibarra,Docente,Laptop,Media,10,17.4,24,8,0,6.2,1,No,Autoservicio,Soporte académico,3.3,5,Alta,1
+USR00543,2025-12-05,57,Masculino,Guayaquil,Docente,Laptop,Baja,7,32.3,13,9,2,10.2,8,Sí,Correo,Evaluaciones,2.1,1,Media,0
+USR00041,2025-05-21,17,Masculino,Quito,Estudiante,Móvil,Alta,1,39.8,18,0,0,5.5,3,Sí,Chat,Evaluaciones,3.7,7,Media,0
+USR00975,2025-11-28,36,Masculino,Guayaquil,Estudiante,Computador de escritorio,Alta,5,24.7,5,7,1,4.6,0,No,Chat,Aula virtual,3.2,5,Media,0
+USR00302,2025-05-22,31,Femenino,Quito,Administrativo,Móvil,Baja,6,47.1,14,7,2,8.6,4,No,Correo,Aula virtual,1.6,1,Media,0
+USR01319,2025-11-08,35,Masculino,Guayaquil,Estudiante,Laptop,Media,5,42.8,12,9,1,2,2,No,Correo,Inscripciones,3.1,6,Media,0
+USR00274,2025-11-16,37,Masculino,Santo Domingo,Estudiante,Laptop,Media,7,27.3,23,3,0,9.5,0,Sí,Chat,Biblioteca digital,3.1,7,Baja,0
+USR00446,2025-01-18,17,Femenino,Guayaquil,Administrativo,Móvil,Alta,4,57.7,17,6,2,2.6,5,Sí,Chat,Soporte académico,4.3,8,Alta,1
+USR01317,2025-12-14,31,Femenino,Manta,Estudiante,Laptop,Baja,5,30.7,17,15,2,4.1,6,No,Correo,Pagos,2.1,2,Baja,0
+USR01356,2026-03-23,32,Femenino,Quito,Estudiante,Móvil,Media,6,69.9,27,2,0,1.1,3,Sí,Chat,Pagos,4.9,6,Alta,1
+USR00345,2025-07-29,31,Masculino,Quito,Estudiante,Laptop,Baja,6,34.6,16,7,2,11.2,5,Sí,Chat,Biblioteca digital,2.8,2,Media,0
+USR00337,2025-10-26,29,Masculino,Santo Domingo,Docente,Laptop,Alta,6,34.9,21,5,1,6.1,0,Sí,Chat,Evaluaciones,4.8,8,Alta,1
+USR01498,2026-03-10,41,Femenino,Ibarra,Estudiante,Laptop,Alta,3,32.6,10,12,0,4.1,3,No,Teléfono,Inscripciones,3.1,6,Media,0
+USR00242,2026-05-14,39,Femenino,Cuenca,Estudiante,Laptop,Media,8,50.7,15,12,2,13,0,No,Correo,Biblioteca digital,1.7,3,Baja,0
+USR01318,2025-10-05,29,Masculino,Santo Domingo,Estudiante,Laptop,Alta,8,20.9,8,7,0,6.6,1,No,Correo,Aula virtual,3.6,5,Baja,0
+USR00478,2026-03-21,23,Femenino,Loja,Docente,Laptop,Alta,10,57.9,23,7,3,7.2,0,Sí,Autoservicio,Evaluaciones,3.8,7,Media,0
+USR01483,2025-12-02,30,Femenino,Quito,Estudiante,Móvil,Alta,5,28.6,18,2,0,1.7,3,Sí,Teléfono,Biblioteca digital,4.3,7,Alta,1
+USR00055,2025-11-27,39,Femenino,Quito,Estudiante,Laptop,Media,3,37.8,17,5,0,4.7,0,Sí,Correo,Aula virtual,4,8,Media,0
+USR00785,2025-10-04,35,Prefiere no decir,Ibarra,Estudiante,Móvil,Baja,6,22.6,20,8,2,3,4,Sí,Autoservicio,Evaluaciones,3,5,Baja,0
+USR00949,2026-03-31,22,Masculino,Quito,Estudiante,Laptop,Baja,3,36.6,14,11,3,10.5,4,No,Autoservicio,Aula virtual,1.6,3,Media,0
+USR01216,2026-04-05,20,Prefiere no decir,Ambato,Estudiante,Móvil,Alta,5,63.3,18,3,0,0.6,4,Sí,Autoservicio,Biblioteca digital,4.2,8,Alta,1
+USR00903,2025-06-23,26,Masculino,Guayaquil,Estudiante,Laptop,Alta,2,66.6,17,4,2,15.5,4,Sí,Autoservicio,Pagos,3.8,4,Baja,0
+USR00102,2025-12-30,28,Femenino,Cuenca,Estudiante,Móvil,Media,6,40.5,17,13,0,2,1,No,Chat,Evaluaciones,1.9,4,Baja,0
+USR00811,2026-04-01,29,Masculino,Cuenca,Estudiante,Móvil,Baja,1,26.9,19,8,2,8.4,4,No,Correo,Soporte académico,1,0,Baja,0
+USR00977,2026-06-26,34,Femenino,Manta,Estudiante,Computador de escritorio,Baja,2,48.6,18,3,3,3.7,7,Sí,Chat,Aula virtual,2.6,3,Baja,0
+USR01346,2025-05-02,35,Masculino,Loja,Estudiante,Móvil,Alta,4,54.7,16,12,1,4.6,1,Sí,Teléfono,Inscripciones,3.7,7,Media,0
+USR00203,2025-02-25,30,Masculino,Quito,Estudiante,Laptop,Baja,6,27.3,12,11,4,6.2,6,No,Chat,Biblioteca digital,1.7,3,Baja,0
+USR00899,2026-05-04,24,Femenino,Quito,Docente,Móvil,Alta,7,33.1,26,2,2,5.5,0,Sí,Correo,Soporte académico,3.5,7,Alta,1
+USR00915,2025-09-20,35,Femenino,Ibarra,Estudiante,Laptop,Media,8,28.1,19,6,2,6.5,3,Sí,Autoservicio,Soporte académico,3,6,Media,0
+USR00375,2026-06-08,33,Femenino,Quito,Estudiante,Móvil,Media,7,33.3,13,7,4,7.4,4,Sí,Teléfono,Aula virtual,3.7,6,Baja,0
+USR00113,2025-01-09,25,Prefiere no decir,Guayaquil,Estudiante,Laptop,Media,1,49.4,9,9,0,1.3,4,No,Chat,Aula virtual,2.4,2,Baja,0
+USR00557,2026-05-16,30,Femenino,Manta,Docente,Tablet,Alta,6,38.4,18,12,2,4,4,No,Chat,Aula virtual,3.3,4,Baja,0
+USR01114,2025-03-23,32,Masculino,Cuenca,Estudiante,Laptop,Media,1,39.2,12,4,0,4,0,No,Teléfono,Evaluaciones,2.1,3,Media,0
+USR00610,2025-06-13,25,Masculino,Cuenca,Docente,Laptop,Baja,10,20.4,19,10,3,11.7,5,No,Chat,Pagos,1,0,Media,0
+USR01202,2025-05-24,17,Masculino,Guayaquil,Docente,Móvil,Media,5,25.3,13,2,0,7.9,6,Sí,Chat,Pagos,3.5,5,Baja,0
+USR00148,2025-05-21,31,Femenino,Santo Domingo,Estudiante,Móvil,Media,6,6.3,20,8,0,7,3,No,Correo,Inscripciones,2.1,2,Baja,0
+USR00011,2025-06-11,41,Masculino,Quito,Estudiante,Tablet,Media,6,44.4,16,6,0,2.5,1,No,Correo,Biblioteca digital,2.3,4,Baja,0
+USR00909,2025-03-09,22,Masculino,Cuenca,Estudiante,Laptop,Alta,6,43.1,18,6,0,3.7,6,Sí,Chat,Biblioteca digital,3.4,6,Baja,0
+USR01367,2025-05-15,42,Femenino,Guayaquil,Estudiante,Computador de escritorio,Media,3,54,14,8,3,4.5,1,No,Autoservicio,Aula virtual,2.9,4,Baja,0
+USR01277,2026-04-20,44,Femenino,Guayaquil,Estudiante,Móvil,Media,6,23.5,13,7,3,5.4,3,No,Chat,Evaluaciones,2.6,4,Media,0
+USR01382,2026-06-21,29,Femenino,Loja,Docente,Móvil,Baja,1,34.6,15,12,1,5.1,3,No,Correo,Inscripciones,1,3,Media,0
+USR01094,2025-08-16,42,Femenino,Manta,Estudiante,Móvil,Alta,6,27.1,23,2,2,4.7,2,Sí,Autoservicio,Evaluaciones,4.2,8,Alta,1
+USR01398,2025-05-08,27,Femenino,Guayaquil,Docente,Laptop,Media,6,23.3,20,6,3,3.9,3,Sí,Chat,Soporte académico,3.7,6,Media,0
+USR00891,2025-08-10,39,Femenino,Guayaquil,Docente,Laptop,Media,3,28.4,16,6,0,2.1,3,Sí,Autoservicio,Aula virtual,3.5,5,Media,0
+USR00150,2025-06-24,39,Femenino,Santo Domingo,Administrativo,Laptop,Alta,3,53.4,21,1,0,6.3,2,Sí,Chat,Aula virtual,4.7,9,Media,0
+USR00198,2026-05-19,28,Masculino,Loja,Estudiante,Móvil,Media,5,30.7,10,6,1,2.5,0,No,Autoservicio,Evaluaciones,2.6,4,Baja,0
+USR01069,2026-02-11,45,Femenino,Santo Domingo,Estudiante,Laptop,Media,5,14.2,13,6,1,5.5,1,Sí,Correo,Biblioteca digital,3.9,5,Media,0
+USR00209,2025-11-16,37,Masculino,Quito,Estudiante,Móvil,Alta,4,27.5,13,17,1,8.5,0,No,Chat,Inscripciones,2.7,5,Media,0
+USR00823,2025-07-05,40,Femenino,Loja,Estudiante,Laptop,Media,7,11.2,15,6,3,4.4,1,No,Teléfono,Aula virtual,2.9,2,Media,0
+USR00358,2026-05-30,17,Prefiere no decir,Quito,Administrativo,Móvil,Media,1,67.5,7,13,2,14.8,5,No,Correo,Inscripciones,2.9,5,Baja,0
+USR00916,2025-09-11,20,Femenino,Ambato,Estudiante,Tablet,,7,70.9,16,6,1,6.2,3,Sí,Correo,Biblioteca digital,3.7,7,Alta,1
+USR01097,2025-02-03,29,Masculino,Manta,Docente,Laptop,Media,6,32.2,24,7,1,5.6,1,Sí,Chat,Aula virtual,4,7,Baja,0
+USR01137,2026-01-17,29,Masculino,Quito,Estudiante,Laptop,Media,4,45.2,6,11,2,4.7,3,No,Correo,Inscripciones,2.5,5,Baja,0
+USR00969,2026-01-29,39,Femenino,Manta,Estudiante,Móvil,Media,2,31.9,28,6,1,2.2,4,Sí,Chat,Inscripciones,3.8,8,Media,0
+USR00100,2026-02-12,22,Prefiere no decir,Quito,Estudiante,Móvil,Media,4,40.9,12,3,0,13.8,2,Sí,Chat,Evaluaciones,2.4,5,Baja,0
+USR00048,2025-08-22,23,Femenino,Loja,Estudiante,Móvil,,4,19.3,19,5,0,2.9,4,Sí,Chat,Soporte académico,4.7,8,Media,0
+USR01105,2025-02-12,27,Prefiere no decir,Quito,Estudiante,Laptop,Media,1,49.4,10,6,0,2.6,5,No,Autoservicio,Aula virtual,2.1,4,Baja,0
+USR00936,2025-12-22,36,Masculino,Cuenca,Estudiante,Laptop,Media,4,40.8,15,6,1,5.7,0,Sí,Correo,Aula virtual,5,7,Alta,1
+USR01315,2025-05-21,32,Femenino,Ambato,Estudiante,Móvil,Media,2,16.9,6,5,2,3.2,3,No,Autoservicio,Inscripciones,3,2,Baja,0
+USR00219,2026-05-24,18,Femenino,Quito,Estudiante,Móvil,Alta,5,58.9,25,8,0,3,0,Sí,Chat,Inscripciones,4.2,8,Media,0
+USR00746,2025-03-09,17,Femenino,Ibarra,Estudiante,Móvil,Media,6,31.2,19,6,2,9.8,3,Sí,Teléfono,Aula virtual,3.7,6,Baja,0
+USR01150,2026-02-24,21,Masculino,Guayaquil,Estudiante,Tablet,Alta,8,43.9,7,6,0,3.5,2,No,Correo,Pagos,3.9,4,Baja,0
+USR00743,2025-07-07,30,Femenino,Santo Domingo,Docente,Laptop,,5,48.6,13,12,3,3.8,3,No,Chat,Aula virtual,3.1,4,Baja,0
+USR00914,2026-02-14,17,Femenino,Ibarra,Administrativo,Laptop,Baja,7,39.9,18,6,1,3.6,3,Sí,Correo,Evaluaciones,3.7,4,Baja,0
+USR00280,2026-02-04,42,Masculino,Ambato,Administrativo,Laptop,Baja,6,38.9,12,6,4,6.5,6,Sí,Chat,Pagos,2.2,5,Baja,0
+USR00571,2025-10-24,17,Masculino,Cuenca,Estudiante,Móvil,Media,5,22.6,12,10,0,1.6,5,No,Chat,Inscripciones,1.8,2,Baja,0
+USR01288,2025-05-16,31,Masculino,Quito,Estudiante,Laptop,Media,5,19.4,18,7,2,4.8,1,No,Chat,Aula virtual,2,2,Media,0
+USR00463,2025-10-04,33,Femenino,Manta,Estudiante,Laptop,Alta,4,29.4,15,7,0,6.6,1,Sí,Autoservicio,Aula virtual,3.8,6,Media,0
+USR01487,2025-01-05,30,Masculino,Quito,Estudiante,Laptop,Media,12,76.3,28,2,0,2,0,Sí,Autoservicio,Evaluaciones,3.7,7,Media,0
+USR00805,2025-01-21,48,Femenino,Quito,Estudiante,Laptop,Baja,7,32.8,19,2,5,6.7,4,Sí,Autoservicio,Evaluaciones,3.3,5,Media,0
+USR00551,2025-02-22,33,Masculino,Cuenca,Administrativo,Laptop,Alta,7,64.5,33,2,0,5.4,2,Sí,Chat,Biblioteca digital,3.9,6,Media,0
+USR01060,2025-05-10,40,Femenino,Ambato,Estudiante,Laptop,Media,7,60.1,16,4,0,3.9,2,No,Correo,Evaluaciones,3.4,4,Media,0
+USR01465,2026-04-02,36,Femenino,Guayaquil,Estudiante,Móvil,Media,4,43.5,11,5,3,9,3,Sí,Chat,Aula virtual,2.4,2,Media,0
+USR00407,2026-01-02,36,Femenino,Quito,Docente,Móvil,Alta,8,56.6,18,2,0,1.4,2,Sí,Chat,Aula virtual,4.1,6,Alta,1
+USR00534,2025-06-25,33,Femenino,Guayaquil,Estudiante,Tablet,Media,7,34.4,16,15,3,4.8,2,No,Chat,Pagos,2.9,5,Baja,0
+USR00842,2025-01-13,33,Femenino,Guayaquil,Estudiante,Laptop,Alta,7,55.6,19,5,0,5.2,1,Sí,Correo,Aula virtual,4.3,8,Baja,0
+USR00381,2025-02-10,17,Femenino,Quito,Docente,Laptop,Alta,3,14.2,3,5,4,10,4,No,Chat,Aula virtual,3.6,4,Baja,0
+USR01219,2026-04-24,25,Masculino,Santo Domingo,Estudiante,Laptop,Media,6,65.4,6,7,0,2,3,No,Correo,Soporte académico,2,4,Media,0
+USR00116,2025-03-11,17,Femenino,Quito,Docente,Computador de escritorio,Media,4,45.5,17,7,0,8.2,1,Sí,Correo,Evaluaciones,3,6,Media,0
+USR01064,2025-07-21,28,Masculino,Quito,Estudiante,Laptop,Baja,8,44.1,14,6,2,6,2,No,Chat,Pagos,1,1,Baja,0
+USR00178,2025-02-28,27,Masculino,Loja,Estudiante,Laptop,Media,8,47.5,13,8,1,6.9,2,No,Teléfono,Aula virtual,1.9,4,Media,0
+USR00465,2025-03-27,35,Masculino,Guayaquil,Estudiante,Laptop,Media,6,46,28,4,2,4.3,0,Sí,Teléfono,Biblioteca digital,4.5,8,Alta,1
+USR00504,2025-04-22,42,Masculino,Quito,Estudiante,Laptop,Media,4,39,22,9,2,5.7,0,Sí,Chat,Inscripciones,5,8,Media,0
+USR00002,2025-06-09,31,Femenino,Ambato,Estudiante,Laptop,Media,4,45.1,19,4,0,7.6,4,,Chat,Aula virtual,3.4,6,Media,0
+USR00134,2026-01-15,26,Masculino,Guayaquil,Estudiante,Laptop,Media,5,19.3,22,6,0,4.5,0,Sí,Chat,Aula virtual,4.4,6,Alta,1
+USR00044,2025-06-08,46,Masculino,Cuenca,Docente,Móvil,Alta,5,40,25,7,0,2.6,1,Sí,Correo,Aula virtual,4.4,8,Baja,0
+USR00123,2026-01-02,36,Femenino,Quito,Estudiante,Laptop,Alta,5,50.3,11,10,2,4,1,No,Correo,Aula virtual,2.9,5,Baja,0
+USR00390,2026-03-11,27,Femenino,Manta,Estudiante,Laptop,Alta,6,46.1,7,6,2,13.7,2,No,Chat,Pagos,2.6,3,Baja,0
+USR00931,2025-12-05,33,Femenino,Guayaquil,Estudiante,Tablet,Media,5,27.8,14,7,0,3.9,1,Sí,Correo,Inscripciones,3.9,7,Baja,0
+USR00400,2025-09-23,44,Femenino,Quito,Docente,Laptop,Alta,3,45.3,22,4,3,11.4,0,Sí,Chat,Soporte académico,4.4,7,Media,0
+USR00085,2026-04-02,34,Femenino,Guayaquil,Estudiante,Móvil,Alta,3,35.4,6,11,1,2.9,3,No,Chat,Evaluaciones,1.5,1,Baja,0
+USR00409,2025-12-22,18,Masculino,Quito,Estudiante,Tablet,Media,5,56.5,27,6,2,4.2,1,Sí,Chat,Biblioteca digital,2.5,4,Baja,0
+USR00788,2025-07-07,26,Femenino,Guayaquil,Administrativo,Móvil,Baja,5,46.9,22,8,2,3.9,3,Sí,Chat,Aula virtual,2.5,3,Baja,0
+USR00378,2025-05-04,42,Femenino,Ibarra,Docente,Móvil,Media,7,26.8,23,4,1,2.2,2,Sí,Chat,Soporte académico,3.6,8,Media,0
+USR00451,2026-03-05,33,Prefiere no decir,Santo Domingo,Estudiante,Tablet,Alta,9,33.6,20,6,2,3,2,No,Correo,Evaluaciones,2.9,5,Baja,0
+USR01178,2026-02-01,27,Femenino,Cuenca,Administrativo,Laptop,Media,4,58.9,22,6,1,10.9,2,Sí,Chat,Evaluaciones,3.5,5,Media,0
+USR01291,2025-08-23,27,Masculino,Manta,Estudiante,Móvil,Media,1,61.8,17,6,1,1.6,1,Sí,Chat,Soporte académico,3.1,3,Baja,0
+USR00403,2025-06-30,22,Masculino,Quito,Estudiante,Laptop,Media,6,75.2,11,10,1,5.8,0,No,Correo,Inscripciones,2.3,4,Baja,0
+USR01167,2025-01-11,36,Masculino,Quito,Estudiante,Computador de escritorio,Baja,5,45.5,15,9,4,4.2,4,Sí,Correo,Aula virtual,3.1,6,Media,0
+USR01018,2025-08-25,17,Masculino,Manta,Estudiante,Móvil,Media,6,41.7,7,11,1,2.8,2,No,Chat,Aula virtual,3.1,4,Media,0
+USR00822,2025-03-12,32,Masculino,Quito,Estudiante,Tablet,Alta,4,35.8,19,4,1,4.2,0,Sí,Chat,Biblioteca digital,4.7,7,Alta,1
+USR00657,2026-04-13,40,Femenino,Ambato,Estudiante,Móvil,Media,6,40.7,9,0,0,0.7,3,Sí,Correo,Aula virtual,3,2,Alta,1
+USR01076,2025-08-29,36,Masculino,Santo Domingo,Estudiante,Tablet,Baja,4,31.4,8,17,2,2.2,6,No,Autoservicio,Aula virtual,1.3,0,Media,0
+USR01500,2026-01-28,23,Femenino,Quito,Estudiante,Laptop,Media,1,45.7,16,3,2,3.9,2,Sí,Autoservicio,Aula virtual,2.9,6,Baja,0
+USR00343,2025-11-13,31,Femenino,Quito,Estudiante,Móvil,Media,7,28.6,5,0,2,3.4,2,Sí,Correo,Aula virtual,3.5,6,Media,0
+USR01349,2026-02-16,26,Masculino,Loja,Estudiante,Laptop,Alta,6,43.6,25,4,0,1.3,3,Sí,Chat,Aula virtual,3.3,5,Alta,1
+USR01271,2025-07-31,21,Femenino,Cuenca,Estudiante,Laptop,Media,4,42.5,22,3,2,9.4,1,Sí,Chat,Aula virtual,2.2,4,Baja,0
+USR01057,2025-12-10,38,Masculino,Cuenca,Estudiante,Tablet,Alta,5,50.9,3,10,1,4.6,3,No,Chat,Aula virtual,2.9,3,Media,0
+USR00904,2026-02-16,25,Masculino,Guayaquil,Estudiante,Laptop,Alta,8,32.9,21,6,3,12.8,0,No,Chat,Aula virtual,2.5,4,Media,0
+USR01108,2025-03-26,27,Masculino,Santo Domingo,Docente,Laptop,Alta,3,58.1,21,10,2,5.2,0,No,Teléfono,Soporte académico,3.2,5,Baja,0
+USR01025,2025-09-26,53,Masculino,Quito,Estudiante,Tablet,Baja,6,32.7,10,12,3,2.7,1,No,Correo,Biblioteca digital,2.5,4,Baja,0
+USR01424,2025-08-03,20,Femenino,Ambato,Docente,Móvil,Baja,8,38.8,24,6,3,6.6,6,Sí,Correo,Inscripciones,2.7,3,Media,0
+USR01016,2026-04-01,42,Masculino,Loja,Docente,Laptop,Alta,3,76.8,7,5,0,66.4,0,Sí,Autoservicio,Aula virtual,4.7,8,Alta,1
+USR00536,2025-07-05,43,Femenino,Santo Domingo,Estudiante,Laptop,Baja,6,28.2,10,7,4,4.9,6,Sí,Correo,Inscripciones,2.4,4,Baja,0
+USR00958,2025-04-03,29,Femenino,Guayaquil,Estudiante,Laptop,Media,3,28,22,5,1,5.9,2,Sí,Chat,Aula virtual,3,5,Media,0
+USR01006,2025-11-05,44,Femenino,Ambato,Estudiante,Móvil,Baja,7,20.5,18,9,0,3.9,6,Sí,Chat,Aula virtual,2.8,5,Baja,0
+USR00921,2025-11-20,33,Femenino,Guayaquil,Estudiante,Laptop,Media,4,44.3,5,9,1,16.5,1,No,Chat,Pagos,1.5,2,Baja,0
+USR00063,2026-06-23,17,Femenino,Quito,Docente,Laptop,Media,4,28.4,24,1,0,5.5,3,Sí,Teléfono,Pagos,3.7,6,Baja,0
+USR01244,2025-09-16,22,Masculino,Ibarra,Docente,Laptop,Media,7,29.3,12,0,0,11,3,Sí,Correo,Biblioteca digital,2.5,4,Media,0
+USR00293,2025-07-10,22,Femenino,Guayaquil,Estudiante,Laptop,Alta,6,29.9,19,0,2,5,4,Sí,Correo,Inscripciones,4.8,8,Alta,1
+USR00724,2025-08-24,42,Femenino,Cuenca,Docente,Laptop,Alta,10,51,15,4,0,6.8,3,Sí,Chat,Aula virtual,4.2,8,Media,0
+USR01027,2025-09-10,26,Femenino,Cuenca,Estudiante,Móvil,Media,6,56.6,15,4,1,6.6,2,Sí,Correo,Aula virtual,4.1,5,Media,0
+USR00892,2025-01-14,29,Femenino,Ibarra,Docente,Laptop,Media,9,21.8,14,8,0,2.9,2,Sí,Correo,Inscripciones,3.9,6,Media,0
+USR00095,2025-12-06,17,Femenino,Guayaquil,Estudiante,Laptop,Alta,3,75.6,18,12,0,5.5,1,No,Correo,Aula virtual,2.7,5,Media,0
+USR00507,2026-05-14,31,Masculino,Quito,Estudiante,Laptop,Media,12,47.6,23,9,1,5.4,0,Sí,Chat,Biblioteca digital,3.6,6,Media,0
+USR01454,2025-05-25,23,Femenino,Manta,Docente,Móvil,Media,9,27.4,25,3,0,4.8,4,No,Autoservicio,Evaluaciones,2.7,6,Baja,0
+USR00354,2026-01-30,32,Femenino,Quito,Estudiante,Móvil,Media,6,23,12,5,2,4.8,2,No,Correo,Aula virtual,2.4,3,Media,0
+USR00768,2025-05-16,25,Masculino,Guayaquil,Estudiante,Laptop,Media,9,50.8,19,0,2,3.7,0,Sí,Autoservicio,Inscripciones,3.8,6,Alta,1
+USR01049,2025-10-31,17,Masculino,Santo Domingo,Estudiante,Computador de escritorio,Media,3,67.8,12,6,1,4,0,No,Autoservicio,Aula virtual,3.1,6,Media,0
+USR01142,2026-01-18,28,Masculino,Quito,Estudiante,Móvil,Media,7,45.7,20,9,0,9.2,1,Sí,Chat,Aula virtual,3.9,7,Media,0
+USR01326,2025-02-16,25,Masculino,Quito,Estudiante,Laptop,Media,5,41.2,7,10,3,6.5,1,No,Chat,Aula virtual,2.2,3,Media,0
+USR01019,2025-01-07,29,Femenino,Cuenca,Docente,Laptop,Baja,7,49.7,27,5,3,5.3,9,Sí,Correo,Aula virtual,1.5,2,Media,0
+USR00437,2026-05-26,32,Femenino,Quito,Administrativo,Tablet,Media,8,44.2,17,3,0,10.6,1,No,Chat,Evaluaciones,2.6,4,Media,0
+USR01334,2025-12-17,19,Prefiere no decir,Guayaquil,Estudiante,Tablet,Media,5,55.4,21,8,1,2.9,2,No,Correo,Biblioteca digital,2.8,5,Baja,0
+USR00525,2026-04-23,26,Masculino,Loja,Estudiante,Laptop,Media,6,50.9,17,7,0,5.5,2,Sí,Teléfono,Soporte académico,3.7,7,Media,0
+USR01274,2025-08-26,17,Femenino,Quito,Estudiante,Laptop,Media,5,57.3,8,7,1,1.7,1,No,Chat,Inscripciones,1.4,4,Media,0
+USR00111,2025-03-06,33,Prefiere no decir,Loja,Estudiante,Laptop,Media,3,51.1,7,5,1,10.2,5,Sí,Chat,Evaluaciones,3.2,6,Baja,0
+USR01082,2025-12-26,31,Femenino,Guayaquil,Estudiante,Tablet,Media,9,5,19,1,0,3,1,Sí,Autoservicio,Aula virtual,4.6,7,Alta,1
+USR01063,2025-05-30,31,Femenino,Quito,Docente,Tablet,Alta,9,47.7,24,4,1,3.4,3,Sí,Chat,Evaluaciones,4.5,6,Alta,1
+USR01322,2025-11-25,32,Masculino,Loja,Estudiante,Móvil,Baja,6,26.7,21,8,2,13.5,5,No,Chat,Aula virtual,1,1,Baja,0
+USR01338,2026-06-15,21,Femenino,Ambato,Estudiante,Laptop,Media,3,60.9,17,2,0,2.7,2,Sí,Correo,Aula virtual,3.4,5,Baja,0
+USR00237,2025-09-19,25,Masculino,Ambato,Estudiante,Móvil,Media,3,13.1,15,5,1,4,2,Sí,Correo,Aula virtual,4,7,Media,0
+USR00297,2026-05-12,17,Masculino,Quito,Estudiante,Tablet,Baja,6,68.8,18,6,1,4.7,2,Sí,Correo,Evaluaciones,3,4,Media,0
+USR01228,2025-06-03,23,Femenino,Guayaquil,Administrativo,Móvil,Media,7,29.3,22,4,1,7.2,3,Sí,Correo,Biblioteca digital,2.9,4,Media,0
+USR01008,2025-04-03,20,Femenino,Quito,Estudiante,Laptop,Baja,1,35.9,19,5,3,,5,Sí,Chat,Pagos,1,2,Baja,0
+USR01102,2025-11-03,35,Masculino,Loja,Estudiante,Laptop,Media,3,11.5,18,8,0,10.1,0,Sí,Autoservicio,Evaluaciones,4,6,Media,0
+USR01009,2025-05-10,37,Prefiere no decir,Quito,Estudiante,Laptop,Baja,2,44.9,17,10,4,5,4,Sí,Autoservicio,Pagos,3.2,5,Baja,0
+USR00545,2025-09-25,34,Masculino,Santo Domingo,Administrativo,Móvil,Media,6,44.9,22,5,0,20,2,Sí,Autoservicio,Biblioteca digital,3.8,6,Baja,0
+USR00083,2025-01-12,30,Femenino,Manta,Estudiante,Laptop,Alta,7,34.6,9,11,0,3.3,3,No,Autoservicio,Evaluaciones,3,4,Media,0
+USR01430,2025-04-29,22,Femenino,Manta,Estudiante,Móvil,Alta,4,38.8,15,14,2,11,2,No,Autoservicio,Evaluaciones,2.7,3,Baja,0
+USR01379,2025-07-13,31,Femenino,Quito,Docente,Laptop,Media,10,57.3,24,4,0,2.7,2,Sí,Correo,Aula virtual,3.1,4,Media,0
+USR00269,2026-03-15,32,Masculino,Guayaquil,Estudiante,Laptop,Alta,6,39.3,18,6,2,5.6,6,Sí,Chat,Biblioteca digital,3,7,Media,0
+USR01116,2025-12-06,29,Femenino,Manta,Estudiante,Laptop,Alta,7,30.2,19,12,4,6.8,1,No,Correo,Aula virtual,3.1,5,Baja,0
+USR00702,2025-10-04,20,Masculino,Quito,Estudiante,Móvil,Media,8,41,17,1,0,7.6,2,,Chat,Inscripciones,3.1,5,Alta,1
+USR00584,2025-02-19,22,Femenino,Quito,Estudiante,Laptop,Media,2,53.8,14,8,0,2,1,No,Chat,Inscripciones,2.5,3,Baja,0
+USR00046,2025-09-01,42,Masculino,Quito,Estudiante,Laptop,Media,3,59.4,14,5,0,16.3,0,Sí,Chat,Biblioteca digital,3.2,7,Media,0
+USR01350,2026-01-01,25,Femenino,Cuenca,Docente,Laptop,Media,7,17.4,22,4,2,3.9,0,Sí,Correo,Biblioteca digital,3.8,6,Baja,0
+USR00791,2025-12-05,17,Femenino,Loja,Estudiante,Laptop,Media,9,34.9,17,0,2,3,0,Sí,Chat,Inscripciones,3.3,5,Alta,1
+USR00347,2026-01-19,17,Masculino,Ibarra,Estudiante,Móvil,Media,5,49.9,12,7,1,3.9,5,No,Chat,Aula virtual,1.8,1,Media,0
+USR00942,2025-07-08,35,Masculino,Guayaquil,Estudiante,Móvil,Alta,7,29.8,19,0,2,3,3,Sí,Correo,Aula virtual,4.8,8,Alta,1
+USR00086,2026-01-22,23,Femenino,Manta,Estudiante,Móvil,Media,1,31.3,15,5,2,7.3,3,Sí,Chat,Biblioteca digital,2.4,4,Baja,0
+USR00778,2026-06-20,33,Femenino,Quito,Estudiante,Tablet,Media,3,44,13,5,0,3.9,3,No,Autoservicio,Aula virtual,2.1,2,Media,0
+USR00894,2025-04-24,34,Masculino,Ambato,Docente,Laptop,Alta,1,36.9,16,9,0,2.9,2,No,Chat,Aula virtual,2.9,5,Baja,0
+USR01112,2025-12-16,32,Femenino,Cuenca,Estudiante,Laptop,Media,7,40.1,27,10,0,3.2,4,No,Correo,Biblioteca digital,1.7,2,Baja,0
+USR01328,2025-06-18,23,Femenino,Ambato,Estudiante,Laptop,Media,7,43.9,17,4,3,10.6,1,No,Correo,Aula virtual,2.6,4,Baja,0
+USR00960,2025-11-18,27,Femenino,Cuenca,Estudiante,Móvil,Alta,5,18.2,25,6,0,3.9,5,Sí,Correo,Evaluaciones,3.1,5,Baja,0
+USR01495,2025-01-14,17,Masculino,Quito,Estudiante,Móvil,,7,10.2,14,8,3,7.7,4,Sí,Teléfono,Soporte académico,3.4,3,Baja,0
+USR00613,2025-05-01,50,Femenino,Manta,Estudiante,Laptop,Media,12,64.5,21,2,0,1.5,3,Sí,Correo,Pagos,3,4,Baja,0
+USR00817,2025-02-09,19,Femenino,Guayaquil,Estudiante,Móvil,Alta,8,48.6,30,5,1,5.4,3,Sí,Autoservicio,Evaluaciones,3.6,5,Alta,1
+USR01496,2025-01-10,38,Femenino,Santo Domingo,Estudiante,Laptop,Alta,5,32.7,21,4,3,6.7,0,Sí,Chat,Evaluaciones,4.7,9,Baja,0
+USR00272,2025-02-02,26,Prefiere no decir,Santo Domingo,Estudiante,Móvil,Alta,3,12.6,19,3,0,1.9,3,Sí,Chat,Aula virtual,3.5,5,Baja,0
+USR00241,2026-05-09,39,Prefiere no decir,Guayaquil,Estudiante,Laptop,Alta,7,26.5,24,9,0,1.5,4,No,Chat,Evaluaciones,2.8,4,Media,0
+USR01221,2026-06-13,24,Masculino,Cuenca,Estudiante,Móvil,Alta,8,28.5,22,9,3,4.2,3,No,Correo,Biblioteca digital,2.8,3,Media,0
+USR00173,2025-03-29,33,Femenino,Guayaquil,Estudiante,Laptop,Baja,8,33.3,17,8,0,4,4,No,Teléfono,Inscripciones,1.9,4,Media,0
+USR00163,2025-07-17,29,Femenino,Ibarra,Estudiante,Móvil,Media,6,24,11,6,4,5.4,5,Sí,Correo,Aula virtual,3.6,7,Alta,1
+USR00040,2025-10-30,36,Femenino,Loja,Estudiante,Laptop,Alta,5,12.8,22,6,1,3,5,No,Autoservicio,Soporte académico,2.8,6,Media,0
+USR00698,2025-01-28,17,Masculino,Manta,Estudiante,Laptop,Media,4,45.2,20,5,1,1.8,0,,Autoservicio,Biblioteca digital,4.1,7,Alta,1
+USR00028,2025-12-05,26,Femenino,Guayaquil,Estudiante,Laptop,Alta,4,33.3,17,2,0,6.4,0,Sí,Teléfono,Soporte académico,4.1,8,Baja,0
+USR00232,2025-08-31,35,Masculino,Quito,Docente,Móvil,Baja,1,16.2,20,10,7,12.4,5,Sí,Correo,Pagos,3.3,6,Baja,0
+USR01117,2026-03-14,23,Masculino,Guayaquil,Docente,Móvil,Media,6,23.4,16,8,2,5.6,4,No,Chat,Pagos,2.6,4,Baja,0
+USR01441,2025-11-21,33,Femenino,Quito,Estudiante,Tablet,Baja,8,29.1,17,17,0,10.6,6,No,Chat,Inscripciones,1.2,1,Baja,0
+USR00629,2026-02-25,23,Femenino,Manta,Docente,Laptop,Media,8,5,22,2,1,4,2,Sí,Correo,Soporte académico,2.6,5,Baja,0
+USR00071,2025-06-07,36,Masculino,Guayaquil,Docente,Laptop,Alta,10,27.1,16,1,2,5.1,0,Sí,Autoservicio,Evaluaciones,5,6,Alta,1
+USR00928,2025-08-16,17,Femenino,Quito,Docente,Laptop,Media,6,47.2,20,2,1,5.1,1,Sí,Chat,Aula virtual,4.7,8,Alta,1
+USR01327,2025-09-19,32,Femenino,Guayaquil,Administrativo,Móvil,Media,5,34,16,10,1,10.7,4,Sí,Autoservicio,Pagos,3.7,8,Media,0
+USR00953,2025-01-13,22,Femenino,Cuenca,Estudiante,Tablet,Alta,4,31.1,29,7,1,3,0,No,Autoservicio,Aula virtual,3.3,6,Media,0
+USR00580,2025-12-26,26,Masculino,Manta,Administrativo,Laptop,Media,4,9.9,27,3,0,5,1,,Correo,Evaluaciones,3.8,6,Alta,1
+USR00874,2026-06-13,26,Masculino,Ibarra,Estudiante,Laptop,Baja,8,73.3,26,3,4,10.9,4,Sí,Autoservicio,Inscripciones,1.6,3,Baja,0
+USR01437,2025-01-04,36,Femenino,Guayaquil,Estudiante,Móvil,Media,4,16,13,6,1,6.6,1,No,Autoservicio,Aula virtual,3.2,5,Media,0
+USR00757,2025-01-03,24,Femenino,Ambato,Estudiante,Tablet,Media,1,29.7,15,5,1,2,0,Sí,Autoservicio,Aula virtual,4.5,7,Alta,1
+USR00622,2025-12-30,45,Femenino,Manta,Estudiante,Laptop,Alta,6,48.4,11,4,0,4.1,0,Sí,Chat,Biblioteca digital,4.5,7,Media,0
+USR00106,2026-06-08,36,Femenino,Cuenca,Estudiante,Laptop,Media,6,51.6,19,6,2,,0,Sí,Autoservicio,Soporte académico,3.3,7,Baja,0
+USR00967,2026-03-19,31,Femenino,Quito,Estudiante,Móvil,Alta,6,33.4,16,8,0,4.6,0,Sí,Autoservicio,Pagos,4.3,8,Alta,1
+USR00353,2026-05-02,17,Femenino,Cuenca,Administrativo,Laptop,Media,5,37.9,11,4,1,7,5,No,Autoservicio,Evaluaciones,1.6,0,Baja,0
+USR00742,2026-05-31,45,Femenino,Quito,Estudiante,Móvil,Media,3,69.9,9,8,4,5.9,3,No,Autoservicio,Soporte académico,2.3,4,Baja,0
+USR00858,2026-03-05,28,Masculino,Guayaquil,Estudiante,Móvil,Media,8,30,5,8,2,8.1,1,Sí,Chat,Soporte académico,3.2,5,Media,0
+USR01091,2026-04-02,47,Masculino,Guayaquil,Administrativo,Móvil,Media,9,35.1,13,6,0,2.2,1,Sí,Correo,Biblioteca digital,3.7,6,Media,0
+USR00382,2025-12-31,56,Femenino,Ibarra,Estudiante,Computador de escritorio,Media,8,54.4,12,11,2,6.6,0,No,Teléfono,Evaluaciones,2.8,5,Media,0
+USR00383,2026-02-09,34,Masculino,Guayaquil,Docente,Laptop,Media,9,52.5,21,4,2,6.3,2,Sí,Autoservicio,Aula virtual,4,5,Media,0
+USR01017,2026-03-13,34,Masculino,Quito,Estudiante,Laptop,Media,7,5.6,10,6,2,,3,No,Chat,Soporte académico,1.8,3,Baja,0
+USR00321,2025-03-16,33,Masculino,Cuenca,Estudiante,Laptop,Baja,2,50.7,17,9,2,3.4,7,Sí,Chat,Evaluaciones,2.7,3,Baja,0
+USR00467,2025-06-24,23,Femenino,Loja,Estudiante,Laptop,Baja,3,41.1,17,13,2,3.5,3,No,Correo,Evaluaciones,1,2,Baja,0
+USR00706,2025-05-22,27,Femenino,Quito,Administrativo,Tablet,Media,7,35.3,22,7,1,4.6,1,No,Chat,Soporte académico,2.4,5,Baja,0
+USR01256,2026-03-25,42,Femenino,Cuenca,Estudiante,Laptop,Alta,4,31.4,20,7,1,4.7,1,Sí,Chat,Evaluaciones,4.6,8,Baja,0
+USR01093,2026-05-17,20,Masculino,Quito,Estudiante,Laptop,Baja,6,38.7,19,9,2,5.2,4,No,Teléfono,Aula virtual,1,1,Baja,0
+USR00562,2026-02-17,22,Femenino,Santo Domingo,Estudiante,Laptop,Alta,2,87.2,13,2,4,7.7,2,Sí,Chat,Aula virtual,3.8,6,Alta,1
+USR00585,2025-08-17,23,Masculino,Quito,Estudiante,Móvil,Alta,8,55.4,19,2,2,5.5,2,Sí,Chat,Evaluaciones,4,6,Baja,0
+USR00389,2025-08-13,29,Femenino,Ibarra,Estudiante,Móvil,Alta,3,54.7,5,10,0,0.5,3,No,Chat,Pagos,3.1,6,Baja,0
+USR01048,2025-09-19,19,Femenino,Guayaquil,Docente,Móvil,Media,8,41.2,15,0,3,3.2,2,Sí,Autoservicio,Aula virtual,2.8,5,Baja,0
+USR00450,2026-06-17,19,Femenino,Quito,Docente,Laptop,Media,1,50.3,13,1,2,2.6,1,Sí,Teléfono,Pagos,4.2,8,Alta,1
+USR00360,2025-11-08,17,Femenino,Quito,Estudiante,Móvil,Media,5,33.8,18,1,0,1.9,0,Sí,Chat,Evaluaciones,4.1,7,Baja,0
+USR01489,2025-09-30,37,Masculino,Quito,Estudiante,Laptop,,7,41.2,15,3,1,11.8,0,Sí,Chat,Aula virtual,5,9,Alta,1
+USR00223,2025-04-11,40,Masculino,Quito,Estudiante,Móvil,Alta,1,27.7,9,7,2,2.6,1,Sí,Chat,Soporte académico,3.9,6,Baja,0
+USR01113,2026-01-26,22,Masculino,Cuenca,Docente,Laptop,Media,9,44.9,17,10,1,5.8,0,,Chat,Aula virtual,3.6,4,Baja,0
+USR00115,2025-07-30,20,Masculino,Quito,Estudiante,Tablet,Alta,5,21.7,15,13,0,10.2,0,Sí,Chat,Biblioteca digital,4.8,8,Baja,0
+USR00299,2026-04-25,36,Masculino,Ibarra,Docente,Móvil,Alta,7,30.6,24,8,0,1.3,4,No,Teléfono,Evaluaciones,3.3,6,Baja,0
+USR00751,2026-04-13,21,Masculino,Ambato,Estudiante,Laptop,Media,9,44.8,17,3,2,9.1,2,Sí,Chat,Evaluaciones,3.1,7,Baja,0
+USR01247,2026-02-16,34,Masculino,Loja,Estudiante,Computador de escritorio,Media,6,51.7,16,9,2,3.6,0,No,Chat,Aula virtual,2.5,4,Media,0
+USR01499,2025-08-02,23,Femenino,Manta,Estudiante,Laptop,Media,7,56,20,7,0,8.8,2,Sí,Correo,Aula virtual,2.6,6,Media,0
+USR01028,2025-07-27,27,Femenino,Ambato,Estudiante,Laptop,,2,34.5,16,6,0,1.5,3,Sí,Teléfono,Pagos,4.5,6,Alta,1
+USR01351,2026-05-13,17,Masculino,Guayaquil,Estudiante,Laptop,Alta,2,68,18,5,1,7,0,No,Chat,Biblioteca digital,3.3,7,Media,0
+USR00766,2025-11-13,24,Femenino,Ambato,Estudiante,Laptop,Media,5,40.8,14,1,0,2.8,1,Sí,Chat,Evaluaciones,4,7,Baja,0
+USR00312,2025-12-15,41,Femenino,Guayaquil,Docente,Laptop,Media,6,52.7,26,11,1,6,1,Sí,Chat,Aula virtual,3.9,7,Baja,0
+USR01476,2025-07-01,18,Femenino,Guayaquil,Estudiante,Laptop,Media,6,56.5,29,5,1,3.8,4,Sí,Chat,Evaluaciones,2.8,5,Baja,0
+USR00496,2026-02-12,21,Masculino,Manta,Estudiante,Laptop,Alta,9,61.8,18,5,2,3.7,0,No,Correo,Evaluaciones,3.7,7,Baja,0
+USR00434,2026-05-03,34,Femenino,Quito,Estudiante,Tablet,Alta,1,66.7,17,4,1,7,2,Sí,Autoservicio,Evaluaciones,3.5,7,Alta,1
+USR00444,2025-12-11,33,Masculino,Santo Domingo,Docente,Móvil,Alta,2,47.4,18,1,4,7,1,Sí,Autoservicio,Biblioteca digital,4,5,Media,0
+USR00841,2026-02-13,18,Femenino,Santo Domingo,Estudiante,Laptop,Media,6,41.9,13,7,2,5.3,0,No,Chat,Evaluaciones,3.3,5,Baja,0
+USR00212,2026-04-14,28,Masculino,Guayaquil,Estudiante,Móvil,Alta,2,27.3,7,5,2,3.8,3,No,Chat,Soporte académico,3.3,4,Media,0
+USR00737,2026-04-27,41,Masculino,Cuenca,Docente,Tablet,Media,6,44.6,23,3,1,12.9,4,Sí,Correo,Inscripciones,2.7,5,Media,0
+USR00031,2026-04-07,27,Femenino,Quito,Estudiante,Tablet,Baja,3,13.6,12,7,4,5.5,4,Sí,Chat,Evaluaciones,3,7,Media,0
+USR00189,2026-04-01,45,Masculino,Cuenca,Estudiante,Móvil,Alta,9,51.4,19,5,2,3.9,2,Sí,Correo,Biblioteca digital,4.3,5,Alta,1
+USR00333,2025-11-03,30,Masculino,Santo Domingo,Estudiante,Computador de escritorio,Media,5,68,4,9,2,5.3,3,No,Correo,Inscripciones,2.9,2,Baja,0
+USR00019,2025-08-19,32,Femenino,Ibarra,Estudiante,Móvil,Media,4,23.9,17,11,3,3,2,No,Correo,Evaluaciones,2,0,Baja,0
+USR00254,2026-06-29,34,Masculino,Guayaquil,Estudiante,Móvil,Alta,9,49.5,16,9,2,2.9,1,No,Teléfono,Soporte académico,2.2,4,Media,0
+USR00780,2026-01-23,38,Femenino,Quito,Estudiante,Móvil,Media,8,32.4,19,8,1,3,0,Sí,Chat,Aula virtual,3.4,6,Baja,0
+USR01090,2025-12-02,44,Femenino,Ibarra,Docente,Laptop,Alta,5,15.7,10,9,3,9.2,3,No,Teléfono,Pagos,2,3,Media,0
+USR00665,2025-06-18,29,Femenino,Guayaquil,Estudiante,Laptop,Alta,4,5,10,7,2,,0,No,Chat,Biblioteca digital,3.3,4,Media,0
+USR00821,2025-05-25,25,Masculino,Loja,Estudiante,Tablet,Alta,9,55.6,21,4,4,7.2,2,Sí,Correo,Inscripciones,4.7,8,Alta,1
+USR00838,2026-03-06,19,Prefiere no decir,Quito,Estudiante,Laptop,Media,4,34.9,25,0,0,2.5,0,Sí,Chat,Aula virtual,4.8,8,Alta,1
+USR00983,2025-07-01,56,Femenino,Loja,Estudiante,Laptop,Media,5,43.5,22,15,2,4.7,0,No,Autoservicio,Pagos,3.1,5,Baja,0
+USR00039,2025-06-24,36,Femenino,Manta,Estudiante,Móvil,Media,8,50.4,14,8,3,5.6,6,No,Correo,Inscripciones,2.1,3,Baja,0
+USR00177,2025-06-15,39,Masculino,Ambato,Estudiante,Móvil,Baja,7,44,15,5,3,4.6,3,Sí,Correo,Evaluaciones,2.3,5,Baja,0
+USR00443,2026-04-10,32,Masculino,Quito,Estudiante,Laptop,Alta,5,58.6,19,2,1,3,0,Sí,Autoservicio,Pagos,4.3,9,Media,0
+USR00727,2026-01-26,29,Femenino,Quito,Estudiante,Laptop,Media,4,47.6,20,2,0,2.2,4,Sí,Chat,Evaluaciones,2.5,4,Baja,0
+USR00119,2025-01-13,31,Femenino,Quito,Administrativo,Tablet,Media,8,30.8,22,8,0,1.5,0,No,Teléfono,Pagos,2.8,6,Media,0
+USR00404,2026-04-11,18,Masculino,Quito,Docente,Computador de escritorio,Media,6,15.9,20,9,1,7.6,3,No,Correo,Evaluaciones,2.9,2,Baja,0
+USR00897,2025-06-22,29,Femenino,Ambato,Estudiante,Móvil,Media,7,20.1,20,4,3,5.2,3,,Teléfono,Evaluaciones,3.2,5,Baja,0
+USR00458,2025-07-20,42,Femenino,Quito,Docente,Móvil,,7,15.2,15,6,0,5.2,0,Sí,Autoservicio,Soporte académico,3.9,8,Media,0
+USR00415,2025-04-18,48,Masculino,Quito,Estudiante,Móvil,Alta,5,34,13,9,1,2.3,2,No,Correo,Aula virtual,4,6,Media,0
+USR01360,2025-12-25,20,Masculino,Quito,Estudiante,Laptop,Alta,4,50.9,23,5,3,3.4,2,Sí,Correo,Aula virtual,4.2,8,Alta,1
+USR00907,2025-09-09,36,Masculino,Manta,Docente,Laptop,Alta,2,31.2,19,2,0,4.9,0,Sí,Correo,Evaluaciones,3.8,7,Alta,1
+USR00816,2025-02-05,37,Femenino,Cuenca,Estudiante,Laptop,Alta,7,39.2,11,0,0,2.5,2,Sí,Chat,Aula virtual,4.7,7,Baja,0
+USR00680,2026-06-07,48,Femenino,Ambato,Estudiante,Móvil,Media,4,59,11,7,4,10.2,6,No,Autoservicio,Evaluaciones,1.7,2,Media,0
+USR01180,2025-06-14,40,Masculino,Quito,Estudiante,Móvil,Baja,6,47.9,17,8,4,5.3,5,No,Chat,Inscripciones,3.2,5,Media,0
+USR01149,2025-08-04,28,Masculino,Manta,Estudiante,Móvil,Media,7,26.3,24,6,0,4.7,6,Sí,Correo,Biblioteca digital,2.5,3,Baja,0
+USR00474,2025-06-06,28,Masculino,Quito,Docente,Laptop,Alta,5,72.1,22,4,1,2.3,1,Sí,Correo,Evaluaciones,4.9,7,Baja,0
+USR00391,2025-01-14,29,Masculino,Quito,Estudiante,Móvil,Baja,6,7.6,12,14,2,7.2,8,No,Correo,Evaluaciones,2.3,0,Baja,0
+USR00054,2026-06-07,35,Femenino,Ambato,Estudiante,Computador de escritorio,Media,6,46.2,19,3,3,5.5,1,Sí,Chat,Aula virtual,3,4,Media,0
+USR00188,2026-06-21,27,Masculino,Quito,Estudiante,Laptop,Media,4,64.9,20,13,3,9.3,2,No,Chat,Aula virtual,1,2,Baja,0
+USR00939,2026-05-06,34,Femenino,Ibarra,Estudiante,Laptop,Media,8,51.3,25,7,0,1.1,1,Sí,Chat,Aula virtual,3.4,3,Media,0
+USR00917,2025-03-28,33,Femenino,Quito,Estudiante,Laptop,Media,6,56.8,9,16,0,1.7,1,No,Correo,Pagos,2.9,4,Baja,0
+USR00575,2026-04-13,48,Masculino,Quito,Docente,Móvil,Alta,3,55.5,22,0,2,6.5,5,Sí,Autoservicio,Biblioteca digital,3.9,8,Alta,1
+USR00745,2025-07-07,37,Masculino,Manta,Estudiante,Móvil,Alta,4,39.7,16,3,1,1.9,4,Sí,Correo,Aula virtual,4.1,6,Media,0
+USR00926,2025-10-13,39,Masculino,Manta,Estudiante,Móvil,Media,2,72.2,10,8,1,2.9,1,Sí,Chat,Inscripciones,3.7,6,Alta,1
+USR00603,2026-03-22,33,Femenino,Cuenca,Estudiante,Laptop,Alta,1,53,13,1,2,4.4,4,Sí,Chat,Evaluaciones,5,8,Alta,1
+USR01086,2025-06-17,47,Prefiere no decir,Loja,Estudiante,Tablet,Alta,9,23.4,20,7,0,8,3,No,Correo,Evaluaciones,2.7,5,Media,0
+USR00499,2025-06-09,21,Masculino,Guayaquil,Docente,Móvil,Alta,4,28.5,21,5,2,20.7,1,Sí,Correo,Pagos,3.2,3,Media,0
+USR00432,2026-04-01,34,Femenino,Santo Domingo,Administrativo,Móvil,Alta,7,21.1,16,8,1,5.6,3,Sí,Autoservicio,Pagos,3.9,5,Media,0
+USR00720,2025-03-23,32,Femenino,Cuenca,Administrativo,Móvil,Alta,7,35.4,20,6,1,1.8,2,Sí,Teléfono,Biblioteca digital,4.3,9,Alta,1
+USR00540,2025-04-12,29,Masculino,Quito,Estudiante,Tablet,Media,4,27.8,19,12,0,2.9,4,No,Correo,Evaluaciones,1.7,2,Baja,0
+USR00559,2026-05-23,26,Femenino,Manta,Docente,Laptop,Media,5,58.1,14,5,2,6.9,3,Sí,Chat,Aula virtual,2.7,5,Baja,0
+USR00072,2025-03-16,32,Masculino,Quito,Estudiante,Móvil,Media,7,34.9,13,8,0,2.4,2,Sí,Autoservicio,Aula virtual,3.4,6,Media,0
+USR01089,2025-12-11,17,Femenino,Manta,Estudiante,Laptop,Media,8,25.4,26,4,4,7.9,0,Sí,Autoservicio,Inscripciones,2.4,3,Media,0
+USR00808,2025-08-18,28,Femenino,Quito,Estudiante,Móvil,Baja,5,34.8,24,5,1,3.5,7,Sí,Correo,Evaluaciones,1.9,4,Media,0
+USR00075,2026-01-10,31,Femenino,Guayaquil,Estudiante,Laptop,Media,3,28.8,16,3,0,2.4,2,Sí,Correo,Inscripciones,3.1,5,Baja,0
+USR00531,2025-12-29,17,Femenino,Ibarra,Docente,Tablet,Media,11,43.5,16,14,5,8.8,3,No,Chat,Soporte académico,1.9,3,Media,0
+USR00266,2026-03-18,26,Femenino,Quito,Docente,Móvil,Baja,3,12.7,20,6,4,6,5,Sí,Chat,Aula virtual,3.3,3,Baja,0
+USR01435,2025-10-09,44,Femenino,Quito,Administrativo,Laptop,Alta,4,54.8,7,5,1,3.6,2,No,Autoservicio,Inscripciones,3.1,3,Baja,0
+USR00486,2025-10-01,37,Femenino,Guayaquil,Estudiante,Laptop,Media,5,30.9,16,9,1,3.9,0,No,Chat,Aula virtual,3.7,6,Media,0
+USR00561,2025-04-01,24,Masculino,Manta,Estudiante,Computador de escritorio,Media,9,43.8,13,7,3,,1,No,Chat,Pagos,3,4,Baja,0
+USR01329,2025-08-26,36,Masculino,Quito,Administrativo,Móvil,Alta,6,58.9,14,14,1,3.6,2,No,Autoservicio,Aula virtual,3.4,7,Media,0
+USR01275,2025-08-14,39,Masculino,Santo Domingo,Estudiante,Móvil,Media,5,41.2,10,5,1,18.5,4,No,Teléfono,Evaluaciones,1.6,2,Media,0
+USR01459,2025-07-27,47,Femenino,Guayaquil,Estudiante,Laptop,Alta,8,43.8,11,7,0,3.1,1,No,Chat,Soporte académico,3.4,6,Baja,0
+USR00178,2025-02-28,27,Masculino,Loja,Estudiante,Laptop,Media,8,47.5,13,8,1,6.9,2,No,Teléfono,Aula virtual,1.9,4,Media,0
+USR00154,2026-01-08,30,Masculino,Loja,Docente,Laptop,Alta,5,45.1,19,9,0,3.8,0,No,Correo,Pagos,4.3,8,Media,0
+USR00369,2025-03-23,36,Femenino,Cuenca,Estudiante,Laptop,Alta,6,26.6,5,11,2,8.9,0,No,Chat,Soporte académico,3.1,6,Baja,0
+USR01407,2026-05-14,39,Femenino,Ibarra,Estudiante,Móvil,Alta,2,27.6,11,9,1,8.5,0,No,Chat,Inscripciones,2.6,4,Media,0
+USR00182,2025-04-20,37,Femenino,Quito,Administrativo,Móvil,Baja,4,46.1,22,7,2,2.2,5,No,Autoservicio,Evaluaciones,1,1,Baja,0
+USR00091,2026-06-10,38,Masculino,Manta,Estudiante,Laptop,Media,3,42.8,16,1,0,5.2,2,Sí,Chat,Evaluaciones,4,6,Media,0
+USR01400,2025-09-05,48,Masculino,Guayaquil,Estudiante,Móvil,Media,7,83.6,27,3,1,4.3,0,Sí,Chat,Soporte académico,4.4,8,Media,0
+USR00183,2026-06-23,34,Masculino,Guayaquil,Estudiante,Móvil,Baja,3,35.1,12,11,5,6,5,No,Correo,Biblioteca digital,2.2,3,Baja,0
+USR00560,2026-02-27,39,Femenino,Quito,Estudiante,Tablet,Alta,5,64.8,20,5,0,8.1,4,Sí,Correo,Soporte académico,4.6,8,Baja,0
+USR00235,2025-12-18,54,Masculino,Loja,Docente,Móvil,Media,5,42.3,26,2,3,7.5,3,Sí,Correo,Evaluaciones,3.9,6,Baja,0
+USR00711,2025-03-17,34,Masculino,Ambato,Estudiante,Laptop,Alta,9,60.7,12,10,2,3.2,1,No,Teléfono,Soporte académico,3.2,4,Alta,1
+USR00944,2025-02-10,31,Femenino,Guayaquil,Docente,Móvil,Media,10,32.5,18,6,0,3.3,3,No,Teléfono,Pagos,3.5,7,Media,0
+USR00098,2025-12-29,34,Masculino,Cuenca,Docente,Tablet,Baja,2,19.7,13,6,2,3.7,5,Sí,Teléfono,Evaluaciones,3.1,5,Baja,0
+USR00373,2025-05-24,25,Femenino,Loja,Estudiante,Laptop,Baja,7,48.7,23,2,3,4.5,1,Sí,Teléfono,Evaluaciones,2.8,5,Media,0
+USR00265,2026-05-07,23,Femenino,Guayaquil,Administrativo,Móvil,Alta,8,42.2,23,3,0,2.6,4,Sí,Chat,Evaluaciones,3.9,6,Alta,1
+USR01003,2026-04-01,30,Femenino,Manta,Estudiante,Laptop,Alta,10,47.6,16,3,3,6.2,0,Sí,Autoservicio,Soporte académico,3.9,8,Alta,1
+USR01345,2026-05-19,22,Masculino,Guayaquil,Estudiante,Móvil,Alta,6,20,18,15,1,5.6,2,No,Autoservicio,Aula virtual,3.1,7,Media,0
+USR00289,2025-07-13,34,Femenino,Quito,Estudiante,Laptop,Alta,6,38.3,10,3,1,6.8,4,No,Chat,Pagos,3.4,5,Baja,0
+USR00415,2025-04-18,48,Masculino,Quito,Estudiante,Móvil,Alta,5,34,13,9,1,2.3,2,No,Correo,Aula virtual,4,6,Media,0
+USR00194,2026-03-21,35,Femenino,Quito,Estudiante,Laptop,Alta,2,46.3,15,5,1,32.5,2,Sí,Chat,Evaluaciones,3.8,6,Alta,1
+USR00066,2026-04-03,35,Femenino,Loja,Estudiante,Computador de escritorio,Media,4,26.4,16,4,2,8.2,1,No,Autoservicio,Aula virtual,2.8,4,Baja,0
+USR00477,2025-10-21,33,Femenino,Quito,Estudiante,Tablet,Baja,6,17,20,4,5,6.9,5,Sí,Correo,Aula virtual,2.4,4,Baja,0
+USR00607,2026-05-21,41,Masculino,Guayaquil,Estudiante,Laptop,Media,7,64.4,11,7,0,0.9,1,No,Correo,Biblioteca digital,2.1,3,Baja,0
+USR01172,2025-12-20,27,Masculino,Guayaquil,Estudiante,Móvil,Media,2,14.2,18,11,2,5.1,1,No,Autoservicio,Soporte académico,3.2,4,Media,0
+USR01308,2026-01-07,32,Masculino,Guayaquil,Estudiante,Móvil,Media,10,8.6,30,2,1,36.2,0,Sí,Chat,Inscripciones,3.3,6,Media,0
+USR00655,2025-02-11,36,Masculino,Ambato,Administrativo,Móvil,Media,6,34.4,13,3,2,7.3,3,Sí,Autoservicio,Soporte académico,3.6,5,Media,0
+USR00581,2025-07-15,33,Femenino,Quito,Estudiante,Laptop,Media,5,22.7,19,8,2,3.4,0,No,Correo,Pagos,2.5,4,Baja,0
+USR01230,2025-05-29,39,Femenino,Cuenca,Estudiante,Laptop,Media,2,44.1,23,1,4,4.2,0,Sí,Chat,Biblioteca digital,4.3,6,Alta,1
+USR00974,2025-08-12,36,Femenino,Cuenca,Estudiante,Móvil,Media,5,13.2,9,9,2,2.5,1,No,Correo,Pagos,4,7,Media,0
+USR00114,2026-02-26,36,Masculino,Guayaquil,Estudiante,Tablet,Baja,1,50.2,15,11,3,7.6,7,Sí,Teléfono,Pagos,2.3,3,Media,0
+USR00494,2026-02-03,30,Masculino,Loja,Docente,Laptop,Media,9,36.3,19,9,0,5.3,0,No,Chat,Soporte académico,2.8,5,Media,0
+USR00773,2025-09-22,32,Femenino,Ambato,Estudiante,Laptop,Alta,2,77.3,13,0,1,6.3,3,Sí,Correo,Aula virtual,4,9,Alta,1
+USR00832,2025-12-08,37,Masculino,Ibarra,Administrativo,Tablet,Media,5,61.2,24,0,1,2.7,3,Sí,Autoservicio,Biblioteca digital,3.7,6,Alta,1
+USR00752,2025-07-11,31,Femenino,Guayaquil,Estudiante,Laptop,Media,4,50.9,16,1,2,15.5,3,Sí,Correo,Aula virtual,3.3,6,Media,0
+USR00599,2025-02-21,30,Femenino,Quito,Estudiante,Laptop,Alta,8,72.6,25,2,0,2.1,0,Sí,Chat,Aula virtual,4.6,10,Alta,1
+USR00428,2025-05-24,32,Masculino,Quito,Estudiante,Móvil,Baja,5,20,18,7,4,6.5,2,Sí,Correo,Aula virtual,3.8,7,Baja,0
+USR00699,2025-03-28,31,Femenino,Quito,Estudiante,Laptop,Baja,6,30.4,19,5,6,5.6,7,Sí,Autoservicio,Pagos,2.4,4,Baja,0
+USR00662,2026-01-20,17,Masculino,Cuenca,Estudiante,Laptop,Media,6,11.5,5,8,3,6.5,0,No,Chat,Biblioteca digital,2.2,5,Media,0
+USR00896,2025-02-02,36,Femenino,Manta,Docente,Móvil,Media,8,19.1,22,11,2,12.9,2,No,Teléfono,Evaluaciones,1.9,3,Baja,0
+USR00191,2025-10-06,27,Masculino,Guayaquil,Docente,Laptop,Media,12,44.2,21,12,2,3.8,1,No,Correo,Aula virtual,3.6,5,Baja,0
+USR00887,2025-04-16,34,Femenino,Cuenca,Estudiante,Móvil,Media,4,61.1,10,4,2,3.2,2,Sí,Correo,Inscripciones,4.2,7,Alta,1
+USR01304,2025-11-17,30,Prefiere no decir,Cuenca,Estudiante,Móvil,Alta,9,43.9,26,7,1,2,4,Sí,Correo,Inscripciones,3.8,4,Media,0
+USR00658,2025-01-24,22,Prefiere no decir,Guayaquil,Estudiante,Laptop,Alta,5,29.2,22,7,0,6.1,1,No,Chat,Biblioteca digital,2.9,5,Baja,0
+USR00277,2026-04-24,29,Masculino,Loja,Docente,Tablet,Alta,9,52.2,28,4,3,3.3,2,Sí,Chat,Biblioteca digital,4.4,5,Baja,0
+USR00753,2026-06-19,21,Femenino,Guayaquil,Estudiante,Laptop,Baja,4,18.4,15,9,2,2.2,6,Sí,Correo,Pagos,3.2,4,Media,0
+USR01355,2025-05-01,38,Femenino,Quito,Estudiante,Móvil,Media,7,28,10,8,0,0.7,0,Sí,Chat,Biblioteca digital,3.5,5,Media,0
+USR00801,2025-04-10,35,Femenino,Guayaquil,Docente,Laptop,Media,8,45.8,15,9,0,2.8,0,No,Chat,Evaluaciones,1.9,3,Baja,0
+USR00973,2026-04-09,24,Masculino,Quito,Estudiante,Laptop,Baja,4,55.6,19,4,4,9.4,5,Sí,Chat,Evaluaciones,1.4,3,Baja,0
+USR00160,2025-07-18,39,Femenino,Quito,Estudiante,Laptop,Baja,4,40.1,14,5,2,3.7,7,Sí,Chat,Pagos,2.3,3,Media,0
+USR00061,2025-01-28,23,Femenino,Guayaquil,Estudiante,Laptop,Media,6,45.7,20,7,0,20.4,0,Sí,Correo,Pagos,3.4,6,Baja,0
+USR00630,2025-10-22,20,Femenino,Quito,Estudiante,Laptop,Alta,3,29.2,15,2,0,2,2,Sí,Correo,Pagos,4.3,7,Alta,1
+USR00771,2025-07-14,40,Femenino,Quito,Docente,Móvil,Alta,4,38.5,19,0,1,4.1,7,No,Chat,Pagos,3,4,Media,0
+USR00139,2025-02-01,31,Femenino,Ibarra,Estudiante,Móvil,Media,8,39.2,18,14,2,7.1,3,No,Chat,Evaluaciones,2.8,4,Media,0
+USR01353,2026-04-10,20,Femenino,Loja,Estudiante,Móvil,Media,7,34.5,10,10,2,4.5,2,No,Autoservicio,Evaluaciones,3.1,2,Baja,0
+USR01268,2025-07-30,47,Femenino,Guayaquil,Estudiante,Laptop,Media,7,39.8,12,1,3,4.2,4,Sí,Autoservicio,Evaluaciones,3.7,6,Baja,0
+USR00506,2025-09-20,32,Femenino,Guayaquil,Estudiante,Móvil,Media,1,35.4,18,6,0,6,4,Sí,Chat,Aula virtual,3.5,6,Media,0
+USR01136,2025-06-20,33,Femenino,Cuenca,Estudiante,Tablet,Alta,3,21.9,26,4,2,3.6,0,Sí,Chat,Biblioteca digital,3.9,10,Alta,1
+USR01096,2025-09-03,17,Femenino,Guayaquil,Estudiante,Laptop,Media,4,44.3,14,3,1,15,2,Sí,Autoservicio,Biblioteca digital,3,4,Baja,0
+USR00812,2025-10-10,26,Femenino,Guayaquil,Docente,Móvil,Alta,3,45.9,19,9,0,3.9,2,Sí,Correo,Aula virtual,4.2,7,Media,0
+USR00830,2025-01-21,17,Masculino,Quito,Estudiante,Móvil,Baja,3,27.9,24,11,2,4.4,6,Sí,Autoservicio,Aula virtual,2.3,2,Baja,0
+USR00756,2025-01-14,27,Femenino,Cuenca,Administrativo,Laptop,Alta,3,48.7,24,3,2,8.4,2,Sí,Autoservicio,Aula virtual,3,6,Baja,0
+USR01410,2026-04-02,40,Masculino,Cuenca,Estudiante,Laptop,Media,5,51.1,18,9,0,2.2,3,No,Autoservicio,Evaluaciones,2.4,4,Baja,0
+USR01213,2025-06-16,41,Masculino,Quito,Estudiante,Móvil,Alta,8,59.1,13,14,0,1.9,3,No,Correo,Aula virtual,2.8,3,Media,0
+USR00522,2025-08-20,35,Masculino,Ambato,Estudiante,Computador de escritorio,Media,7,33.8,27,4,2,,0,No,Chat,Soporte académico,3.5,5,Baja,0
+USR00608,2025-01-23,42,Femenino,Quito,Administrativo,Laptop,Alta,6,31.3,18,5,2,12,0,No,Chat,Inscripciones,3.2,6,Baja,0
+USR00080,2025-05-21,34,Femenino,Cuenca,Docente,Laptop,Alta,7,39.8,18,8,0,6.6,0,No,Correo,Aula virtual,3.5,5,Media,0
+USR00747,2025-08-15,39,Masculino,Santo Domingo,Administrativo,Laptop,Alta,5,52.2,22,5,1,5.4,0,Sí,Chat,Biblioteca digital,4.7,10,Alta,1
+USR01148,2026-01-04,34,Masculino,Manta,Estudiante,Móvil,,3,28.7,20,3,0,2.7,1,,Chat,Soporte académico,3.8,6,Alta,1
+USR01457,2025-08-11,26,Femenino,Manta,Estudiante,Laptop,Media,4,5,15,5,1,4.3,3,Sí,Chat,Aula virtual,2.8,5,Baja,0
+USR00121,2025-01-25,31,Masculino,Loja,Administrativo,Laptop,Media,7,31.4,15,7,1,10.9,1,,Teléfono,Aula virtual,1.9,4,Baja,0
+USR00779,2025-08-01,43,Masculino,Manta,Estudiante,Laptop,Baja,4,65.9,12,11,1,3,5,No,Chat,Aula virtual,1.6,4,Baja,0
+USR00565,2026-05-03,33,Masculino,Guayaquil,Estudiante,Laptop,Media,2,33.2,10,10,0,3.4,0,No,Autoservicio,Aula virtual,2.8,5,Baja,0
+USR00082,2025-01-15,43,Masculino,Ambato,Estudiante,Móvil,Baja,4,35.3,12,9,4,5.5,7,No,Autoservicio,Evaluaciones,1.3,3,Baja,0
+USR00573,2025-11-07,29,Masculino,Cuenca,Docente,Laptop,Media,8,53.5,33,2,2,3.1,0,Sí,Chat,Aula virtual,3.7,9,Alta,1
+USR00690,2025-04-23,17,Femenino,Guayaquil,Docente,Computador de escritorio,Alta,7,15.4,18,4,0,1.5,0,No,Autoservicio,Aula virtual,2.6,5,Baja,0
+USR01099,2026-02-13,45,Femenino,Quito,Docente,Móvil,Alta,1,30.8,19,0,2,5.3,1,Sí,Autoservicio,Pagos,4.6,10,Alta,1
+USR01164,2025-05-11,36,Femenino,Quito,Estudiante,Móvil,Alta,6,30.7,20,2,0,4.2,2,Sí,Chat,Inscripciones,4.6,8,Alta,1
+USR00484,2026-02-19,31,Masculino,Quito,Estudiante,Móvil,Media,2,51.9,15,7,0,7.1,0,Sí,Correo,Soporte académico,3.3,7,Baja,0
+USR00972,2025-09-04,33,Femenino,Loja,Docente,Laptop,Alta,5,64.2,32,8,0,6.6,0,Sí,Correo,Soporte académico,3.6,7,Alta,1
+USR00640,2025-04-02,26,Femenino,Cuenca,Estudiante,Móvil,Media,4,66.6,22,9,1,21.7,0,No,Chat,Aula virtual,2.1,3,Media,0
+USR00649,2025-04-03,41,Masculino,Manta,Docente,Móvil,Media,8,27.4,21,0,0,1.3,3,Sí,Correo,Inscripciones,3.6,8,Baja,0
+USR00249,2025-02-02,29,Femenino,Loja,Estudiante,Laptop,Media,4,28.8,8,12,4,11.8,4,No,Correo,Evaluaciones,2,3,Media,0
+USR00392,2025-02-27,27,Femenino,Quito,Estudiante,Móvil,Alta,2,12.7,17,13,0,8.3,1,No,Correo,Aula virtual,3.5,6,Baja,0
+USR01046,2025-02-06,32,Femenino,Quito,Estudiante,Laptop,Alta,5,53.3,7,5,1,8,1,No,Chat,Aula virtual,3.6,8,Media,0
+USR01253,2026-04-09,17,Femenino,Quito,Estudiante,Móvil,Alta,5,10.3,20,4,0,5,4,Sí,Chat,Aula virtual,2.8,6,Baja,0
+USR01157,2026-01-05,24,Femenino,Quito,Estudiante,Laptop,Alta,10,14.9,28,2,3,8.5,0,Sí,Autoservicio,Aula virtual,4.7,7,Baja,0
+USR00625,2025-11-01,41,Femenino,Guayaquil,Administrativo,Laptop,Alta,3,47.6,19,5,1,7.6,2,Sí,Chat,Evaluaciones,4.3,9,Alta,1
+USR00210,2025-11-23,36,Masculino,Guayaquil,Estudiante,Móvil,Alta,5,28.5,18,13,0,3.9,1,No,Autoservicio,Aula virtual,3.4,7,Media,0
+USR00583,2025-04-07,17,Femenino,Ibarra,Estudiante,Laptop,Alta,6,51.4,15,12,0,9.6,0,No,Chat,Pagos,3.2,5,Media,0
+USR00876,2025-03-27,17,Masculino,Guayaquil,Docente,Laptop,Media,7,58.8,10,4,0,2,1,Sí,Chat,Inscripciones,4.5,8,Media,0
+USR01218,2025-12-03,22,Masculino,Santo Domingo,Docente,Tablet,Media,4,36.2,10,4,3,6.9,1,Sí,Correo,Biblioteca digital,3.3,4,Media,0
+USR01475,2025-01-03,42,Femenino,Santo Domingo,Estudiante,Laptop,Baja,7,55,22,9,4,10.4,5,No,Chat,Aula virtual,1,0,Baja,0
+USR01020,2025-06-09,36,Masculino,Santo Domingo,Estudiante,Laptop,Baja,3,48.4,10,12,5,6.3,7,No,Correo,Evaluaciones,2.4,2,Baja,0
+USR01397,2026-02-27,30,Femenino,Quito,Estudiante,Laptop,,5,27.9,12,0,3,6,0,Sí,Chat,Evaluaciones,4.3,6,Alta,1
+USR00818,2025-11-30,49,Femenino,Quito,Estudiante,Laptop,Alta,4,43.5,17,11,1,23.6,2,No,Correo,Aula virtual,2.3,3,Baja,0
+USR00541,2026-02-03,21,Masculino,Ambato,Estudiante,Móvil,Baja,12,52.2,16,7,1,4.5,5,No,Chat,Inscripciones,1.9,3,Media,0
+USR00022,2025-11-02,22,Masculino,Loja,Administrativo,Laptop,Alta,5,59.8,23,5,0,1.6,0,Sí,Correo,Aula virtual,5,10,Alta,1
+USR00200,2025-11-29,33,Masculino,Guayaquil,Estudiante,Tablet,Media,1,29.8,12,7,1,2.3,1,Sí,Correo,Pagos,4.1,7,Baja,0
+USR01388,2026-03-26,24,Femenino,Ambato,Estudiante,Laptop,Alta,6,37.6,15,10,2,4,2,No,Correo,Biblioteca digital,2.8,5,Baja,0
+USR00814,2025-02-12,42,Femenino,Quito,Docente,Móvil,Media,11,35.3,23,8,3,,6,No,Chat,Evaluaciones,1.9,1,Media,0
+USR00473,2025-01-14,29,Femenino,Guayaquil,Estudiante,Móvil,Media,5,59.9,6,13,1,4.2,4,No,Autoservicio,Evaluaciones,1.7,2,Media,0
+USR00981,2025-07-17,31,Femenino,Guayaquil,Administrativo,Móvil,Baja,6,24.9,17,12,4,6.7,6,No,Chat,Evaluaciones,1,1,Baja,0
+USR00224,2025-07-17,27,Femenino,Guayaquil,Estudiante,Móvil,Media,4,33.3,12,3,1,9.5,7,Sí,Chat,Soporte académico,3.1,5,Baja,0
+USR00820,2025-12-21,41,Femenino,Loja,Estudiante,Laptop,Media,10,55,16,4,0,2,3,Sí,Correo,Biblioteca digital,3.5,7,Baja,0
+USR01158,2026-02-12,33,Femenino,Guayaquil,Estudiante,Laptop,Media,8,39.1,6,9,1,4.8,0,No,Chat,Aula virtual,1.9,4,Baja,0
+USR00941,2025-01-10,34,Masculino,Loja,Estudiante,Laptop,Media,2,33.7,18,8,1,4.6,4,No,Chat,Soporte académico,2.5,3,Media,0
+USR01240,2026-02-05,43,Femenino,Quito,Estudiante,Móvil,Media,3,43.6,21,5,1,5.1,4,Sí,Teléfono,Pagos,3.1,5,Baja,0
+USR00864,2025-09-22,17,Femenino,Cuenca,Docente,Móvil,Alta,9,43.5,19,7,1,4.1,3,Sí,Chat,Aula virtual,3,5,Media,0
+USR00318,2026-05-28,29,Femenino,Cuenca,Estudiante,Móvil,Alta,7,40.9,17,4,0,1,2,Sí,Chat,Aula virtual,5,8,Alta,1
+USR01365,2025-07-06,37,Masculino,Quito,Estudiante,Móvil,Alta,2,38.1,18,2,1,12.1,4,Sí,Chat,Biblioteca digital,3.8,6,Media,0
+USR00705,2025-03-27,32,Masculino,Cuenca,Estudiante,Tablet,Alta,8,78.5,19,4,0,10.7,3,Sí,Chat,Aula virtual,2.8,7,Baja,0
+USR00696,2026-02-27,27,Femenino,Quito,Estudiante,Móvil,Alta,7,14.5,18,3,1,3.2,1,,Chat,Evaluaciones,3.4,4,Baja,0
+USR01191,2026-02-10,51,Femenino,Quito,Estudiante,Móvil,Media,6,16.7,12,1,0,3.6,3,Sí,Correo,Evaluaciones,3.3,6,Media,0
+USR01417,2025-04-19,31,Femenino,Ambato,Estudiante,Laptop,Media,4,89.4,11,9,0,1.4,0,No,Correo,Biblioteca digital,2.3,7,Media,0
+USR01352,2025-04-11,23,Femenino,Quito,Estudiante,Móvil,Alta,9,52.6,15,7,2,,2,No,Teléfono,Inscripciones,3.4,4,Media,0
+USR01486,2026-02-21,17,Femenino,Manta,Estudiante,Laptop,Baja,5,35.8,17,11,4,5.5,5,No,Chat,Biblioteca digital,1.5,1,Media,0
+USR00631,2025-08-13,42,Masculino,Quito,Estudiante,Laptop,Media,5,37,23,11,2,3.9,5,Sí,Autoservicio,Biblioteca digital,3,5,Media,0
+USR00441,2025-03-20,40,Femenino,Quito,Estudiante,Tablet,Alta,6,34.5,18,6,1,15.2,4,Sí,Chat,Inscripciones,2.9,4,Media,0
+USR00399,2025-05-30,25,Femenino,Cuenca,Estudiante,Tablet,Media,3,64.7,8,4,0,4.2,3,Sí,Correo,Aula virtual,3.8,6,Baja,0
+USR00480,2026-05-10,32,Masculino,Quito,Administrativo,Tablet,,6,5,14,9,0,1.7,1,No,Correo,Pagos,4.7,7,Alta,1
+USR01065,2025-07-08,32,Femenino,Quito,Estudiante,Móvil,Alta,5,34.2,19,10,0,13.6,2,No,Correo,Biblioteca digital,3.1,3,Baja,0
+USR00459,2025-11-04,40,Masculino,Guayaquil,Estudiante,Móvil,Media,1,57.7,10,2,2,3.6,4,,Chat,Soporte académico,4.7,7,Alta,1
+USR01385,2025-11-11,32,Femenino,Cuenca,Estudiante,Laptop,Media,7,57.5,18,8,3,4,0,No,Autoservicio,Inscripciones,2.9,2,Baja,0
+USR00572,2025-07-26,42,Masculino,Quito,Estudiante,Tablet,Media,8,33.2,17,6,2,2.3,2,No,Correo,Biblioteca digital,2.6,3,Baja,0
+USR01409,2025-09-23,30,Femenino,Santo Domingo,Estudiante,Móvil,Media,5,39.7,19,6,1,2.5,1,Sí,Correo,Pagos,3.9,7,Alta,1
+USR00143,2025-05-12,30,Masculino,Santo Domingo,Administrativo,Tablet,Media,1,8.7,20,2,2,4.9,4,Sí,Chat,Evaluaciones,3.6,4,Baja,0
+USR00234,2025-01-28,31,Femenino,Quito,Estudiante,Tablet,Media,6,38.7,22,8,2,7.6,3,Sí,Chat,Evaluaciones,3.2,4,Media,0
+USR01104,2026-06-20,47,Femenino,Santo Domingo,Docente,Laptop,Baja,7,14.4,13,12,2,5.7,3,No,Autoservicio,Pagos,1.8,1,Media,0
+USR00733,2025-02-01,22,Femenino,Guayaquil,Estudiante,Móvil,Media,7,50.5,19,6,0,0.7,0,No,Chat,Aula virtual,2.8,5,Baja,0
+USR01175,2026-05-13,36,Masculino,Guayaquil,Estudiante,Laptop,Alta,3,35.6,16,8,1,4.5,0,Sí,Chat,Soporte académico,4.3,10,Alta,1
+USR00579,2025-07-30,35,Masculino,Santo Domingo,Administrativo,Móvil,Media,3,60.5,10,6,0,3.4,3,No,Chat,Biblioteca digital,2,4,Baja,0
+USR01403,2026-03-13,20,Prefiere no decir,Santo Domingo,Estudiante,Móvil,Media,5,55.4,18,7,2,17.3,1,No,Correo,Inscripciones,1.5,2,Baja,0
+USR01145,2026-04-10,47,Femenino,Guayaquil,Estudiante,Laptop,Media,8,53.9,23,7,0,0.7,1,Sí,Chat,Biblioteca digital,3,5,Media,0
+USR01491,2025-08-11,34,Femenino,Quito,Estudiante,Móvil,Alta,7,61.8,8,10,1,1.3,2,No,Autoservicio,Aula virtual,4.9,7,Media,0
+USR00927,2026-04-25,25,Femenino,Guayaquil,Estudiante,Móvil,Media,9,5,23,4,1,5.3,2,Sí,Correo,Inscripciones,3.4,7,Media,0
+USR00642,2025-10-22,29,Femenino,Santo Domingo,Estudiante,Laptop,Alta,2,46.7,15,5,3,10.2,2,Sí,Teléfono,Aula virtual,3.8,6,Baja,0
+USR00943,2025-11-08,35,Masculino,Quito,Estudiante,Móvil,Alta,6,25.8,15,5,0,1.6,4,Sí,Correo,Aula virtual,4.5,10,Baja,0
+USR00660,2026-02-21,46,Masculino,Santo Domingo,Estudiante,Móvil,Alta,5,7.1,17,7,2,4.6,2,Sí,Autoservicio,Evaluaciones,3.4,5,Baja,0
+USR00813,2026-06-12,37,Femenino,Quito,Docente,Computador de escritorio,Baja,3,5.4,13,10,3,3,4,Sí,Correo,Pagos,2.9,5,Media,0
+USR00716,2025-11-05,25,Masculino,Quito,Administrativo,Laptop,Baja,4,77.2,18,7,2,4,5,No,Autoservicio,Inscripciones,2.1,4,Baja,0
+USR01132,2025-04-11,25,Femenino,Manta,Estudiante,Móvil,Media,7,28.2,13,10,4,6.6,2,No,Correo,Evaluaciones,3.2,3,Media,0
+USR01201,2025-08-17,33,Femenino,Ambato,Estudiante,Laptop,Media,4,29.1,15,2,1,6.6,2,Sí,Chat,Inscripciones,2.8,4,Media,0
+USR00362,2025-05-05,23,Femenino,Manta,Estudiante,Laptop,Media,5,33.3,7,9,0,4.5,2,No,Chat,Evaluaciones,1.9,3,Media,0
+USR00202,2025-06-27,23,Femenino,Santo Domingo,Estudiante,Móvil,Baja,2,54.9,16,9,4,17.1,4,No,Chat,Evaluaciones,1.9,0,Media,0
+USR01399,2025-06-24,36,Femenino,Quito,Estudiante,Laptop,Baja,4,12.8,21,9,3,3.2,5,No,Autoservicio,Soporte académico,1.6,2,Baja,0
+USR00883,2025-11-03,35,Femenino,Quito,Estudiante,Laptop,Media,4,43.5,14,10,2,3.7,0,No,Chat,Aula virtual,3.6,6,Baja,0
+USR01231,2025-06-21,20,Femenino,Quito,Estudiante,Laptop,Media,6,17.1,25,1,2,2.8,2,Sí,Teléfono,Aula virtual,3.3,6,Media,0
+USR01251,2025-06-21,32,Femenino,Loja,Administrativo,Móvil,Alta,6,20.2,20,1,2,6.4,0,Sí,Correo,Evaluaciones,4.5,7,Alta,1
+USR00668,2025-11-23,26,Femenino,Guayaquil,Estudiante,Móvil,Alta,3,23.7,19,4,0,8.8,2,Sí,Correo,Biblioteca digital,4.6,7,Media,0
+USR00691,2025-07-21,41,Prefiere no decir,Quito,Estudiante,Móvil,Media,3,35.1,14,8,4,5.4,3,Sí,Chat,Inscripciones,3.7,6,Alta,1
+USR00368,2025-10-01,17,Femenino,Manta,Administrativo,Móvil,Media,9,33.5,14,8,0,0.6,4,No,Correo,Aula virtual,2.9,4,Baja,0
+USR01272,2025-02-09,39,Femenino,Quito,Estudiante,Tablet,Media,5,37.9,25,8,1,3.6,5,Sí,Chat,Aula virtual,3.7,6,Baja,0
+USR00260,2026-03-30,49,Femenino,Ambato,Administrativo,Laptop,Alta,6,60.5,29,0,4,8.2,3,Sí,Correo,Aula virtual,2.9,6,Media,0
+USR01281,2026-01-03,39,Masculino,Cuenca,Estudiante,Laptop,Baja,2,60.2,10,12,2,8.4,4,No,Chat,Inscripciones,1.3,0,Baja,0
+USR00988,2026-03-29,46,Femenino,Guayaquil,Estudiante,Laptop,Media,4,151.7,16,14,0,7.5,0,No,Chat,Evaluaciones,3,3,Baja,0
+USR01001,2026-06-21,31,Masculino,Loja,Estudiante,Laptop,Media,6,36,22,10,0,14.3,3,No,Correo,Pagos,2.5,3,Baja,0
+USR00784,2025-08-20,17,Masculino,Quito,Estudiante,Laptop,Alta,5,64.2,12,8,1,2.3,0,No,Correo,Aula virtual,3.7,4,Media,0
+USR01056,2025-04-14,17,Femenino,Guayaquil,Estudiante,Móvil,Media,1,16.2,8,10,0,13.5,1,No,Correo,Aula virtual,2.9,4,Baja,0
+USR01264,2025-02-21,22,Masculino,Cuenca,Estudiante,Móvil,Alta,5,29.2,13,3,0,2,2,Sí,Chat,Aula virtual,5,8,Alta,1
+USR00206,2025-09-22,41,Masculino,Cuenca,Administrativo,Móvil,Alta,5,41.6,21,9,1,7.2,4,Sí,Autoservicio,Biblioteca digital,4.3,6,Alta,1
+USR00937,2026-04-17,45,Femenino,Cuenca,Estudiante,Móvil,Media,9,26.8,20,5,4,7,1,No,Autoservicio,Evaluaciones,3.3,5,Baja,0
+USR01215,2026-03-19,48,Masculino,Loja,Estudiante,Móvil,Alta,7,38.7,13,0,3,4.9,1,Sí,Correo,Soporte académico,4.9,6,Alta,1
+USR01242,2025-05-01,27,Femenino,Quito,Docente,Móvil,Alta,10,37.4,24,13,1,12.3,4,No,Correo,Evaluaciones,2.7,4,Baja,0
+USR00537,2025-12-26,43,Femenino,Ambato,Estudiante,Laptop,Media,5,63.2,26,8,1,3.8,3,No,Chat,Pagos,2.1,5,Media,0
+USR00070,2025-07-06,35,Masculino,Quito,Estudiante,Tablet,Alta,7,33.4,26,3,1,2.4,2,Sí,Chat,Aula virtual,4,6,Media,0
+USR00510,2025-07-15,21,Masculino,Ambato,Estudiante,Laptop,Media,8,53.2,14,12,0,3.2,0,No,Teléfono,Inscripciones,2.8,5,Baja,0
+USR00388,2026-01-30,34,Femenino,Guayaquil,Estudiante,Computador de escritorio,Media,7,30.6,10,7,0,2.4,1,No,Chat,Soporte académico,2.6,3,Media,0
+USR00590,2025-11-07,37,Masculino,Cuenca,Docente,Tablet,Media,4,27.1,16,5,0,3.7,1,Sí,Teléfono,Evaluaciones,3.8,8,Alta,1
+USR01307,2026-01-10,51,Masculino,Cuenca,Estudiante,Computador de escritorio,Media,6,29.5,14,11,2,3,4,No,Chat,Aula virtual,2,1,Baja,0
+USR00910,2026-03-06,42,Masculino,Guayaquil,Estudiante,Laptop,Media,3,45.8,14,9,1,5.5,2,No,Autoservicio,Aula virtual,1.9,1,Baja,0
+USR01243,2025-06-17,35,Masculino,Guayaquil,Docente,Tablet,,5,14.2,20,2,0,3.1,1,Sí,Chat,Evaluaciones,5,10,Alta,1
+USR01386,2025-09-02,21,Masculino,Quito,Estudiante,Móvil,Media,8,57.2,20,1,1,3.2,4,Sí,Chat,Pagos,3.6,6,Media,0
+USR00216,2025-01-06,26,Masculino,Guayaquil,Estudiante,Móvil,Media,6,27.3,13,0,1,2.2,3,Sí,Correo,Aula virtual,3.6,6,Media,0
+USR00108,2025-09-11,23,Femenino,Ibarra,Estudiante,Laptop,Alta,5,72.1,15,3,0,2.1,0,Sí,Autoservicio,Evaluaciones,4.6,9,Alta,1
+USR00283,2025-03-09,23,Masculino,Manta,Estudiante,Laptop,Baja,8,53.6,21,9,2,8.6,6,No,Correo,Evaluaciones,1,2,Baja,0
+USR01183,2025-10-21,39,Femenino,Loja,Administrativo,Laptop,Media,6,46.4,13,4,1,7.9,3,No,Correo,Evaluaciones,2.1,2,Media,0
+USR00568,2025-11-18,41,Femenino,Quito,Estudiante,Móvil,Media,8,58.6,16,4,0,4.2,5,Sí,Chat,Soporte académico,3,4,Media,0
+USR00722,2025-09-18,30,Femenino,Guayaquil,Estudiante,Laptop,Baja,6,39.8,18,3,3,8.9,2,Sí,Autoservicio,Aula virtual,2.9,4,Media,0
+USR00652,2025-08-20,28,Femenino,Guayaquil,Estudiante,Laptop,Baja,6,52.3,13,9,3,5.2,6,No,Chat,Evaluaciones,1.4,2,Media,0
+USR00588,2025-05-30,39,Masculino,Loja,Estudiante,Móvil,Media,3,24.2,5,3,2,4,1,No,Chat,Aula virtual,3,6,Baja,0
+USR00692,2025-04-18,17,Femenino,Quito,Estudiante,Móvil,Media,5,5,17,12,1,4.9,2,No,Correo,Soporte académico,2.2,5,Baja,0
+USR00587,2025-02-10,31,Femenino,Manta,Estudiante,Laptop,Alta,6,75.9,20,9,4,4.8,0,Sí,Correo,Inscripciones,4.5,6,Media,0
+USR01296,2025-04-02,29,Masculino,Quito,Estudiante,Laptop,Baja,3,64.6,17,11,2,6.5,7,Sí,Chat,Aula virtual,2.7,3,Media,0
+USR00764,2025-03-07,40,Femenino,Santo Domingo,Estudiante,Laptop,Media,3,69.6,8,0,0,1.8,1,Sí,Correo,Aula virtual,4.4,9,Alta,1
+USR00290,2025-08-06,35,Masculino,Ibarra,Estudiante,Móvil,Media,5,33.6,15,0,0,12.2,4,Sí,Teléfono,Inscripciones,1.8,4,Baja,0
+USR00962,2026-06-20,23,Masculino,Loja,Docente,Laptop,Alta,7,43.7,17,8,0,8.4,1,No,Chat,Evaluaciones,3.5,7,Baja,0
+USR00317,2025-01-09,37,Femenino,Quito,Estudiante,Móvil,,7,15.5,10,10,5,7.4,2,No,Chat,Evaluaciones,3,6,Baja,0
+USR01449,2025-01-08,28,Masculino,Quito,Estudiante,Laptop,Alta,7,135.6,17,7,0,14.9,0,No,Chat,Inscripciones,3.7,5,Baja,0
+USR01088,2026-04-13,34,Femenino,Manta,Estudiante,Tablet,Media,9,47.8,10,4,4,4.8,4,No,Autoservicio,Biblioteca digital,2.7,1,Baja,0
+USR01481,2025-07-13,17,Masculino,Guayaquil,Estudiante,Laptop,,5,56.4,3,12,6,6.3,4,No,Chat,Biblioteca digital,1.9,1,Media,0
+USR00762,2025-12-13,22,Masculino,Santo Domingo,Estudiante,Computador de escritorio,Media,4,24.8,18,7,4,5.3,0,Sí,Autoservicio,Evaluaciones,3.7,6,Baja,0
+USR01335,2026-06-06,34,Femenino,Quito,Estudiante,Laptop,Alta,2,27.3,22,3,0,8.7,3,Sí,Autoservicio,Inscripciones,4.5,7,Baja,0
+USR00906,2025-01-20,38,Femenino,Guayaquil,Estudiante,Computador de escritorio,Media,3,54.8,15,11,3,10.2,1,No,Correo,Aula virtual,1.9,2,Media,0
+USR00519,2025-02-04,34,Femenino,Quito,Estudiante,Tablet,Media,4,55.6,13,8,3,11.1,0,No,Autoservicio,Pagos,2.5,5,Media,0
+USR00532,2026-05-10,26,Masculino,Guayaquil,Estudiante,Móvil,Media,10,7.3,18,4,4,5.4,2,No,Correo,Inscripciones,3.6,4,Baja,0
+USR00215,2025-06-13,24,Masculino,Santo Domingo,Estudiante,Móvil,Baja,7,24,18,11,1,5,6,No,Chat,Evaluaciones,1.7,1,Media,0
+USR01378,2026-04-27,17,Femenino,Cuenca,Docente,Laptop,Media,5,48.6,27,3,1,3.4,4,Sí,Correo,Pagos,3.5,5,Media,0
+USR00836,2025-12-26,26,Femenino,Manta,Docente,Móvil,Media,1,45.6,8,6,0,1.4,2,No,Chat,Biblioteca digital,2.5,6,Baja,0
+USR00057,2025-12-09,34,Masculino,Quito,Estudiante,Móvil,Alta,5,45.4,18,13,1,3.3,4,No,Chat,Inscripciones,2.7,2,Media,0
+USR00839,2026-05-22,24,Femenino,Cuenca,Estudiante,Laptop,Alta,1,21,12,12,2,5.5,0,No,Correo,Aula virtual,2.9,3,Media,0
+USR00786,2025-01-11,26,Femenino,Quito,Estudiante,Laptop,Alta,6,35.1,19,2,1,6.9,2,Sí,Correo,Biblioteca digital,4.8,6,Alta,1
+USR01109,2025-05-25,21,Femenino,Manta,Estudiante,Móvil,Alta,6,15.5,13,5,1,2.8,0,Sí,Correo,Pagos,3.9,7,Alta,1
+USR01085,2026-04-29,17,Masculino,Guayaquil,Docente,Laptop,Baja,10,37.5,30,10,6,17.4,3,Sí,Teléfono,Evaluaciones,2.8,5,Media,0
+USR00042,2025-12-13,21,Masculino,Guayaquil,Estudiante,Móvil,Media,7,19.2,20,10,1,2.6,3,No,Correo,Pagos,2.4,5,Baja,0
+USR00014,2025-06-02,27,Masculino,Loja,Estudiante,Laptop,Baja,8,16.7,22,9,5,12,6,Sí,Autoservicio,Evaluaciones,1.9,2,Media,0
+USR01124,2026-05-05,37,Masculino,Quito,Estudiante,Laptop,Media,3,62.7,19,6,3,3.6,0,No,Chat,Biblioteca digital,2.6,5,Baja,0
+USR01058,2025-02-28,48,Femenino,Cuenca,Estudiante,Laptop,Baja,5,55,18,13,2,2.8,6,No,Correo,Evaluaciones,1.8,3,Media,0
+USR01252,2026-06-02,17,Prefiere no decir,Guayaquil,Estudiante,Tablet,Media,4,28.1,19,9,0,5.8,4,Sí,Teléfono,Pagos,3,6,Media,0
+USR00126,2026-06-23,35,Femenino,Ibarra,Estudiante,Laptop,Media,3,60.2,11,11,3,3.2,2,No,Correo,Evaluaciones,2.1,3,Baja,0
+USR00396,2025-03-31,31,Femenino,Guayaquil,Estudiante,Laptop,Baja,4,25.8,28,10,3,13.8,2,No,Chat,Aula virtual,1.2,2,Media,0
+USR00301,2025-04-17,25,Femenino,Guayaquil,Docente,Laptop,Baja,1,33.3,11,12,4,5,4,No,Teléfono,Soporte académico,1,0,Baja,0
+USR00474,2025-06-06,28,Masculino,Quito,Docente,Laptop,Alta,5,72.1,22,4,1,2.3,1,Sí,Correo,Evaluaciones,4.9,7,Baja,0
+USR00015,2025-07-01,32,Masculino,Guayaquil,Administrativo,Móvil,Alta,5,61.3,21,10,0,7.4,1,No,Chat,Evaluaciones,4.1,6,Alta,1
+USR00314,2026-05-28,39,Femenino,Ibarra,Estudiante,Computador de escritorio,Alta,5,38.2,9,6,0,3.3,6,Sí,Correo,Soporte académico,4,5,Media,0
+USR00053,2026-03-16,18,Femenino,Quito,Estudiante,Laptop,Alta,3,69.3,18,9,3,6.1,1,No,Autoservicio,Soporte académico,3.7,5,Baja,0
+USR00577,2026-05-16,34,Masculino,Quito,Estudiante,Laptop,Alta,1,40,9,3,3,5,0,Sí,Chat,Evaluaciones,5,8,Media,0
+USR00840,2026-02-21,33,Femenino,Quito,Estudiante,Móvil,Media,8,21.3,22,8,3,5.1,4,Sí,Chat,Aula virtual,3.2,4,Baja,0
+USR01285,2026-01-05,22,Femenino,Loja,Estudiante,Computador de escritorio,Alta,6,37.9,19,5,0,10.8,2,Sí,Chat,Inscripciones,3.3,6,Media,0
+USR00034,2025-01-02,52,Masculino,Cuenca,Estudiante,Laptop,Media,6,62.3,20,7,1,3.1,0,No,Correo,Evaluaciones,2.2,3,Media,0
+USR01144,2025-09-17,25,Femenino,Quito,Estudiante,Laptop,Baja,5,36.6,22,5,4,6.9,5,Sí,Chat,Aula virtual,2.3,2,Alta,1
+USR00050,2025-01-27,17,Masculino,Cuenca,Estudiante,Laptop,Media,6,51.1,14,8,1,1.9,0,No,Autoservicio,Pagos,2.4,5,Baja,0
+USR00945,2026-05-12,30,Masculino,Loja,Estudiante,Laptop,Media,1,32.9,8,6,4,9.7,2,No,Correo,Inscripciones,3.4,5,Baja,0
+USR01013,2025-05-16,31,Femenino,Cuenca,Estudiante,Móvil,Media,8,36.2,20,8,0,2.8,3,No,Correo,Aula virtual,2.1,2,Baja,0
+USR01395,2025-03-29,17,Femenino,Quito,Estudiante,Laptop,Media,4,64.4,13,11,0,2.4,1,No,Chat,Biblioteca digital,3,4,Baja,0
+USR00324,2026-06-04,31,Masculino,Cuenca,Estudiante,Laptop,Alta,6,59.9,13,5,0,,0,No,Chat,Aula virtual,3.2,6,Media,0
+USR00131,2025-03-11,21,Masculino,Quito,Estudiante,Laptop,Baja,8,21.7,28,7,1,6.2,1,Sí,Autoservicio,Pagos,3.3,6,Baja,0
+USR00430,2025-03-10,24,Femenino,Cuenca,Estudiante,Laptop,Media,6,45.8,8,9,2,6.5,0,Sí,Autoservicio,Biblioteca digital,3.3,4,Baja,0
+USR00433,2025-10-13,33,Masculino,Quito,Docente,Móvil,Alta,4,45.7,17,11,1,5.3,6,No,Chat,Inscripciones,2.9,4,Media,0
+USR00181,2025-09-27,31,Masculino,Loja,Estudiante,Tablet,Media,6,60.9,17,7,0,0.8,2,Sí,Autoservicio,Aula virtual,3.4,6,Baja,0
+USR00859,2025-03-03,25,Femenino,Ibarra,Estudiante,Móvil,Media,3,38.9,27,5,0,,2,Sí,Chat,Aula virtual,3.1,6,Media,0
+USR01414,2026-05-26,35,Prefiere no decir,Cuenca,Estudiante,Laptop,Alta,8,22.7,14,4,2,3.6,1,Sí,Correo,Aula virtual,4.7,9,Alta,1
+USR00097,2026-01-20,18,Masculino,Quito,Estudiante,Móvil,Alta,6,18.5,13,4,2,4.3,3,Sí,Chat,Evaluaciones,4.3,5,Baja,0
+USR01412,2026-01-22,20,Masculino,Quito,Estudiante,Móvil,Alta,1,25.7,10,5,1,7.2,0,Sí,Correo,Biblioteca digital,3.5,6,Alta,1
+USR00339,2026-01-02,37,Masculino,Guayaquil,Estudiante,Laptop,Media,8,62.6,26,1,2,3,2,Sí,Correo,Inscripciones,4.1,7,Alta,1
+USR00165,2025-11-05,25,Masculino,Guayaquil,Docente,Laptop,Baja,6,51.6,19,4,0,14.2,1,Sí,Teléfono,Evaluaciones,3.6,5,Baja,0
+USR00060,2026-03-05,36,Prefiere no decir,Loja,Docente,Laptop,Media,9,61.6,16,13,1,2.4,5,No,Autoservicio,Biblioteca digital,2.6,3,Baja,0
+USR00128,2025-07-12,22,Masculino,Loja,Administrativo,Móvil,Baja,8,38.3,18,10,3,3.2,4,Sí,Chat,Inscripciones,2.9,5,Baja,0
+USR00547,2026-03-28,37,Masculino,Cuenca,Estudiante,Computador de escritorio,Baja,6,30.8,13,13,2,3.6,1,No,Chat,Biblioteca digital,1.6,3,Media,0
+USR00440,2026-01-22,17,Masculino,Guayaquil,Estudiante,Laptop,Media,6,59.1,19,9,0,8.4,1,No,Autoservicio,Pagos,2.6,4,Media,0
+USR00976,2025-10-10,17,Femenino,Manta,Estudiante,Móvil,Media,5,63.8,9,9,0,2.6,1,No,Chat,Aula virtual,2.1,3,Baja,0
+USR00530,2026-03-25,47,Masculino,Ambato,Administrativo,Laptop,Baja,1,33,6,10,3,3.3,3,No,Autoservicio,Inscripciones,2.2,2,Media,0
+USR00363,2025-05-08,31,Masculino,Quito,Docente,Móvil,Baja,4,32.1,16,6,6,9.4,9,Sí,Chat,Aula virtual,2.3,3,Baja,0
+USR00052,2025-01-08,28,Femenino,Ibarra,Estudiante,Móvil,Media,7,50.3,21,8,0,2.1,1,Sí,Correo,Biblioteca digital,3.2,6,Alta,1
+USR01321,2025-07-27,29,Femenino,Guayaquil,Estudiante,Laptop,Baja,6,46.2,27,9,7,8.6,3,Sí,Chat,Pagos,3,5,Baja,0
+USR00736,2025-02-16,23,Femenino,Ambato,Estudiante,Tablet,Baja,5,35,14,9,0,8.3,7,No,Chat,Evaluaciones,1.7,1,Baja,0
+USR01156,2025-11-04,21,Femenino,Quito,Estudiante,Laptop,Media,5,33.4,14,5,4,5.2,3,,Chat,Pagos,3.2,3,Media,0
+USR00508,2025-10-26,40,Masculino,Quito,Estudiante,Tablet,Alta,6,161.8,16,11,1,2.4,3,No,Autoservicio,Pagos,3.3,5,Baja,0
+USR00546,2026-05-31,32,Masculino,Quito,Estudiante,Laptop,Media,7,36,18,13,0,2.6,2,No,Chat,Soporte académico,2.8,5,Baja,0
+USR00670,2025-12-02,17,Masculino,Ibarra,Estudiante,Computador de escritorio,Media,3,24,19,0,2,6.4,1,Sí,Correo,Aula virtual,4,6,Media,0
+USR00982,2026-03-16,31,Femenino,Quito,Estudiante,Móvil,Alta,1,41.7,17,2,0,2.2,1,Sí,Teléfono,Inscripciones,4.6,7,Baja,0
+USR00436,2025-03-15,25,Femenino,Manta,Administrativo,Móvil,Media,3,35.9,25,1,2,14.2,0,Sí,Chat,Evaluaciones,3.2,5,Baja,0
+USR01442,2025-03-11,40,Masculino,Loja,Estudiante,Móvil,Baja,5,5.7,20,0,4,9.2,10,Sí,Correo,Inscripciones,1.9,3,Baja,0
+USR00350,2026-03-04,31,Masculino,Cuenca,Estudiante,Laptop,,7,37.4,17,7,2,,2,No,Chat,Aula virtual,2.9,4,Media,0
+USR00605,2026-02-18,24,Femenino,Guayaquil,Estudiante,Móvil,Media,8,12.4,16,4,0,1.6,2,No,Teléfono,Biblioteca digital,1.8,4,Media,0
+USR00006,2025-07-02,31,Femenino,Quito,Estudiante,Tablet,Media,10,27.6,28,3,0,5.9,1,Sí,Chat,Aula virtual,3.7,8,Alta,1
+USR01341,2025-02-16,36,Femenino,Guayaquil,Docente,Móvil,Media,4,32.7,23,1,0,9.2,2,Sí,Autoservicio,Soporte académico,3.5,6,Alta,1
+USR00955,2025-02-15,38,Femenino,Guayaquil,Administrativo,Laptop,Media,1,48.2,9,9,3,5.4,1,No,Autoservicio,Biblioteca digital,3.2,4,Media,0
+USR01259,2025-09-03,27,Masculino,Cuenca,Estudiante,Laptop,Media,3,22.1,10,13,0,5.1,1,No,Autoservicio,Evaluaciones,2.5,4,Media,0
+USR00402,2025-06-20,34,Masculino,Quito,Estudiante,Laptop,Alta,4,56,15,7,0,2.9,1,No,Chat,Pagos,3.6,5,Baja,0
+USR00078,2025-09-28,28,Masculino,Quito,Estudiante,Móvil,,6,60.1,13,11,3,4.9,1,,Chat,Aula virtual,2.5,3,Media,0
+USR00250,2025-09-10,24,Femenino,Guayaquil,Estudiante,Tablet,Alta,12,51.5,19,5,0,13,2,No,Autoservicio,Pagos,3.3,6,Alta,1
+USR00616,2025-07-21,20,Femenino,Ibarra,Docente,Móvil,Alta,10,40,12,0,4,6.1,4,Sí,Correo,Evaluaciones,4.4,6,Media,0
+USR00207,2026-01-31,32,Prefiere no decir,Quito,Estudiante,Tablet,Media,7,41,20,5,3,4.9,2,Sí,Correo,Biblioteca digital,4,6,Media,0
+USR00462,2025-08-23,35,Femenino,Quito,Estudiante,Laptop,Media,5,23.4,10,4,2,6.1,2,Sí,Chat,Evaluaciones,3.6,4,Baja,0
+USR00401,2025-05-29,19,Masculino,Ambato,Estudiante,Laptop,Baja,11,75,32,3,4,8.9,0,Sí,Chat,Evaluaciones,3.5,7,Baja,0
+USR00267,2025-06-14,40,Masculino,Guayaquil,Estudiante,Móvil,Alta,2,48.6,23,9,1,9.1,2,Sí,Correo,Soporte académico,3.7,6,Media,0
+USR00326,2025-01-31,35,Femenino,Quito,Estudiante,Laptop,Baja,6,54.1,23,14,4,10.6,6,No,Chat,Aula virtual,1.3,2,Baja,0
+USR00900,2026-02-02,26,Masculino,Guayaquil,Docente,Tablet,Alta,1,34.4,18,4,0,3.9,2,Sí,Chat,Inscripciones,4.3,6,Alta,1
+USR01312,2025-08-30,36,Femenino,Cuenca,Estudiante,Móvil,Media,6,24.3,20,7,0,,3,No,Chat,Inscripciones,1.8,4,Media,0
+USR00501,2025-08-22,27,Femenino,Cuenca,Estudiante,Laptop,,3,37.4,13,9,3,6.6,0,No,Chat,Evaluaciones,2.5,3,Baja,0
+USR01234,2025-11-09,44,Prefiere no decir,Ibarra,Estudiante,Laptop,Baja,8,24.5,24,6,3,4.5,3,Sí,Correo,Evaluaciones,3.3,6,Alta,1
+USR00604,2026-01-19,36,Femenino,Guayaquil,Estudiante,Móvil,Media,1,41.3,15,6,0,5.1,3,No,Chat,Biblioteca digital,2.8,4,Baja,0
+USR00199,2025-07-17,24,Masculino,Quito,Estudiante,Laptop,Baja,5,26.2,6,11,4,6.1,8,No,Chat,Biblioteca digital,2.8,2,Media,0
+USR01300,2025-04-21,51,Femenino,Guayaquil,Estudiante,Laptop,Media,9,28.4,17,0,0,,1,Sí,Correo,Aula virtual,3.1,5,Baja,0
+USR00503,2025-11-03,30,Femenino,Manta,Estudiante,Móvil,Baja,8,51,13,9,3,12.1,8,No,Chat,Aula virtual,1.5,0,Baja,0
+USR00334,2025-07-01,36,Femenino,Manta,Estudiante,Laptop,Baja,5,37.9,20,12,4,6.2,7,No,Chat,Aula virtual,1.7,2,Baja,0
+USR01026,2026-01-30,30,Femenino,Cuenca,Estudiante,Laptop,Media,5,46.4,25,4,0,4.3,2,Sí,Correo,Aula virtual,3.4,7,Baja,0
+USR00416,2026-04-17,22,Femenino,Quito,Estudiante,Móvil,Alta,3,34.4,7,9,1,4.2,5,No,Correo,Inscripciones,2.9,2,Media,0
+USR01131,2026-02-17,40,Femenino,Loja,Estudiante,Laptop,Media,6,64.1,20,12,0,5.8,4,No,Correo,Aula virtual,2.4,3,Baja,0
+USR00003,2025-03-23,42,Femenino,Guayaquil,Docente,Laptop,Media,1,35.4,9,8,0,5.2,0,No,Correo,Inscripciones,1.8,3,Baja,0
+USR01250,2025-11-20,18,Masculino,Cuenca,Estudiante,Tablet,Media,7,58.4,12,8,2,2.8,0,No,Chat,Biblioteca digital,3.1,4,Baja,0
+USR01428,2025-09-16,30,Femenino,Guayaquil,Estudiante,Computador de escritorio,Media,5,45.9,13,9,1,19.4,2,No,Teléfono,Inscripciones,2.9,4,Media,0
+USR01238,2026-03-09,17,Femenino,Loja,Administrativo,Móvil,Media,4,16.1,13,4,2,4.6,4,No,Chat,Pagos,2.4,2,Media,0
+USR01455,2025-05-21,17,Masculino,Guayaquil,Estudiante,Laptop,Media,7,70.6,22,15,4,11,4,No,Correo,Soporte académico,2.5,2,Media,0
+USR01411,2025-02-16,33,Femenino,Quito,Estudiante,Laptop,Baja,3,35.3,16,6,1,2.7,6,Sí,Chat,Evaluaciones,2.3,5,Baja,0
+USR00472,2025-12-23,24,Femenino,Loja,Docente,Móvil,Media,8,31,24,9,3,6,2,Sí,Correo,Evaluaciones,3.5,6,Baja,0
+USR01199,2026-06-09,40,Masculino,Quito,Administrativo,Tablet,Media,8,32.8,11,7,1,5.4,4,No,Correo,Evaluaciones,2.6,2,Media,0
+USR01287,2026-02-24,20,Masculino,Manta,Estudiante,Laptop,Media,9,38.5,30,1,1,3.8,0,Sí,Correo,Pagos,3.9,10,Alta,1
+USR00431,2025-01-23,37,Masculino,Quito,Estudiante,Móvil,Media,9,12.3,22,1,2,3.1,2,Sí,Correo,Soporte académico,3.7,5,Alta,1
+USR01364,2025-12-05,25,Masculino,Guayaquil,Estudiante,Laptop,Media,5,41.8,8,7,0,4.2,3,No,Correo,Evaluaciones,2,1,Media,0
+USR01209,2025-12-02,28,Masculino,Quito,Estudiante,Laptop,Media,6,40.9,13,10,0,1.1,2,No,Correo,Evaluaciones,3,6,Media,0
+USR00230,2025-02-24,33,Femenino,Cuenca,Administrativo,Laptop,Media,2,25.1,12,6,1,2,2,Sí,Correo,Inscripciones,3.9,6,Baja,0
+USR00516,2025-01-27,17,Femenino,Santo Domingo,Estudiante,Tablet,Alta,4,36.5,28,5,5,5.3,4,Sí,Chat,Inscripciones,5,7,Alta,1
+USR00257,2025-05-10,22,Femenino,Manta,Estudiante,Computador de escritorio,Baja,6,40.6,20,11,2,5.5,3,Sí,Autoservicio,Biblioteca digital,2.4,7,Media,0
+USR00793,2026-01-18,46,Masculino,Santo Domingo,Estudiante,Tablet,Media,7,22.6,10,7,2,10.5,2,No,Chat,Soporte académico,2.3,2,Media,0
+USR00303,2026-04-15,41,Masculino,Ibarra,Estudiante,Móvil,Alta,4,13.6,23,2,2,2.8,7,Sí,Chat,Pagos,3.4,6,Baja,0
+USR00824,2026-02-12,32,Masculino,Quito,Estudiante,Laptop,Media,3,30.7,17,8,0,11.6,0,No,Correo,Evaluaciones,3.1,6,Baja,0
+USR00912,2025-06-09,37,Masculino,Guayaquil,Estudiante,Laptop,Alta,5,31.4,12,8,4,5.5,1,Sí,Chat,Evaluaciones,4.9,9,Baja,0
+USR01443,2026-02-03,52,Prefiere no decir,Quito,Estudiante,Laptop,Alta,1,44.9,13,5,3,3,1,Sí,Correo,Biblioteca digital,4.4,5,Media,0
+USR00205,2025-06-23,43,Prefiere no decir,Guayaquil,Estudiante,Laptop,Alta,5,47.7,17,11,2,6.2,1,Sí,Chat,Evaluaciones,4.3,8,Alta,1
+USR01110,2025-12-27,31,Femenino,Ambato,Estudiante,Móvil,Alta,2,6,16,7,0,8.5,2,Sí,Chat,Soporte académico,4.3,7,Alta,1
+USR00168,2025-12-06,25,Masculino,Guayaquil,Estudiante,Laptop,Media,6,36.2,16,4,1,4.3,1,Sí,Correo,Evaluaciones,3.3,5,Media,0
+USR01452,2025-01-21,17,Masculino,Quito,Estudiante,Tablet,Media,4,55.4,17,6,1,3.6,2,Sí,Chat,Biblioteca digital,3.6,7,Baja,0
+USR00226,2026-04-25,20,Femenino,Quito,Estudiante,Móvil,Media,5,51.2,19,15,0,2.2,5,No,Chat,Evaluaciones,2.5,4,Media,0
+USR00439,2026-03-03,20,Femenino,Cuenca,Administrativo,Laptop,Baja,3,30.6,19,11,0,22.6,1,Sí,Correo,Inscripciones,2.1,3,Baja,0
+USR00489,2025-05-13,29,Masculino,Cuenca,Estudiante,Laptop,Alta,8,29.3,17,1,2,5.5,0,Sí,Correo,Evaluaciones,4.2,6,Media,0
+USR01034,2025-09-25,37,Masculino,Santo Domingo,Estudiante,Tablet,Alta,5,23.3,24,2,3,5.8,3,Sí,Chat,Biblioteca digital,4,7,Baja,0
+USR00438,2025-09-27,26,Masculino,Quito,Estudiante,Laptop,Alta,3,66.6,18,4,0,4.3,1,Sí,Chat,Evaluaciones,4.8,6,Alta,1
+USR00633,2026-01-25,25,Femenino,Quito,Estudiante,Móvil,Media,5,42.3,19,3,1,3.9,0,Sí,Chat,Soporte académico,4,7,Baja,0
+USR01263,2025-07-26,34,Masculino,Manta,Docente,Laptop,Media,9,44,19,5,0,,3,Sí,Chat,Evaluaciones,3.6,7,Alta,1
+USR00777,2026-05-04,36,Femenino,Quito,Administrativo,Móvil,Baja,1,31.2,9,12,3,3.5,7,No,Correo,Aula virtual,1,0,Baja,0
+USR00012,2025-03-16,35,Femenino,Cuenca,Estudiante,Laptop,Media,7,48,19,8,0,3.9,1,Sí,Chat,Pagos,2.6,4,Media,0
+USR00162,2025-01-10,25,Femenino,Guayaquil,Estudiante,Móvil,Alta,2,55.4,19,6,1,4.6,2,Sí,Chat,Evaluaciones,3.5,6,Baja,0
+USR01002,2025-05-12,42,Masculino,Quito,Estudiante,Móvil,Alta,1,36.5,7,0,1,5.7,1,Sí,Chat,Evaluaciones,4.1,6,Media,0
+USR00103,2025-01-26,23,Masculino,Quito,Docente,Móvil,Media,7,19,21,4,0,0.9,5,Sí,Teléfono,Biblioteca digital,4,5,Media,0
+USR00563,2025-06-03,30,Femenino,Quito,Docente,Tablet,Media,10,46.9,22,6,1,3.1,1,Sí,Correo,Biblioteca digital,4.2,9,Alta,1
+USR00564,2025-11-12,25,Masculino,Guayaquil,Estudiante,Móvil,Media,3,53.5,17,11,1,3.6,2,No,Correo,Pagos,3.4,5,Media,0
+USR01493,2025-09-17,25,Femenino,Santo Domingo,Estudiante,Tablet,Media,6,41.5,14,8,2,2.7,3,No,Teléfono,Pagos,2,0,Baja,0
+USR00730,2025-01-04,30,Femenino,Ambato,Estudiante,Tablet,Media,10,24.3,18,3,1,6.2,1,Sí,Chat,Evaluaciones,4.5,7,Alta,1
+USR00650,2025-12-02,38,Prefiere no decir,Quito,Administrativo,Tablet,Alta,6,32.2,24,9,0,2.7,0,No,Correo,Aula virtual,3.8,5,Alta,1
+USR01368,2025-09-14,34,Femenino,Quito,Estudiante,Laptop,Media,2,74.4,17,9,1,4.5,2,No,Chat,Soporte académico,3,5,Baja,0
+USR01440,2026-06-08,26,Masculino,Loja,Estudiante,Tablet,Media,5,32.6,11,0,0,0.6,2,Sí,Chat,Aula virtual,2.9,5,Baja,0
+USR01246,2025-12-07,17,Masculino,Quito,Estudiante,Laptop,Media,7,143.4,11,4,0,8.2,1,Sí,Correo,Aula virtual,2.6,6,Alta,1
+USR01211,2026-04-28,29,Femenino,Loja,Estudiante,Laptop,Media,3,41.4,18,12,1,2.1,1,No,Chat,Biblioteca digital,2.6,4,Baja,0
+USR00001,2025-04-25,38,Femenino,Manta,Estudiante,Tablet,Baja,5,34.3,18,8,5,7.8,2,Sí,Chat,Aula virtual,2.3,6,Baja,0
+USR00140,2025-01-10,43,Femenino,Quito,Estudiante,Móvil,Media,5,23.6,22,5,0,2.1,3,No,Autoservicio,Evaluaciones,2,2,Media,0
+USR01214,2025-06-12,42,Masculino,Quito,Estudiante,Tablet,Media,6,39.7,10,10,2,,1,No,Correo,Aula virtual,2.5,4,Baja,0
+USR00043,2025-08-28,18,Masculino,Guayaquil,Estudiante,Móvil,Media,6,39.6,20,14,2,3.4,1,Sí,Correo,Inscripciones,3.7,4,Baja,0
+USR00548,2025-03-17,26,Femenino,Loja,Estudiante,Móvil,Media,5,54.5,14,17,0,8.9,1,No,Chat,Soporte académico,2.8,4,Media,0
+USR01053,2025-08-27,37,Masculino,Loja,Estudiante,Laptop,Alta,2,40.7,13,10,1,1.5,2,No,Chat,Aula virtual,2.9,3,Media,0
+USR00544,2025-09-17,43,Masculino,Cuenca,Estudiante,Móvil,Media,9,58.9,15,9,0,1.3,6,No,Chat,Inscripciones,2.6,3,Baja,0
+USR01122,2025-02-11,25,Masculino,Guayaquil,Docente,Tablet,Alta,8,42.3,15,7,2,2.5,0,Sí,Correo,Biblioteca digital,4.8,9,Baja,0
+USR01420,2026-05-28,30,Masculino,Cuenca,Estudiante,Tablet,Baja,9,61,22,8,0,2.3,7,Sí,Chat,Biblioteca digital,2.8,1,Media,0
+USR00901,2026-01-30,55,Femenino,Ambato,Estudiante,Laptop,Baja,6,32.9,13,14,3,5.6,5,No,Correo,Soporte académico,1,2,Baja,0
+USR00236,2026-01-24,45,Masculino,Guayaquil,Estudiante,Móvil,Media,4,54,20,4,0,10.9,2,Sí,Teléfono,Pagos,3.1,5,Media,0
+USR00913,2025-12-30,33,Femenino,Ambato,Estudiante,Móvil,Alta,9,36.7,23,7,0,10.8,5,No,Chat,Aula virtual,3.3,1,Baja,0
+USR00933,2025-12-24,49,Masculino,Manta,Estudiante,Laptop,Media,2,22.6,10,6,0,2.4,0,No,Chat,Aula virtual,2.6,5,Media,0
+USR00794,2025-06-07,39,Masculino,Guayaquil,Estudiante,Móvil,Alta,9,28.3,19,7,0,1.9,2,Sí,Chat,Aula virtual,4.2,8,Media,0
+USR00920,2026-05-01,23,Masculino,Quito,Administrativo,Móvil,Media,6,34.7,20,0,0,41.6,0,Sí,Correo,Biblioteca digital,4.1,8,Alta,1
+USR00109,2025-10-15,26,Prefiere no decir,Quito,Estudiante,Computador de escritorio,Media,4,38,9,11,1,7.6,2,,Teléfono,Aula virtual,2.7,4,Baja,0
+USR00857,2025-04-01,30,Femenino,Ambato,Estudiante,Laptop,Alta,5,27.4,17,1,1,13.9,3,Sí,Chat,Aula virtual,4.1,8,Baja,0
+USR00426,2025-07-21,34,Femenino,Santo Domingo,Estudiante,Laptop,Alta,1,63.5,24,0,0,1.8,1,Sí,Correo,Pagos,4.4,7,Alta,1
+USR00032,2025-10-23,36,Femenino,Guayaquil,Estudiante,Laptop,Media,8,26.3,20,4,1,11.5,4,Sí,Correo,Inscripciones,4,7,Media,0
+USR00471,2025-12-01,26,Femenino,Guayaquil,Estudiante,Móvil,Media,9,27.2,16,11,3,4.9,1,No,Chat,Aula virtual,2.9,4,Media,0
+USR00653,2025-05-14,21,Masculino,Loja,Estudiante,Móvil,Media,5,37.2,17,4,0,3.6,0,Sí,Chat,Biblioteca digital,4.6,10,Alta,1
+USR00175,2026-01-26,21,Masculino,Loja,Estudiante,Laptop,Media,8,26.7,13,8,1,4.5,0,No,Autoservicio,Aula virtual,3.1,5,Baja,0
+USR01305,2026-06-12,25,Masculino,Quito,Estudiante,Móvil,Media,9,40.5,16,12,0,6.4,1,No,Chat,Soporte académico,2.4,6,Media,0
+USR00292,2026-02-17,28,Femenino,Ambato,Estudiante,Laptop,Media,5,35.2,14,0,0,9,1,,Teléfono,Aula virtual,3,5,Media,0
+USR00799,2025-11-21,24,Femenino,Guayaquil,Estudiante,Laptop,Alta,6,26.9,23,7,3,3.7,1,Sí,Chat,Aula virtual,4,6,Media,0
+USR00594,2025-10-12,43,Femenino,Guayaquil,Estudiante,Laptop,Alta,6,45.9,27,4,1,2.2,3,Sí,Chat,Inscripciones,4.1,4,Alta,1
+USR01174,2026-01-03,35,Masculino,Guayaquil,Estudiante,Tablet,Media,7,28.1,16,4,1,1.9,2,No,Correo,Pagos,2.5,1,Media,0
+USR00016,2025-03-13,32,Prefiere no decir,Quito,Estudiante,Laptop,Alta,6,41.1,23,4,2,7,3,Sí,Autoservicio,Aula virtual,3.5,5,Media,0
+USR00827,2025-07-12,18,Femenino,Quito,Estudiante,Laptop,Media,1,53.6,7,5,0,3.4,0,Sí,Autoservicio,Soporte académico,3.8,6,Media,0
+USR00393,2025-01-12,31,Masculino,Cuenca,Estudiante,Laptop,Alta,3,56.3,18,5,1,3.5,0,Sí,Correo,Evaluaciones,4.7,8,Media,0
+USR01190,2025-11-04,30,Femenino,Loja,Estudiante,Laptop,Alta,5,39.1,6,5,1,4.6,4,Sí,Chat,Aula virtual,3.7,7,Alta,1
+USR01133,2025-02-16,21,Femenino,Guayaquil,Estudiante,Laptop,Media,5,38.2,13,10,3,9.9,0,No,Autoservicio,Evaluaciones,2.6,3,Media,0
+USR00606,2025-10-10,42,Femenino,Quito,Estudiante,Computador de escritorio,Media,7,54.4,20,11,2,8.1,1,Sí,Chat,Evaluaciones,3.4,6,Media,0
+USR00775,2025-08-30,44,Femenino,Cuenca,Estudiante,Laptop,Media,5,44.5,15,3,0,2.2,0,Sí,Autoservicio,Aula virtual,3.5,6,Alta,1
+USR00374,2026-05-29,23,Masculino,Ambato,Docente,Laptop,Alta,8,45.1,15,6,3,5.5,1,No,Chat,Pagos,2.3,4,Baja,0
+USR00783,2025-10-16,22,Femenino,Guayaquil,Estudiante,Tablet,Alta,6,68.6,20,6,0,13.3,1,No,Chat,Aula virtual,2.5,3,Baja,0
+USR01059,2025-09-22,32,Masculino,Quito,Estudiante,Laptop,Media,6,30.6,10,2,0,3.3,2,,Teléfono,Evaluaciones,3.7,7,Media,0
+USR00760,2025-11-10,36,Masculino,Quito,Estudiante,Laptop,Baja,6,50.1,22,15,4,5.2,5,No,Chat,Biblioteca digital,1.2,1,Baja,0
+USR00667,2025-06-15,19,Masculino,Cuenca,Docente,Laptop,Media,3,41.2,11,4,0,1.9,3,Sí,Autoservicio,Aula virtual,2.5,2,Baja,0
+USR01126,2025-09-27,24,Masculino,Manta,Estudiante,Laptop,Alta,4,57.1,6,2,1,2.4,0,Sí,Correo,Biblioteca digital,5,8,Media,0
+USR00971,2025-01-30,34,Masculino,Guayaquil,Administrativo,Laptop,Alta,3,33.3,12,6,2,5.9,0,No,Correo,Aula virtual,3.6,6,Baja,0
+USR00214,2026-02-28,17,Femenino,Quito,Estudiante,Tablet,Alta,3,17.7,17,13,3,6.6,3,No,Chat,Pagos,2.7,2,Media,0
+USR00146,2025-04-16,24,Femenino,Cuenca,Estudiante,Tablet,Media,2,66.5,21,4,2,10.2,0,Sí,Teléfono,Inscripciones,3.8,9,Alta,1
+USR01072,2026-05-04,17,Masculino,Cuenca,Estudiante,Móvil,Media,7,48.9,12,10,0,0.9,3,No,Chat,Biblioteca digital,1.6,0,Baja,0
+USR00528,2025-01-27,19,Femenino,Quito,Estudiante,Laptop,Media,7,33.5,18,2,2,7.6,1,Sí,Chat,Biblioteca digital,3.4,4,Baja,0
+USR00455,2025-05-02,28,Femenino,Quito,Administrativo,Laptop,Media,8,59.7,24,3,1,4.8,3,Sí,Chat,Aula virtual,3.1,6,Baja,0
+USR01024,2025-03-19,39,Masculino,Loja,Estudiante,Móvil,Baja,4,53.2,20,10,6,8.4,6,Sí,Chat,Aula virtual,2.3,4,Baja,0
+USR01248,2026-05-19,37,Femenino,Guayaquil,Estudiante,Laptop,Media,5,35.8,12,7,0,9.6,0,No,Chat,Evaluaciones,1.7,3,Baja,0
+USR00738,2025-03-02,31,Femenino,Cuenca,Administrativo,Móvil,Alta,6,41.3,24,12,1,1.7,1,No,Chat,Evaluaciones,3.3,5,Alta,1
+USR01369,2025-07-10,28,Masculino,Santo Domingo,Estudiante,Computador de escritorio,Media,2,39.5,14,5,2,2.3,1,Sí,Correo,Evaluaciones,3.1,7,Baja,0
+USR01408,2025-11-24,22,Masculino,Ibarra,Estudiante,Tablet,Media,8,11.6,21,6,0,3.5,0,Sí,Correo,Aula virtual,4,9,Baja,0
+USR00377,2025-08-06,29,Masculino,Guayaquil,Estudiante,Móvil,Media,7,37.1,17,1,3,9.9,1,Sí,Correo,Inscripciones,3.3,5,Alta,1
+USR00715,2026-01-26,33,Femenino,Guayaquil,Estudiante,Móvil,,5,22.8,18,9,5,8.3,1,No,Teléfono,Biblioteca digital,2.3,2,Alta,1
+USR01310,2025-05-19,41,Femenino,Ambato,Estudiante,Móvil,Alta,2,35.3,17,3,3,5.4,3,Sí,Correo,Inscripciones,4.1,4,Alta,1
+USR00872,2025-01-20,20,Femenino,Ambato,Estudiante,Móvil,Alta,6,47.7,14,9,2,4.8,6,No,Correo,Biblioteca digital,3,2,Media,0
+USR01021,2025-02-20,42,Femenino,Guayaquil,Estudiante,Laptop,Media,3,43.3,8,5,2,64.1,1,No,Correo,Aula virtual,1.9,3,Media,0
+USR00725,2025-09-25,30,Masculino,Loja,Docente,Móvil,Media,6,60.2,16,9,0,4.7,1,No,Correo,Evaluaciones,2.5,3,Media,0
+USR01140,2025-07-09,35,Masculino,Guayaquil,Estudiante,Móvil,Alta,1,35.8,16,7,1,13.4,1,Sí,Chat,Aula virtual,4.1,6,Baja,0
+USR00755,2025-10-29,18,Masculino,Quito,Estudiante,Laptop,Media,4,45,20,4,0,1.5,3,Sí,Correo,Aula virtual,3.4,5,Alta,1
+USR01135,2025-06-07,29,Femenino,Loja,Estudiante,Computador de escritorio,Media,5,35.5,23,14,2,10.9,0,No,Correo,Inscripciones,2.9,5,Baja,0
+USR00017,2025-09-18,40,Femenino,Ambato,Estudiante,Computador de escritorio,Alta,6,57.6,16,4,0,9.9,1,Sí,Correo,Soporte académico,3.7,6,Alta,1
+USR00349,2025-07-13,34,Femenino,Manta,Estudiante,Móvil,Alta,4,64.7,9,12,2,4,2,No,Teléfono,Evaluaciones,2.3,4,Baja,0
+USR00641,2025-03-25,36,Masculino,Quito,Docente,Móvil,Media,7,49.8,16,6,0,3.5,2,No,Teléfono,Inscripciones,2.9,4,Baja,0
+USR00352,2026-03-16,29,Femenino,Manta,Estudiante,Laptop,Media,10,38,23,4,2,9.4,0,Sí,Chat,Inscripciones,3.7,6,Media,0
+USR01080,2025-06-25,32,Masculino,Manta,Administrativo,Laptop,Media,6,27.7,18,7,1,55.3,3,No,Autoservicio,Aula virtual,2.3,4,Media,0
+USR01384,2025-04-19,26,Femenino,Ambato,Docente,Móvil,Media,9,164.8,21,8,3,6.8,2,Sí,Chat,Aula virtual,4.8,7,Media,0
+USR00549,2026-02-02,49,Femenino,Quito,Docente,Laptop,Media,8,58.9,22,9,2,10.3,0,No,Correo,Aula virtual,3,4,Baja,0
+USR00556,2025-03-24,37,Femenino,Quito,Docente,Tablet,Baja,5,41,13,8,4,9.7,1,No,Chat,Aula virtual,1.1,4,Media,0
+USR01405,2025-03-14,32,Masculino,Santo Domingo,Estudiante,Móvil,Alta,10,52.3,32,2,0,,2,Sí,Teléfono,Aula virtual,4.9,9,Alta,1
+USR01037,2025-08-29,26,Masculino,Quito,Estudiante,Móvil,Alta,7,32.3,10,5,1,2.4,0,No,Chat,Aula virtual,3.3,6,Media,0
+USR00079,2025-05-30,29,Masculino,Guayaquil,Estudiante,Laptop,Media,7,40.1,18,2,0,1.3,0,Sí,Correo,Soporte académico,3.7,8,Baja,0
+USR00405,2026-03-01,33,Masculino,Loja,Estudiante,Móvil,Media,5,21,17,2,0,0.8,0,Sí,Correo,Biblioteca digital,4.5,7,Alta,1
+USR00885,2025-04-03,37,Femenino,Guayaquil,Estudiante,Laptop,Alta,8,69.1,27,8,1,3.9,1,No,Chat,Aula virtual,3.5,6,Baja,0
+USR01168,2025-05-08,25,Femenino,Guayaquil,Estudiante,Móvil,Baja,5,56.7,15,5,3,6.5,8,Sí,Autoservicio,Evaluaciones,2.7,2,Media,0
+USR00829,2025-06-20,35,Masculino,Guayaquil,Estudiante,Tablet,Alta,3,63.4,18,7,3,15.4,0,No,Chat,Evaluaciones,3.1,5,Media,0
+USR00854,2025-10-29,29,Femenino,Cuenca,Administrativo,Móvil,Baja,4,39,17,14,2,2,7,No,Chat,Aula virtual,1,2,Media,0
+USR01479,2025-06-21,41,Femenino,Guayaquil,Estudiante,Móvil,Baja,7,34.7,11,10,2,3.7,6,No,Correo,Aula virtual,1.5,2,Baja,0
+USR01092,2026-01-30,45,Femenino,Guayaquil,Estudiante,Móvil,Baja,3,31.3,6,17,2,10.5,5,No,Autoservicio,Aula virtual,1,1,Media,0
+USR00328,2026-06-05,43,Prefiere no decir,Santo Domingo,Estudiante,Laptop,Media,5,20,9,8,0,2.1,2,No,Chat,Biblioteca digital,2.5,2,Baja,0
+USR01276,2025-09-22,22,Femenino,Manta,Estudiante,Laptop,Alta,2,55.9,15,11,1,2.7,1,Sí,Correo,Aula virtual,4.3,8,Media,0
+USR01220,2026-04-08,25,Femenino,Santo Domingo,Estudiante,Laptop,Media,4,59.8,10,12,1,6.7,1,No,Chat,Inscripciones,2.2,5,Media,0
+USR01297,2025-11-25,32,Femenino,Ambato,Estudiante,Laptop,,3,42.5,15,2,0,2.7,0,Sí,Chat,Aula virtual,2.6,4,Baja,0
+USR00834,2025-11-28,23,Masculino,Quito,Estudiante,Móvil,Alta,6,35,16,1,4,6.1,6,Sí,Chat,Soporte académico,4.2,5,Alta,1
+USR00763,2026-04-24,32,Masculino,Manta,Estudiante,Móvil,Media,3,29.2,1,11,0,2.9,4,No,Teléfono,Soporte académico,2.3,2,Baja,0
+USR00873,2025-08-24,17,Femenino,Guayaquil,Estudiante,Laptop,Baja,5,53.2,14,5,4,7.1,5,Sí,Correo,Evaluaciones,1.9,0,Baja,0
+USR00688,2025-04-26,20,Femenino,Manta,Docente,Laptop,Alta,8,47.2,20,11,1,7.5,0,No,Correo,Aula virtual,3.6,4,Baja,0
+USR00195,2025-04-20,35,Prefiere no decir,Ambato,Estudiante,Móvil,Media,6,58.7,27,1,1,2.3,3,Sí,Correo,Pagos,3.9,5,Media,0
+USR00304,2025-11-08,17,Masculino,Quito,Estudiante,Tablet,Alta,2,11.7,7,6,0,10.9,2,No,Chat,Pagos,3.1,2,Baja,0
+USR00798,2025-01-13,22,Femenino,Quito,Estudiante,Tablet,Media,1,16.9,18,9,0,8.3,1,Sí,Correo,Pagos,3.4,5,Media,0
+USR00595,2025-01-24,23,Femenino,Ambato,Docente,Laptop,Media,6,46,13,9,3,,4,No,Chat,Evaluaciones,1.6,2,Baja,0
+USR01207,2026-02-12,33,Masculino,Manta,Estudiante,Laptop,Media,5,72.7,12,9,2,,0,No,Chat,Biblioteca digital,2.2,4,Media,0
+USR00877,2026-06-24,29,Femenino,Loja,Estudiante,Laptop,Alta,9,31.6,17,5,1,,3,Sí,Correo,Aula virtual,3.7,7,Baja,0
+USR00576,2026-01-22,36,Femenino,Guayaquil,Docente,Laptop,Alta,7,30.1,15,7,1,13.4,4,No,Chat,Aula virtual,2.7,4,Media,0
+USR00313,2025-05-04,37,Masculino,Quito,Estudiante,Móvil,Alta,6,39.6,20,0,0,3.9,3,Sí,Chat,Biblioteca digital,3.3,7,Media,0
+USR01153,2026-01-27,35,Masculino,Loja,Estudiante,Móvil,Alta,4,17.6,11,4,1,,2,Sí,Chat,Soporte académico,4.5,8,Baja,0
+USR00135,2026-05-02,25,Femenino,Guayaquil,Docente,Laptop,Media,5,62.6,24,9,5,5.5,3,Sí,Correo,Soporte académico,3.4,7,Baja,0
+USR01425,2025-12-08,34,Femenino,Guayaquil,Docente,Móvil,Baja,7,41.4,16,8,0,8,5,Sí,Correo,Aula virtual,3.3,4,Media,0
+USR01098,2025-02-02,43,Masculino,Santo Domingo,Estudiante,Laptop,Alta,5,36.9,18,0,0,2.6,0,Sí,Chat,Soporte académico,5,9,Alta,1
+USR01129,2025-12-19,18,Masculino,Guayaquil,Estudiante,Móvil,Media,5,54.9,15,6,2,,2,Sí,Autoservicio,Biblioteca digital,2.7,4,Baja,0
+USR01224,2026-04-07,17,Femenino,Cuenca,Estudiante,Laptop,Baja,6,29.2,23,7,2,2.9,6,Sí,Correo,Aula virtual,2.3,3,Baja,0
+USR00683,2025-03-13,17,Femenino,Cuenca,Docente,Móvil,Media,4,20.4,13,9,2,11.4,1,Sí,Chat,Aula virtual,3.8,7,Baja,0
+USR00099,2025-03-20,17,Masculino,Guayaquil,Estudiante,Móvil,Baja,9,12.8,29,4,4,14.7,4,Sí,Chat,Evaluaciones,2,2,Baja,0
+USR00726,2026-01-31,33,Masculino,Cuenca,Estudiante,Móvil,Media,12,54.9,22,8,2,3.7,4,Sí,Autoservicio,Inscripciones,3.8,7,Alta,1
+USR00276,2025-03-10,40,Masculino,Guayaquil,Estudiante,Laptop,Baja,4,31.1,10,12,1,6.6,4,No,Correo,Aula virtual,1.1,0,Baja,0
+USR00673,2026-05-21,33,Masculino,Quito,Estudiante,Laptop,Media,5,42.5,16,11,0,9.8,0,No,Chat,Aula virtual,2,3,Baja,0
+USR00968,2025-04-01,24,Femenino,Guayaquil,Estudiante,Laptop,Baja,1,78.3,7,13,2,3.6,3,No,Chat,Aula virtual,1,3,Baja,0
+USR00672,2025-07-11,36,Femenino,Cuenca,Estudiante,Móvil,Alta,2,36.6,14,6,0,,0,Sí,Correo,Soporte académico,5,10,Alta,1
+USR00582,2025-11-24,29,Femenino,Quito,Estudiante,Móvil,Alta,9,9.4,11,0,0,5,5,No,Correo,Inscripciones,2.8,4,Media,0
+USR00948,2025-12-04,41,Masculino,Ibarra,Estudiante,Laptop,Baja,4,22.3,11,12,3,7.4,2,No,Autoservicio,Aula virtual,1.8,3,Baja,0
+USR01390,2025-01-05,35,Masculino,Guayaquil,Estudiante,Laptop,Alta,4,71.5,25,6,2,,1,Sí,Autoservicio,Inscripciones,3.5,6,Media,0
+USR00397,2025-05-13,20,Masculino,Quito,Estudiante,Laptop,Media,6,48.4,15,10,0,3.8,3,No,Autoservicio,Aula virtual,2.8,2,Media,0
+USR00769,2025-07-02,30,Femenino,Guayaquil,Docente,Laptop,Media,4,170.9,10,4,3,8.1,2,No,Chat,Biblioteca digital,2.6,5,Media,0
+USR00825,2025-01-18,24,Masculino,Manta,Estudiante,Móvil,Media,5,42.4,22,3,4,9,2,Sí,Correo,Evaluaciones,2.3,3,Baja,0
+USR00721,2025-12-21,26,Masculino,Guayaquil,Estudiante,Laptop,Alta,1,46.8,18,2,0,2.1,1,Sí,Autoservicio,Soporte académico,5,9,Media,0
+USR01184,2025-07-04,35,Femenino,Quito,Estudiante,Laptop,Media,6,27.2,13,12,0,2.3,0,No,Chat,Biblioteca digital,3.2,5,Media,0
+USR00171,2026-01-23,22,Masculino,Guayaquil,Estudiante,Tablet,Media,8,16.4,22,3,1,5.2,2,Sí,Autoservicio,Biblioteca digital,4.1,7,Media,0
+USR01192,2026-04-25,29,Femenino,Quito,Estudiante,Computador de escritorio,Alta,2,21.6,17,2,0,3.1,2,No,Chat,Evaluaciones,3.9,6,Alta,1
+USR00521,2026-06-01,37,Masculino,Guayaquil,Estudiante,Móvil,Alta,9,39.8,15,4,1,4.6,0,Sí,Teléfono,Biblioteca digital,2.7,5,Media,0
+USR00141,2026-01-19,19,Femenino,Manta,Estudiante,Laptop,Media,4,65.2,16,6,3,4.8,3,Sí,Chat,Inscripciones,2.7,4,Baja,0
+USR01042,2025-06-26,20,Masculino,Quito,Estudiante,Móvil,Alta,3,41.2,31,2,1,14.2,3,Sí,Correo,Inscripciones,4.2,6,Baja,0
+USR01034,2025-09-25,37,Masculino,Santo Domingo,Estudiante,Tablet,Alta,5,23.3,24,2,3,5.8,3,Sí,Chat,Biblioteca digital,4,7,Baja,0
+USR01106,2025-11-18,18,Femenino,Santo Domingo,Estudiante,Computador de escritorio,Media,7,27.9,21,5,2,3.8,2,Sí,Chat,Aula virtual,2.9,5,Alta,1
+USR00452,2026-04-27,39,Masculino,Quito,Estudiante,Laptop,Alta,9,26,15,11,0,12.2,0,No,Chat,Evaluaciones,1.8,1,Media,0
+USR00361,2025-02-23,39,Femenino,Guayaquil,Estudiante,Móvil,Media,7,27.9,18,4,0,1.3,3,Sí,Chat,Aula virtual,3,4,Alta,1
+USR00878,2025-10-29,38,Femenino,Santo Domingo,Estudiante,Laptop,Alta,5,49.7,13,6,2,3.3,5,Sí,Correo,Aula virtual,4.5,6,Baja,0
+USR01451,2026-01-06,27,Masculino,Cuenca,Estudiante,Móvil,Media,3,62.6,20,6,2,8.2,3,Sí,Teléfono,Aula virtual,3.5,4,Baja,0
+USR00087,2025-10-10,37,Masculino,Quito,Estudiante,Móvil,Alta,9,21.5,15,6,0,2.9,2,No,Chat,Aula virtual,2.2,6,Media,0
+USR01138,2025-08-10,35,Femenino,Ibarra,Estudiante,Laptop,Baja,7,50.6,17,11,5,6.3,5,No,Chat,Biblioteca digital,1.4,2,Baja,0
+USR01075,2026-02-03,35,Femenino,Santo Domingo,Docente,Laptop,Media,11,34.9,26,12,2,3.4,1,No,Chat,Biblioteca digital,3.4,5,Media,0
+USR00252,2025-12-07,17,Masculino,Quito,Estudiante,Móvil,Media,3,26.1,18,7,2,3,1,No,Chat,Inscripciones,2.6,4,Media,0
+USR01298,2025-07-10,38,Femenino,Manta,Estudiante,Móvil,Media,2,54,15,4,3,4.9,2,Sí,Autoservicio,Pagos,3.5,4,Media,0
+USR00589,2025-08-19,30,Masculino,Ambato,Docente,Móvil,Alta,4,32.3,18,6,1,7.1,1,Sí,Correo,Aula virtual,3.8,5,Media,0
+USR01155,2025-11-30,17,Masculino,Ibarra,Estudiante,Móvil,Media,3,53,14,6,4,,3,Sí,Correo,Biblioteca digital,2.9,5,Baja,0
+USR01095,2026-06-06,17,Masculino,Cuenca,Docente,Laptop,Media,4,20.6,4,11,0,1.7,2,No,Chat,Aula virtual,3.5,6,Media,0
+USR01283,2026-05-17,34,Masculino,Guayaquil,Estudiante,Móvil,Media,9,15.3,6,3,0,6,4,No,Chat,Soporte académico,2.5,5,Baja,0
+USR00453,2025-12-30,49,Masculino,Ambato,Estudiante,Móvil,Alta,3,44.1,8,9,1,5.8,1,No,Teléfono,Inscripciones,3.3,6,Media,0
+USR00479,2025-02-04,29,Femenino,Santo Domingo,Estudiante,Móvil,Media,6,46.5,21,9,0,5,1,No,Chat,Pagos,1.9,2,Media,0
+USR00602,2025-12-29,37,Masculino,Cuenca,Docente,Laptop,Media,5,46.1,11,7,0,2.9,4,No,Chat,Evaluaciones,2,3,Baja,0
+USR01418,2025-11-15,33,Masculino,Guayaquil,Estudiante,Laptop,Alta,3,79.9,9,5,0,12.1,1,Sí,Correo,Evaluaciones,3.9,7,Alta,1
+USR00124,2025-09-13,30,Femenino,Quito,Docente,Laptop,Baja,2,57.2,9,9,3,5.6,4,,Chat,Aula virtual,2.5,2,Baja,0
+USR01071,2025-05-29,27,Femenino,Quito,Estudiante,Móvil,Media,5,5,11,4,1,7.4,0,Sí,Correo,Biblioteca digital,4,7,Media,0
+USR00076,2025-04-23,23,Prefiere no decir,Cuenca,Docente,Móvil,Alta,7,8.9,19,1,2,10.8,5,Sí,Correo,Soporte académico,4.1,8,Media,0
+USR00731,2025-01-14,38,Femenino,Loja,Estudiante,Móvil,Alta,4,22.6,15,4,3,9.7,2,No,Autoservicio,Aula virtual,2.8,3,Baja,0
+USR01392,2025-04-02,28,Femenino,Guayaquil,Docente,Laptop,Media,2,59.1,13,6,4,5.1,0,Sí,Chat,Soporte académico,3.6,4,Media,0
+USR00005,2025-04-23,34,Masculino,Cuenca,Estudiante,Móvil,Media,6,32.7,17,8,0,5.9,2,Sí,Correo,Soporte académico,3.9,8,Media,0
+USR01120,2025-12-02,23,Masculino,Cuenca,Estudiante,Tablet,Baja,6,64.9,15,4,3,9.5,5,Sí,Teléfono,Evaluaciones,1.6,3,Media,0
+USR01358,2025-05-06,25,Femenino,Cuenca,Administrativo,Laptop,Media,7,30.3,10,8,1,5.7,0,No,Correo,Inscripciones,1.9,3,Baja,0
+USR00922,2026-04-16,19,Femenino,Quito,Estudiante,Laptop,Alta,7,43,15,6,3,4.3,1,Sí,Correo,Biblioteca digital,5,8,Media,0
+USR01339,2026-05-23,37,Masculino,Quito,Docente,Móvil,Media,8,38.4,26,6,3,5.8,2,No,Correo,Aula virtual,2.9,4,Baja,0
+USR00520,2026-04-13,30,Masculino,Manta,Estudiante,Móvil,Baja,6,44.2,17,7,2,8.6,5,Sí,Correo,Soporte académico,1,3,Media,0
+USR00244,2026-03-13,31,Femenino,Loja,Estudiante,Laptop,Baja,7,40.6,19,11,4,8.4,5,No,Correo,Pagos,1.1,1,Media,0
+USR00518,2025-07-09,41,Masculino,Quito,Estudiante,Móvil,Media,7,27.6,18,6,1,18,0,Sí,Autoservicio,Aula virtual,2.7,3,Baja,0
+USR00614,2025-09-16,37,Femenino,Loja,Estudiante,Computador de escritorio,Alta,5,12.9,8,2,1,2.8,0,No,Correo,Evaluaciones,4.3,8,Alta,1
+USR00741,2026-04-25,35,Masculino,Ambato,Estudiante,Laptop,Alta,4,38,15,14,0,2.5,0,No,Chat,Soporte académico,3.6,6,Baja,0
+USR01463,2025-09-15,33,Femenino,Quito,Estudiante,Tablet,Alta,7,37.8,23,5,0,4.3,3,Sí,Teléfono,Inscripciones,3.7,6,Alta,1
+USR00164,2025-07-02,33,Masculino,Cuenca,Estudiante,Laptop,Media,8,45.5,14,4,0,5,0,Sí,Correo,Biblioteca digital,5,10,Media,0
+USR00365,2026-01-26,27,Femenino,Ibarra,Estudiante,Computador de escritorio,Baja,4,22.6,12,6,1,6,6,Sí,Correo,Aula virtual,3.3,4,Media,0
+USR01160,2025-01-04,35,Masculino,Cuenca,Docente,Móvil,Media,3,27.6,25,2,4,13.7,4,Sí,Correo,Aula virtual,3.7,6,Media,0
+USR00074,2026-03-18,22,Femenino,Quito,Estudiante,Laptop,Baja,4,58.3,12,8,4,7.3,2,Sí,Correo,Pagos,3.3,6,Media,0
+USR00619,2025-09-22,34,Femenino,Quito,Estudiante,Móvil,Media,7,27.8,9,10,1,15.5,2,No,Chat,Soporte académico,2.5,4,Media,0
+USR00555,2025-03-27,17,Femenino,Cuenca,Estudiante,Computador de escritorio,Media,10,40.9,22,4,2,8.2,1,Sí,Correo,Soporte académico,5,8,Media,0
+USR00815,2025-12-31,29,Prefiere no decir,Guayaquil,Estudiante,Móvil,Alta,5,63.4,6,1,2,5.1,2,Sí,Correo,Biblioteca digital,4.1,8,Alta,1
+USR00300,2025-01-19,30,Femenino,Quito,Estudiante,Laptop,Alta,6,50.5,14,3,4,19,1,Sí,Teléfono,Pagos,2.6,4,Media,0
+USR01431,2025-10-05,27,Femenino,Quito,Estudiante,Laptop,Alta,1,5,15,7,1,8.9,1,Sí,Chat,Pagos,4,7,Media,0
+USR00875,2026-06-26,21,Femenino,Quito,Docente,Móvil,Alta,7,47,27,5,0,2.2,4,Sí,Autoservicio,Soporte académico,4.1,8,Alta,1
+USR00870,2025-09-08,20,Femenino,Loja,Estudiante,Laptop,Media,8,61.3,25,3,1,4.4,0,Sí,Chat,Aula virtual,4.1,5,Alta,1
+USR00291,2025-02-14,18,Femenino,Manta,Estudiante,Computador de escritorio,Media,1,35.6,17,11,3,5.1,3,Sí,Chat,Inscripciones,4.8,8,Baja,0
+USR00156,2026-05-10,31,Masculino,Ambato,Docente,Móvil,,6,27.3,9,13,3,5.3,4,No,Chat,Inscripciones,1.3,4,Media,0
+USR00338,2025-05-20,33,Femenino,Ambato,Estudiante,Laptop,Media,7,15.2,21,5,2,5.4,2,Sí,Autoservicio,Aula virtual,4.4,8,Baja,0
+USR00136,2025-03-10,30,Femenino,Cuenca,Estudiante,Tablet,Media,2,23.4,14,10,0,1.4,0,No,Chat,Inscripciones,2.3,3,Baja,0
+USR00792,2026-01-15,48,Femenino,Quito,Docente,Tablet,Alta,6,49.1,25,6,0,1.1,2,Sí,Chat,Biblioteca digital,4.4,8,Baja,0
+USR00879,2025-09-30,34,Femenino,Quito,Estudiante,Laptop,Baja,7,54.9,37,5,4,5,3,Sí,Autoservicio,Aula virtual,2.9,4,Media,0
+USR00718,2025-04-22,19,Femenino,Guayaquil,Estudiante,Laptop,Baja,6,52.1,12,18,3,19.7,2,No,Correo,Aula virtual,1,2,Media,0
+USR00129,2025-03-16,17,Femenino,Quito,Estudiante,Laptop,Baja,9,37.1,15,15,3,3.9,5,No,Teléfono,Soporte académico,2,2,Media,0
+USR01377,2025-10-16,42,Femenino,Guayaquil,Estudiante,Móvil,Baja,8,35.3,19,12,2,8.5,3,No,Chat,Soporte académico,1.3,3,Media,0
+USR01200,2025-09-08,29,Masculino,Guayaquil,Docente,Laptop,Media,12,64.5,25,4,1,6.5,2,Sí,Correo,Aula virtual,3.4,7,Alta,1
+USR01303,2025-12-05,37,Femenino,Guayaquil,Docente,Móvil,Baja,6,34,13,3,0,3.1,7,Sí,Chat,Aula virtual,2.7,5,Media,0
+USR01181,2025-08-02,21,Masculino,Quito,Estudiante,Laptop,Media,4,44.7,14,5,3,4.8,0,Sí,Chat,Evaluaciones,3.4,6,Media,0
+USR00569,2025-02-05,26,Masculino,Quito,Estudiante,Móvil,,3,43.7,19,4,0,2.6,4,Sí,Autoservicio,Aula virtual,4.2,8,Alta,1
+USR00466,2026-05-16,31,Masculino,Quito,Estudiante,Laptop,Alta,6,46.7,18,2,1,5.9,0,Sí,Autoservicio,Soporte académico,3,7,Alta,1
+USR01070,2026-02-16,28,Masculino,Manta,Estudiante,Laptop,Alta,8,41.4,15,7,2,5.8,1,No,Chat,Soporte académico,3.6,6,Media,0
+USR01260,2025-07-09,27,Femenino,Loja,Estudiante,Laptop,Media,5,162.6,13,1,2,5.4,0,Sí,Teléfono,Aula virtual,4.8,9,Media,0
+USR00379,2025-12-22,38,Masculino,Santo Domingo,Estudiante,Laptop,Alta,3,40.2,14,8,2,13.6,1,Sí,Chat,Inscripciones,3.4,5,Baja,0
+USR00056,2025-07-12,17,Femenino,Guayaquil,Estudiante,Laptop,Baja,4,42.7,14,14,1,2.5,5,No,Chat,Evaluaciones,1.4,3,Media,0
+USR01309,2026-03-16,25,Femenino,Quito,Estudiante,Tablet,Baja,8,54.5,15,8,0,5.1,4,Sí,Chat,Evaluaciones,2.9,4,Media,0
+USR00750,2025-01-16,37,Masculino,Quito,Estudiante,Tablet,Media,5,18.1,20,7,1,3.7,2,No,Chat,Aula virtual,3.4,7,Media,0
+USR00803,2026-02-02,26,Masculino,Ambato,Estudiante,Laptop,Media,4,23.5,13,3,1,2.6,1,Sí,Chat,Aula virtual,4,6,Media,0
+USR01051,2026-04-20,39,Femenino,Quito,Estudiante,Computador de escritorio,Media,9,41.7,30,9,0,4.1,2,Sí,Chat,Biblioteca digital,3.2,4,Media,0
+USR00826,2026-01-15,18,Masculino,Santo Domingo,Estudiante,Móvil,Media,5,31.7,22,7,0,13.7,1,Sí,Autoservicio,Evaluaciones,4,5,Baja,0
+USR00833,2025-02-13,21,Masculino,Guayaquil,Estudiante,Laptop,Baja,1,30.6,14,11,4,3.8,4,No,Autoservicio,Inscripciones,1.5,3,Media,0
+USR00049,2026-02-25,22,Masculino,Loja,Estudiante,Computador de escritorio,Media,8,31.7,18,9,3,4.1,0,Sí,Correo,Aula virtual,3.4,8,Media,0
+USR00351,2025-06-20,34,Femenino,Quito,Estudiante,Laptop,Media,5,65.7,12,9,1,1.4,0,No,Chat,Aula virtual,3.3,6,Media,0
+USR00647,2025-07-11,24,Masculino,Quito,Estudiante,Laptop,Media,11,50.5,18,9,0,5.6,0,Sí,Chat,Biblioteca digital,3.6,8,Media,0
+USR00597,2025-05-28,27,Masculino,Guayaquil,Docente,Laptop,Media,3,19.2,24,9,0,4.4,4,Sí,Chat,Aula virtual,3.7,7,Baja,0
+USR01043,2025-09-05,35,Femenino,Guayaquil,Estudiante,Móvil,Baja,2,30.2,22,8,5,16.4,4,Sí,Correo,Biblioteca digital,3.4,8,Media,0
+USR01210,2025-07-14,41,Masculino,Manta,Docente,Móvil,,10,32.7,26,1,1,3.7,2,Sí,Teléfono,Biblioteca digital,4.4,9,Media,0
+USR01306,2025-04-29,22,Femenino,Guayaquil,Docente,Laptop,Alta,8,21.6,19,4,0,1.4,2,Sí,Correo,Inscripciones,4.9,8,Alta,1
+USR01359,2026-05-01,47,Masculino,Cuenca,Estudiante,Laptop,Alta,8,39.3,22,9,0,2.4,1,Sí,Chat,Pagos,4.2,4,Baja,0
+USR00676,2025-04-19,27,Masculino,Guayaquil,Estudiante,Computador de escritorio,Media,4,57.6,18,0,1,13.6,3,Sí,Chat,Evaluaciones,4,5,Media,0
+USR00918,2025-01-18,51,Femenino,Loja,Estudiante,Laptop,Media,2,37.3,19,2,2,9.2,4,Sí,Chat,Inscripciones,4,6,Alta,1
+USR00259,2026-04-02,20,Prefiere no decir,Guayaquil,Estudiante,Móvil,Media,1,32.4,10,4,1,3.4,0,Sí,Correo,Pagos,4.1,8,Baja,0
+USR00703,2026-03-26,24,Femenino,Cuenca,Estudiante,Laptop,Media,1,60.4,17,4,2,3.5,3,Sí,Chat,Aula virtual,4.4,9,Media,0
+USR01225,2026-01-05,17,Masculino,Quito,Estudiante,Móvil,Media,3,10.3,14,10,0,2.3,0,No,Chat,Inscripciones,3.5,6,Media,0
+USR00319,2026-04-10,40,Masculino,Cuenca,Docente,Laptop,Alta,8,25.6,27,6,0,2.1,1,Sí,Chat,Biblioteca digital,4.3,7,Alta,1
+USR01045,2025-02-14,43,Femenino,Cuenca,Estudiante,Móvil,Media,5,58.4,14,5,0,3.9,5,No,Correo,Inscripciones,2.9,4,Baja,0
+USR01456,2025-05-11,17,Masculino,Quito,Administrativo,Móvil,Baja,3,20.2,10,2,3,8.1,4,Sí,Teléfono,Evaluaciones,2.6,4,Baja,0
+USR01179,2025-04-02,17,Masculino,Quito,Administrativo,Laptop,Baja,5,29.2,26,7,5,7,5,Sí,Autoservicio,Pagos,2.5,2,Media,0
+USR01380,2025-01-07,17,Masculino,Guayaquil,Docente,Móvil,Alta,6,43.1,12,7,4,12.3,2,Sí,Chat,Soporte académico,4,6,Baja,0
+USR00448,2026-03-02,33,Femenino,Guayaquil,Estudiante,Laptop,Media,1,70.1,15,5,0,1.2,2,Sí,Autoservicio,Evaluaciones,4,7,Alta,1
+USR01374,2025-03-27,51,Masculino,Quito,Estudiante,Tablet,Media,6,17.9,16,13,1,3.2,4,No,Autoservicio,Pagos,2.3,1,Media,0
+USR01121,2026-06-03,38,Masculino,Quito,Estudiante,Laptop,Alta,5,19.7,26,0,4,5.9,1,Sí,Chat,Evaluaciones,4.6,8,Media,0
+USR00461,2025-02-16,27,Masculino,Quito,Estudiante,Móvil,Alta,7,61.4,17,9,0,7.5,1,No,Chat,Inscripciones,2.6,4,Baja,0
+USR00064,2026-05-06,25,Masculino,Loja,Estudiante,Móvil,Media,10,45.7,8,4,0,5.2,2,Sí,Chat,Aula virtual,3,7,Baja,0
+USR00570,2026-02-10,34,Masculino,Cuenca,Estudiante,Laptop,Baja,8,51.4,24,11,2,3.4,2,No,Autoservicio,Aula virtual,1.3,3,Baja,0
+USR00355,2025-04-02,53,Femenino,Santo Domingo,Estudiante,Laptop,Media,9,31.7,11,12,0,3.3,1,No,Correo,Soporte académico,3.1,3,Baja,0
+USR01445,2026-03-31,41,Masculino,Quito,Estudiante,Laptop,Baja,2,141.3,20,7,3,4,2,Sí,Autoservicio,Aula virtual,2.5,2,Baja,0
+USR01007,2025-10-12,36,Femenino,Ambato,Estudiante,Laptop,Alta,7,44.2,18,4,0,1.6,2,No,Chat,Aula virtual,3.2,6,Media,0
+USR00412,2026-01-16,45,Femenino,Ambato,Estudiante,Laptop,Baja,7,30.8,15,9,2,3.3,4,Sí,Correo,Evaluaciones,3.5,4,Media,0
+USR01130,2025-09-15,23,Femenino,Cuenca,Administrativo,Móvil,Baja,4,7.5,9,3,4,5.7,6,No,Correo,Inscripciones,2.2,3,Baja,0
+USR01258,2026-04-06,39,Femenino,Guayaquil,Estudiante,Computador de escritorio,Alta,1,46.3,13,2,2,3.8,1,Sí,Correo,Inscripciones,4.5,7,Media,0
+USR01427,2025-12-27,45,Masculino,Guayaquil,Estudiante,Laptop,Baja,2,24.4,19,9,4,6.4,2,No,Chat,Aula virtual,2.1,5,Baja,0
+USR00574,2025-01-01,29,Masculino,Cuenca,Docente,Computador de escritorio,Alta,6,42.5,11,0,1,2.3,0,Sí,Chat,Biblioteca digital,4.4,8,Alta,1
+USR00669,2025-01-16,30,Masculino,Quito,Docente,Laptop,Media,7,57.4,21,12,1,6,2,Sí,Chat,Soporte académico,3.8,5,Alta,1
+USR00849,2025-10-26,29,Femenino,Cuenca,Estudiante,Laptop,Media,1,42.8,16,12,1,5.7,2,No,Correo,Aula virtual,2.9,4,Media,0
+USR01494,2026-04-22,22,Masculino,Cuenca,Estudiante,Móvil,Alta,3,43.6,25,3,0,1.3,2,Sí,Correo,Aula virtual,5,8,Media,0
+USR00505,2025-10-03,31,Masculino,Loja,Estudiante,Laptop,Alta,7,18,13,16,1,2.1,1,No,Chat,Aula virtual,3,4,Baja,0
+USR00151,2025-04-17,20,Masculino,Manta,Estudiante,Laptop,Media,7,51.3,20,6,1,3.9,1,Sí,Correo,Evaluaciones,4.3,7,Media,0
+USR01373,2025-12-06,26,Masculino,Santo Domingo,Estudiante,Laptop,Alta,7,44.5,17,15,0,11.7,4,No,Chat,Evaluaciones,2.8,3,Media,0
+USR00359,2026-02-06,25,Masculino,Quito,Estudiante,Laptop,Media,9,66.2,25,3,4,,3,Sí,Chat,Pagos,3.6,6,Media,0
+USR00984,2025-10-23,39,Masculino,Ambato,Administrativo,Tablet,Media,2,28.7,11,6,1,,0,No,Correo,Pagos,2.6,4,Media,0
+USR01185,2025-06-02,30,Femenino,Manta,Estudiante,Móvil,Media,8,53,12,5,1,1.7,0,Sí,Chat,Soporte académico,3.2,8,Baja,0
+USR00804,2025-04-26,43,Femenino,Guayaquil,Estudiante,Tablet,Alta,4,31.9,14,5,0,4.3,0,No,Chat,Biblioteca digital,3,4,Media,0
+USR01375,2026-03-05,22,Masculino,Cuenca,Estudiante,Tablet,Alta,9,31.3,17,2,1,8.8,2,Sí,Chat,Aula virtual,4.1,7,Media,0
+USR00806,2025-06-15,45,Masculino,Loja,Estudiante,Móvil,Media,5,26.9,9,9,1,5.2,4,No,Chat,Pagos,2.7,1,Baja,0
+USR00789,2025-01-29,46,Prefiere no decir,Cuenca,Estudiante,Tablet,Media,6,54.6,27,8,2,4.6,3,Sí,Teléfono,Soporte académico,3.7,7,Baja,0
+USR00869,2025-08-16,24,Masculino,Guayaquil,Estudiante,Laptop,Alta,4,48.5,10,9,2,4.5,0,No,Correo,Evaluaciones,3.5,6,Baja,0
+USR01118,2025-12-04,51,Masculino,Quito,Estudiante,Móvil,Media,4,13,12,12,0,1.6,0,No,Autoservicio,Aula virtual,2.9,3,Media,0
+USR00429,2025-04-10,36,Masculino,Loja,Estudiante,Móvil,Media,2,5,7,13,3,,0,No,Correo,Biblioteca digital,2.1,5,Baja,0
+USR01333,2025-07-23,25,Masculino,Ambato,Estudiante,Móvil,Baja,6,66.5,26,8,0,1.9,4,Sí,Teléfono,Soporte académico,2.4,2,Media,0
+USR00993,2026-01-27,38,Femenino,Loja,Docente,Móvil,Baja,8,62.4,13,13,3,4.9,8,No,Teléfono,Aula virtual,2.2,0,Baja,0
+USR01141,2025-03-27,24,Masculino,Ambato,Estudiante,Laptop,Alta,6,19.9,16,4,1,3.2,1,Sí,Teléfono,Aula virtual,4.1,8,Alta,1
+USR01162,2026-04-06,17,Femenino,Santo Domingo,Estudiante,Móvil,Media,4,57.2,11,11,2,4.2,1,No,Chat,Aula virtual,2.4,5,Baja,0
+USR01261,2025-06-26,30,Femenino,Ibarra,Docente,Laptop,Alta,5,35.5,28,5,0,1.1,4,Sí,Chat,Evaluaciones,4.2,6,Media,0
+USR00336,2025-10-22,24,Masculino,Santo Domingo,Estudiante,Tablet,Alta,4,43.1,14,2,0,4.6,3,Sí,Autoservicio,Evaluaciones,4,6,Baja,0
+USR00193,2026-03-30,31,Femenino,Manta,Estudiante,Móvil,Media,12,50,31,4,0,1.4,2,Sí,Autoservicio,Soporte académico,4.2,9,Baja,0
+USR00211,2026-05-04,42,Femenino,Cuenca,Estudiante,Laptop,Media,8,78.8,19,7,1,5.4,2,Sí,Chat,Pagos,3.9,8,Media,0
+USR00132,2025-12-17,31,Femenino,Guayaquil,Estudiante,Móvil,Alta,4,36.4,21,4,2,3.4,2,Sí,Correo,Inscripciones,4.5,9,Alta,1
+USR00410,2025-10-29,41,Femenino,Ambato,Estudiante,Computador de escritorio,Alta,4,5,25,8,0,0.9,1,Sí,Chat,Evaluaciones,3.8,7,Baja,0
+USR00686,2025-03-19,36,Masculino,Quito,Estudiante,Laptop,Baja,1,27.1,13,14,2,5,6,No,Correo,Aula virtual,1.3,0,Media,0
+USR01198,2025-02-24,24,Femenino,Manta,Docente,Móvil,Baja,6,43.6,17,13,3,,8,No,Chat,Evaluaciones,1.2,1,Baja,0
+USR00285,2025-06-22,42,Masculino,Quito,Administrativo,Laptop,Media,6,70,15,2,1,6.8,1,Sí,Correo,Evaluaciones,3.1,5,Media,0
+USR00846,2026-02-28,17,Femenino,Cuenca,Docente,Tablet,Media,7,38.8,19,7,0,8.9,1,Sí,Chat,Pagos,4.2,8,Baja,0
+USR01036,2025-02-05,30,Masculino,Manta,Estudiante,Laptop,Media,6,29.4,14,2,0,2.4,2,Sí,Chat,Evaluaciones,3.5,3,Baja,0
+USR00675,2025-07-19,17,Masculino,Quito,Estudiante,Laptop,Alta,4,36.6,2,12,4,4.3,0,No,Chat,Evaluaciones,4,6,Media,0
+USR01194,2025-01-02,17,Masculino,Ambato,Estudiante,Móvil,Media,6,51.4,26,8,0,1.5,3,Sí,Correo,Soporte académico,3.3,7,Baja,0
+USR00007,2025-03-12,41,Femenino,Cuenca,Administrativo,Laptop,Media,5,43.8,7,8,0,5,3,No,Autoservicio,Soporte académico,2.1,3,Media,0
+USR00498,2026-05-02,51,Masculino,Manta,Estudiante,Móvil,Baja,6,66.9,13,10,4,7,5,No,Autoservicio,Aula virtual,1,1,Media,0
+USR00027,2025-08-06,26,Femenino,Cuenca,Docente,Móvil,Media,7,27.6,13,0,1,2.6,2,Sí,Chat,Pagos,3.2,4,Baja,0
+USR00310,2025-05-16,21,Masculino,Guayaquil,Estudiante,Móvil,Media,4,21.9,14,11,0,14.2,1,No,Chat,Evaluaciones,2.1,2,Media,0
+USR01055,2025-12-19,34,Masculino,Manta,Estudiante,Tablet,Media,3,26.4,18,4,2,14.1,0,Sí,Correo,Aula virtual,3.9,6,Alta,1
+USR00238,2025-08-11,31,Masculino,Cuenca,Estudiante,Laptop,Alta,1,26.1,21,2,1,8.2,3,Sí,Correo,Evaluaciones,2.9,6,Baja,0
+USR01237,2025-06-02,26,Femenino,Manta,Administrativo,Laptop,Alta,7,59.2,30,0,2,8.7,0,Sí,Chat,Soporte académico,3.6,5,Alta,1
+USR01128,2026-05-28,29,Femenino,Quito,Estudiante,Laptop,Alta,3,63.4,6,9,1,2.5,3,No,Chat,Pagos,2.6,5,Media,0
+USR01222,2025-02-09,32,Femenino,Ibarra,Estudiante,Computador de escritorio,Media,6,36.1,26,2,2,5.1,4,Sí,Correo,Biblioteca digital,3.1,5,Media,0
+USR00470,2026-01-28,41,Femenino,Ambato,Estudiante,Laptop,Alta,7,67.4,18,8,1,1.2,0,No,Correo,Biblioteca digital,4,7,Media,0
+USR00261,2025-05-21,36,Femenino,Guayaquil,Docente,Laptop,Media,9,50.7,25,2,0,0.8,1,Sí,Teléfono,Aula virtual,4.1,8,Alta,1
+USR01241,2025-05-29,45,Femenino,Santo Domingo,Estudiante,Computador de escritorio,Alta,4,49.8,17,2,0,5.3,1,Sí,Teléfono,Evaluaciones,3.5,6,Alta,1
+USR00424,2025-12-06,28,Femenino,Guayaquil,Administrativo,Laptop,Baja,3,50.2,26,5,2,5.1,9,Sí,Chat,Inscripciones,1.8,2,Media,0
+USR00781,2025-07-26,24,Masculino,Quito,Docente,Laptop,Media,6,29.6,17,4,3,4,5,Sí,Correo,Biblioteca digital,3.8,5,Baja,0
+USR00624,2025-04-06,32,Masculino,Santo Domingo,Estudiante,Tablet,Media,6,31.4,21,10,1,10.1,3,Sí,Chat,Pagos,2.2,3,Baja,0
+USR00911,2025-09-28,29,Masculino,Guayaquil,Estudiante,Móvil,Media,7,46,20,4,0,6.4,2,Sí,Autoservicio,Biblioteca digital,4.3,6,Alta,1
+USR01389,2025-12-05,28,Masculino,Santo Domingo,Estudiante,Laptop,Media,5,38.4,14,0,0,1.2,2,Sí,Teléfono,Pagos,4.3,6,Baja,0
+USR01073,2025-03-20,18,Masculino,Ibarra,Estudiante,Laptop,Media,5,5.9,6,7,2,18.9,1,No,Chat,Aula virtual,1.9,2,Media,0
+USR00632,2026-05-24,21,Prefiere no decir,Quito,Administrativo,Laptop,Alta,5,50.2,16,9,1,5.5,5,Sí,Correo,Aula virtual,3.1,2,Baja,0
+USR01273,2025-03-12,41,Femenino,Quito,Docente,Tablet,Alta,6,41,15,4,0,,3,Sí,Correo,Aula virtual,4,7,Media,0
+USR00447,2025-02-09,35,Femenino,Quito,Estudiante,Laptop,Alta,8,60.5,9,8,1,3.2,0,No,Autoservicio,Aula virtual,3.4,6,Media,0
+USR00038,2026-05-15,42,Masculino,Quito,Estudiante,Móvil,Alta,8,49.1,21,6,0,2.3,0,No,Teléfono,Biblioteca digital,3.8,7,Media,0
+USR00417,2025-09-06,23,Femenino,Quito,Administrativo,Laptop,Baja,2,51.7,18,3,2,3.8,6,Sí,Teléfono,Aula virtual,3,5,Media,0
+USR00961,2026-02-19,33,Femenino,Guayaquil,Estudiante,Móvil,Alta,4,48.5,19,8,0,5,2,No,Correo,Pagos,3.3,6,Media,0
+USR00327,2025-06-25,54,Prefiere no decir,Santo Domingo,Docente,Laptop,Baja,6,38.2,11,7,4,10.8,4,No,Teléfono,Aula virtual,1.7,2,Baja,0
+USR00445,2026-04-24,30,Femenino,Quito,Docente,Computador de escritorio,Baja,4,50.4,19,6,4,11.5,6,Sí,Correo,Pagos,2.2,2,Baja,0
+USR00073,2026-03-05,31,Femenino,Guayaquil,Estudiante,Laptop,Alta,10,41.8,24,8,0,2.9,0,Sí,Correo,Biblioteca digital,4.5,7,Media,0
+USR00018,2026-01-24,20,Masculino,Santo Domingo,Estudiante,Laptop,Media,2,31.8,11,5,1,4.5,3,Sí,Chat,Pagos,3,7,Media,0
+USR01278,2025-12-29,17,Masculino,Quito,Estudiante,Móvil,Alta,10,35.1,27,1,0,3,3,Sí,Autoservicio,Evaluaciones,3.9,8,Alta,1
+USR00004,2025-10-02,24,Femenino,Santo Domingo,Estudiante,Móvil,Media,6,42.9,19,1,1,4.9,0,Sí,Autoservicio,Inscripciones,4.2,7,Alta,1
+USR00133,2025-09-29,26,Femenino,Guayaquil,Estudiante,Móvil,Baja,3,23.1,13,8,4,6.6,6,Sí,Chat,Evaluaciones,1.8,3,Baja,0
+USR00634,2025-05-19,26,Femenino,Quito,Estudiante,Laptop,Baja,3,33.8,14,13,3,6.4,5,No,Chat,Aula virtual,1.5,1,Baja,0
+USR01067,2025-05-25,34,Femenino,Quito,Estudiante,Móvil,Media,4,23,18,7,1,9.7,2,No,Correo,Soporte académico,1.4,4,Media,0
+USR00341,2025-06-27,44,Femenino,Quito,Estudiante,Móvil,Media,5,12.8,19,0,1,13.7,4,No,Chat,Evaluaciones,1.6,2,Media,0
+USR00593,2026-02-07,36,Masculino,Santo Domingo,Estudiante,Computador de escritorio,Media,5,54,20,9,1,4.1,2,Sí,Correo,Aula virtual,3.9,5,Media,0
+USR01249,2025-03-21,23,Femenino,Loja,Estudiante,Laptop,Media,9,39.2,22,2,0,3.6,2,Sí,Correo,Aula virtual,3.8,5,Media,0
+USR00766,2025-11-13,24,Femenino,Ambato,Estudiante,Laptop,Media,5,40.8,14,1,0,2.8,1,Sí,Chat,Evaluaciones,4,7,Baja,0
+USR01480,2025-10-25,35,Femenino,Ibarra,Estudiante,Laptop,Media,3,54.1,17,11,3,8.3,0,No,Chat,Evaluaciones,3.2,6,Baja,0
+USR01005,2025-03-01,35,Femenino,Quito,Estudiante,Laptop,Media,6,34.3,23,2,1,1.4,3,No,Autoservicio,Aula virtual,2.5,4,Baja,0
+USR00723,2025-07-31,31,Masculino,Ambato,Estudiante,Laptop,,7,59.3,23,4,0,4.4,1,Sí,Chat,Aula virtual,4.5,7,Alta,1
+USR01371,2026-05-31,32,Masculino,Quito,Estudiante,Móvil,Alta,4,62.6,18,11,0,1.1,1,Sí,Chat,Pagos,4.5,10,Media,0
+USR00964,2025-08-12,17,Femenino,Guayaquil,Estudiante,Móvil,,3,20.7,11,1,1,5.9,0,Sí,Autoservicio,Pagos,4.9,9,Alta,1
+USR00855,2025-08-13,39,Femenino,Quito,Estudiante,Móvil,,6,56.6,32,8,3,11.5,2,Sí,Teléfono,Evaluaciones,3.6,5,Baja,0
+USR01472,2025-06-19,17,Femenino,Quito,Estudiante,Móvil,Media,10,5,16,9,0,1.3,6,No,Chat,Inscripciones,1.6,3,Media,0
+USR01438,2025-11-07,30,Femenino,Quito,Docente,Laptop,Alta,9,50.2,24,4,2,6.1,1,Sí,Correo,Inscripciones,4.6,5,Baja,0
+USR01217,2025-01-08,36,Femenino,Manta,Estudiante,Móvil,Media,4,83.7,14,6,1,1.3,0,No,Correo,Evaluaciones,2.4,2,Baja,0
+USR00025,2025-03-19,17,Femenino,Manta,Estudiante,Móvil,Alta,3,12.9,11,12,2,2.8,0,No,Correo,Aula virtual,3.4,4,Baja,0
+USR00395,2026-05-29,17,Masculino,Santo Domingo,Estudiante,Móvil,Media,5,57.3,13,3,2,5.7,4,Sí,Autoservicio,Biblioteca digital,4,4,Media,0
+USR00356,2026-01-26,21,Masculino,Ambato,Administrativo,Laptop,Media,3,61.1,21,11,0,2.4,1,Sí,Chat,Aula virtual,3.7,5,Baja,0
+USR00308,2026-05-17,24,Masculino,Guayaquil,Estudiante,Móvil,Media,2,31.5,15,5,2,7.4,4,Sí,Autoservicio,Biblioteca digital,3,5,Baja,0
+USR01401,2025-02-23,47,Masculino,Santo Domingo,Estudiante,Laptop,Alta,6,7.3,16,8,3,11.3,2,No,Teléfono,Evaluaciones,3.3,6,Media,0
+USR00010,2025-06-20,17,Femenino,Guayaquil,Docente,Tablet,Baja,8,25.2,23,9,5,8.3,4,Sí,Chat,Soporte académico,3.2,5,Media,0
+USR00796,2025-06-04,33,Femenino,Cuenca,Estudiante,Laptop,Media,6,47.7,20,14,3,4.1,0,No,Teléfono,Evaluaciones,2.9,5,Baja,0
+USR00464,2026-01-21,32,Femenino,Quito,Administrativo,Móvil,Media,8,38,13,10,0,2.9,2,No,Correo,Aula virtual,2.1,4,Baja,0
+USR00709,2026-02-12,36,Masculino,Santo Domingo,Estudiante,Laptop,Media,8,40.2,20,2,1,4.6,4,Sí,Chat,Aula virtual,4.6,6,Baja,0
+USR00744,2025-01-25,28,Femenino,Cuenca,Docente,Laptop,Alta,11,42.6,28,10,2,12.2,0,Sí,Autoservicio,Inscripciones,4.6,8,Media,0
+USR01074,2026-06-04,23,Femenino,Cuenca,Docente,Móvil,Alta,2,63.8,11,7,2,5.1,6,No,Correo,Inscripciones,2.3,3,Baja,0
+USR00035,2025-04-27,26,Masculino,Guayaquil,Estudiante,Móvil,Media,5,21.1,13,12,0,0.9,0,No,Autoservicio,Aula virtual,3.5,3,Baja,0
+USR00956,2025-03-10,37,Femenino,Guayaquil,Estudiante,Tablet,Media,4,7.8,15,8,3,8.4,0,Sí,Chat,Biblioteca digital,3.4,6,Baja,0
+USR00500,2026-06-21,36,Masculino,Ambato,Estudiante,Laptop,Media,9,35.6,16,8,1,4.4,0,No,Correo,Aula virtual,2.9,4,Media,0
+USR01450,2026-05-28,32,Masculino,Santo Domingo,Docente,Laptop,Media,7,43.3,14,4,0,3.3,1,Sí,Chat,Aula virtual,3.7,7,Media,0
+USR01255,2025-10-20,20,Femenino,Guayaquil,Docente,Tablet,Media,9,37.6,16,4,0,7.2,4,Sí,Autoservicio,Aula virtual,3.7,6,Baja,0
+USR00186,2025-06-28,17,Prefiere no decir,Quito,Estudiante,Móvil,Alta,1,45,20,1,2,6,1,Sí,Chat,Inscripciones,4.4,7,Alta,1
+USR00222,2025-11-19,20,Masculino,Quito,Estudiante,Tablet,Media,6,51.8,19,9,2,3.4,2,No,Chat,Biblioteca digital,1.5,2,Baja,0
+USR00418,2026-06-10,27,Femenino,Guayaquil,Estudiante,Laptop,Alta,4,44.9,14,9,0,3.3,2,No,Correo,Aula virtual,3,5,Baja,0
+USR00800,2026-02-25,28,Femenino,Quito,Estudiante,Móvil,Alta,5,26.9,11,8,1,3.6,0,Sí,Correo,Biblioteca digital,4.4,9,Alta,1
+USR01469,2025-06-06,37,Femenino,Manta,Estudiante,Computador de escritorio,Media,8,21.5,22,2,0,2,3,Sí,Chat,Aula virtual,3.2,7,Media,0
+USR01464,2026-06-04,24,Masculino,Santo Domingo,Docente,Laptop,Media,5,31.8,20,5,2,5.9,2,,Autoservicio,Aula virtual,2.5,4,Baja,0
+USR00021,2025-03-21,29,Femenino,Santo Domingo,Estudiante,Laptop,Media,3,34.3,22,10,2,3.5,2,Sí,Chat,Pagos,3.6,7,Media,0
+USR00831,2026-05-30,30,Femenino,Loja,Estudiante,Móvil,,4,40.3,12,2,2,7.3,0,Sí,Chat,Inscripciones,3.4,6,Media,0
+USR01413,2025-03-28,19,Masculino,Cuenca,Docente,Laptop,Media,6,32,27,1,2,13.1,2,Sí,Chat,Aula virtual,2.3,4,Media,0
+USR00989,2025-09-26,17,Prefiere no decir,Quito,Estudiante,Móvil,Media,5,13.2,21,0,3,4.5,2,Sí,Correo,Inscripciones,3.6,6,Alta,1
+USR00275,2025-07-30,25,Masculino,Guayaquil,Estudiante,Laptop,Media,7,53.7,15,4,1,11,2,Sí,Autoservicio,Evaluaciones,4.3,9,Alta,1
+USR00247,2026-05-01,25,Masculino,Quito,Estudiante,Laptop,Media,5,47.2,16,7,1,1.8,2,No,Autoservicio,Biblioteca digital,2.8,3,Media,0
+USR00009,2025-02-25,18,Femenino,Guayaquil,Estudiante,Tablet,Media,1,35.8,19,7,0,9.8,8,Sí,Correo,Pagos,3.4,6,Media,0
+USR01446,2026-02-01,17,Masculino,Quito,Estudiante,Tablet,Alta,5,44,15,7,0,3.2,1,Sí,Autoservicio,Biblioteca digital,4.9,10,Alta,1
+USR00273,2026-04-27,17,Femenino,Guayaquil,Estudiante,Computador de escritorio,Media,6,42.8,20,6,0,7.5,3,Sí,Autoservicio,Pagos,3.7,5,Baja,0
+USR01421,2025-04-10,26,Femenino,Cuenca,Docente,Móvil,Baja,6,34.8,16,11,1,4.1,7,Sí,Autoservicio,Biblioteca digital,1,1,Baja,0
+USR00865,2026-04-28,37,Masculino,Manta,Estudiante,Computador de escritorio,Baja,7,5.3,11,10,6,27.7,0,Sí,Correo,Aula virtual,1.4,3,Baja,0
+USR00161,2025-11-05,19,Femenino,Ambato,Estudiante,Laptop,Media,5,36.2,18,5,2,4.1,2,Sí,Correo,Pagos,4.6,3,Media,0
+USR01154,2025-11-06,23,Prefiere no decir,Guayaquil,Docente,Móvil,Alta,4,41.3,21,10,2,4.1,2,No,Correo,Inscripciones,2,3,Media,0
+USR01173,2025-05-15,40,Femenino,Ambato,Estudiante,Laptop,Alta,5,17.3,28,2,2,3,1,Sí,Correo,Biblioteca digital,4.7,9,Alta,1
+USR00370,2026-03-12,31,Masculino,Ambato,Estudiante,Móvil,Alta,3,22.1,20,8,2,4,1,No,Autoservicio,Biblioteca digital,3.6,4,Baja,0
+USR00376,2025-07-24,36,Femenino,Quito,Estudiante,Laptop,Media,2,41.6,15,7,1,3.8,3,Sí,Chat,Biblioteca digital,3.7,6,Alta,1
+USR00797,2025-04-26,24,Femenino,Loja,Estudiante,Móvil,Alta,7,25.6,11,5,2,2,3,Sí,Chat,Evaluaciones,3.7,7,Media,0
+USR00420,2025-03-09,33,Masculino,Quito,Docente,Móvil,Media,5,18.5,20,2,1,5.7,5,Sí,Chat,Evaluaciones,2.4,4,Baja,0
+USR00533,2025-05-18,23,Masculino,Ambato,Estudiante,Laptop,Alta,9,66.7,23,9,2,7.5,1,No,Correo,Biblioteca digital,4.2,5,Baja,0
+USR00105,2026-01-10,26,Femenino,Loja,Estudiante,Móvil,Media,7,48.5,10,10,0,1.8,3,No,Correo,Pagos,2.6,5,Media,0
+USR01014,2025-08-14,20,Masculino,Quito,Estudiante,Laptop,Media,3,47.2,22,2,0,1.9,0,Sí,Chat,Evaluaciones,3.8,6,Alta,1
+USR00332,2026-04-25,20,Masculino,Guayaquil,Docente,Laptop,Media,4,49.3,20,13,0,,4,No,Correo,Aula virtual,2.1,4,Media,0
+USR01245,2026-06-22,21,Femenino,Guayaquil,Estudiante,Móvil,Media,6,5,9,4,0,4.8,6,Sí,Chat,Aula virtual,3.1,4,Media,0
+USR01468,2025-05-14,26,Femenino,Guayaquil,Estudiante,Laptop,Baja,5,38.9,26,9,4,9.3,6,Sí,Chat,Aula virtual,2.3,2,Baja,0
+USR00460,2026-05-11,23,Masculino,Loja,Estudiante,Móvil,Baja,3,47.1,14,11,1,3.9,7,Sí,Chat,Evaluaciones,3,5,Media,0
+USR00871,2025-12-12,24,Masculino,Quito,Estudiante,Tablet,Alta,9,23.7,26,2,1,2.9,2,Sí,Chat,Aula virtual,4.1,6,Alta,1
+USR01171,2025-10-01,21,Femenino,Quito,Estudiante,Móvil,Media,2,24.8,13,4,1,3,4,Sí,Chat,Aula virtual,2.2,4,Baja,0
+USR00175,2026-01-26,21,Masculino,Loja,Estudiante,Laptop,Media,8,26.7,13,8,1,4.5,0,No,Autoservicio,Aula virtual,3.1,5,Baja,0
+USR00406,2025-05-10,35,Femenino,Cuenca,Docente,Tablet,Media,8,44.8,29,5,2,28.3,3,Sí,Correo,Soporte académico,2.5,4,Media,0
+USR00837,2025-08-02,18,Masculino,Guayaquil,Estudiante,Móvil,Media,3,38.9,21,4,1,3.1,3,Sí,Correo,Evaluaciones,3.5,8,Alta,1
+USR01040,2025-08-06,17,Masculino,Ambato,Estudiante,Móvil,Media,6,35,17,4,0,4.5,5,Sí,Correo,Biblioteca digital,2.4,5,Media,0
+USR01170,2025-09-17,34,Femenino,Cuenca,Estudiante,Móvil,Media,7,27.8,27,8,0,3.4,5,Sí,Chat,Aula virtual,3.8,6,Baja,0
+USR00987,2026-05-01,33,Masculino,Ambato,Estudiante,Computador de escritorio,Media,6,40.6,15,11,0,2.4,2,No,Teléfono,Soporte académico,2.8,4,Baja,0
+USR01077,2025-09-18,39,Masculino,Santo Domingo,Estudiante,Móvil,Media,1,24.7,14,2,0,73.2,2,Sí,Teléfono,Aula virtual,3.2,6,Alta,1
+USR00623,2025-11-21,31,Femenino,Quito,Estudiante,Tablet,Alta,8,51,17,13,0,9.1,0,No,Correo,Evaluaciones,3.2,5,Baja,0
+USR01497,2025-10-30,32,Femenino,Guayaquil,Estudiante,Móvil,Media,5,41.6,15,10,1,6.6,0,No,Correo,Aula virtual,3.2,5,Media,0
+USR00996,2025-01-03,42,Femenino,Guayaquil,Estudiante,Móvil,,5,55.3,23,3,0,5.2,1,Sí,Correo,Inscripciones,3,6,Baja,0
+USR01188,2025-01-02,31,Masculino,Quito,Estudiante,Computador de escritorio,Media,4,37,19,7,2,4.4,0,Sí,Correo,Biblioteca digital,4.5,9,Alta,1
+USR01226,2025-01-28,35,Femenino,Quito,Estudiante,Móvil,Media,6,22.5,18,6,0,2.9,4,Sí,Chat,Pagos,2.7,4,Baja,0
+USR01143,2025-01-26,20,Femenino,Quito,Estudiante,Tablet,Alta,4,40.3,24,3,3,6.5,0,Sí,Teléfono,Pagos,4.7,9,Alta,1
+USR00639,2025-05-19,36,Masculino,Ambato,Estudiante,Laptop,Alta,5,59.9,22,6,2,6.6,3,Sí,Chat,Biblioteca digital,4.2,7,Media,0
+USR00924,2026-06-06,43,Femenino,Guayaquil,Estudiante,Móvil,Alta,4,14.2,16,3,0,1.1,0,Sí,Autoservicio,Aula virtual,4.3,8,Alta,1
+USR01163,2026-06-15,39,Masculino,Cuenca,Estudiante,Móvil,Media,3,48.7,17,14,0,6.3,2,No,Correo,Inscripciones,2.5,6,Baja,0
+USR00880,2026-03-28,42,Femenino,Quito,Estudiante,Computador de escritorio,Alta,5,11.2,18,5,3,4.1,0,Sí,Chat,Biblioteca digital,4.6,9,Alta,1
+USR00298,2026-05-15,24,Femenino,Quito,Estudiante,Móvil,Media,7,51,17,2,0,6,3,Sí,Correo,Evaluaciones,2.9,5,Media,0
+USR00167,2025-12-05,22,Femenino,Quito,Estudiante,Laptop,Media,8,54.9,26,7,0,1.9,2,Sí,Correo,Inscripciones,2.8,4,Media,0
+USR00264,2025-10-16,29,Femenino,Guayaquil,Estudiante,Tablet,Baja,8,24.7,24,3,1,5.9,4,,Chat,Aula virtual,2.4,4,Media,0
+USR01347,2025-01-08,43,Masculino,Guayaquil,Estudiante,Móvil,Media,2,36.8,19,2,4,5.6,1,No,Correo,Evaluaciones,3.4,7,Media,0
+USR00828,2025-08-03,30,Masculino,Guayaquil,Estudiante,Móvil,Alta,5,30.4,19,8,4,11,3,No,Correo,Soporte académico,4,4,Media,0
+USR00809,2026-06-20,41,Femenino,Ambato,Estudiante,Móvil,Media,7,68.5,29,0,2,6.8,1,Sí,Correo,Biblioteca digital,4.4,8,Media,0
+USR00765,2025-11-06,34,Masculino,Quito,Estudiante,Computador de escritorio,,4,36.4,23,9,2,7.2,4,Sí,Correo,Soporte académico,3.8,8,Baja,0
+USR00305,2026-02-04,28,Femenino,Ibarra,Estudiante,Laptop,Media,1,71.1,17,3,0,12.7,2,Sí,Teléfono,Aula virtual,3.3,7,Baja,0
+USR01047,2026-01-30,25,Femenino,Ambato,Estudiante,Laptop,Alta,3,49.8,7,9,0,4.5,0,No,Chat,Aula virtual,3.9,4,Media,0
+USR00153,2026-01-23,25,Femenino,Ambato,Estudiante,Tablet,Media,6,51.2,22,4,1,1.7,0,Sí,Correo,Inscripciones,3.6,6,Media,0
+USR01448,2025-01-25,28,Femenino,Manta,Estudiante,Tablet,Baja,1,35.4,8,13,3,14.9,4,No,Chat,Aula virtual,2.3,5,Baja,0
+USR00535,2025-11-08,25,Masculino,Ibarra,Estudiante,Móvil,Alta,8,32.4,16,11,4,8,2,Sí,Chat,Inscripciones,3.2,5,Baja,0
+USR00270,2026-02-18,40,Femenino,Loja,Estudiante,Laptop,Alta,4,30.3,7,9,0,1,2,No,Chat,Evaluaciones,3.5,6,Media,0
+USR00384,2025-05-21,34,Masculino,Ambato,Estudiante,Laptop,Baja,7,46.3,18,11,3,4.1,4,No,Teléfono,Inscripciones,1.9,4,Baja,0
+USR00385,2025-06-17,27,Femenino,Cuenca,Estudiante,Móvil,Baja,7,48.5,17,9,3,4.4,4,Sí,Correo,Aula virtual,3.1,6,Media,0
+USR01488,2025-06-25,45,Masculino,Loja,Estudiante,Móvil,Media,4,24.3,23,2,0,2.5,1,Sí,Correo,Aula virtual,3.9,6,Alta,1
+USR00685,2026-03-27,43,Femenino,Guayaquil,Estudiante,Móvil,Alta,4,47.9,26,6,1,7.6,1,Sí,Correo,Inscripciones,4.4,8,Media,0
+USR01203,2026-06-17,26,Masculino,Ambato,Estudiante,Móvil,Media,11,61,27,5,1,2.4,1,Sí,Autoservicio,Evaluaciones,3.7,6,Alta,1
+USR00425,2025-06-16,28,Masculino,Quito,Estudiante,Laptop,Media,7,42.7,20,4,2,2.1,0,Sí,Chat,Biblioteca digital,3.1,6,Media,0
+USR00449,2026-06-05,33,Masculino,Guayaquil,Estudiante,Móvil,Baja,1,84.3,7,1,1,7.4,4,No,Correo,Soporte académico,1.5,3,Media,0
+USR00147,2026-06-01,35,Masculino,Quito,Docente,Laptop,Media,7,50.6,21,3,1,2,2,Sí,Autoservicio,Inscripciones,4.5,9,Alta,1
+USR00239,2025-06-15,32,Femenino,Guayaquil,Administrativo,Laptop,Alta,3,47.9,22,4,0,3.8,1,Sí,Chat,Soporte académico,4.2,6,Alta,1
+USR01484,2026-01-28,24,Masculino,Quito,Estudiante,Laptop,Baja,4,22.7,23,1,2,4.2,4,Sí,Chat,Aula virtual,3.7,5,Media,0
+USR00245,2025-05-17,45,Masculino,Ambato,Estudiante,Móvil,Baja,8,48.6,18,8,1,5.6,4,Sí,Chat,Inscripciones,2.1,1,Baja,0
+USR01344,2025-02-02,43,Femenino,Guayaquil,Estudiante,Tablet,Media,2,11.2,5,3,3,3.5,0,Sí,Correo,Biblioteca digital,4.9,7,Alta,1
+USR01330,2026-05-01,20,Masculino,Quito,Estudiante,Móvil,Media,7,44.2,18,7,0,4.2,6,Sí,Correo,Biblioteca digital,2.3,5,Media,0
+USR01165,2025-04-27,31,Femenino,Quito,Estudiante,Móvil,Alta,4,41.9,18,4,4,8.9,1,Sí,Autoservicio,Aula virtual,4.7,8,Alta,1
+USR00700,2026-03-13,41,Masculino,Cuenca,Estudiante,Laptop,Media,6,21.4,24,9,4,6.4,0,Sí,Autoservicio,Evaluaciones,3.7,7,Alta,1
+USR00029,2025-02-16,42,Masculino,Quito,Docente,Móvil,Alta,6,47.9,14,9,0,1.2,0,No,Correo,Biblioteca digital,3,6,Baja,0
+USR00835,2025-10-05,20,Masculino,Cuenca,Docente,Tablet,Media,8,27.3,8,6,0,3.9,0,No,Chat,Biblioteca digital,2.6,6,Media,0
+USR00514,2026-01-25,32,Masculino,Guayaquil,Docente,Laptop,Alta,2,104.3,7,4,1,6.8,1,No,Correo,Evaluaciones,3.8,6,Alta,1
+USR00795,2025-07-10,34,Prefiere no decir,Quito,Estudiante,Móvil,Media,6,55.2,16,1,0,8.9,5,Sí,Correo,Pagos,3.4,5,Baja,0
+USR00490,2026-05-26,46,Femenino,Manta,Estudiante,Laptop,Baja,3,37.5,17,19,2,3.3,5,No,Autoservicio,Inscripciones,2.3,3,Baja,0
+USR00862,2025-11-15,47,Masculino,Ibarra,Estudiante,Tablet,Media,4,37.8,20,5,2,6.2,1,Sí,Correo,Inscripciones,3.1,5,Baja,0
+USR00491,2026-03-18,17,Masculino,Quito,Estudiante,Computador de escritorio,Media,7,49.5,24,5,2,2.1,2,Sí,Chat,Soporte académico,2.1,5,Baja,0
+USR01159,2025-06-07,32,Femenino,Ambato,Estudiante,Móvil,Baja,7,32.4,10,2,3,3.5,3,No,Chat,Pagos,1.5,3,Media,0
+USR00089,2026-04-30,31,Masculino,Quito,Estudiante,Laptop,Media,7,42.6,25,7,2,4,2,Sí,Correo,Pagos,3.5,5,Alta,1
+USR00598,2026-03-23,32,Masculino,Santo Domingo,Estudiante,Laptop,Media,7,70.3,16,1,2,10.8,0,Sí,Autoservicio,Biblioteca digital,3.6,6,Baja,0
+USR01348,2025-11-20,17,Prefiere no decir,Cuenca,Estudiante,Computador de escritorio,Alta,9,38.8,19,7,1,5.9,1,Sí,Correo,Pagos,4.7,6,Media,0
+USR01147,2026-04-08,23,Femenino,Ibarra,Administrativo,Laptop,Alta,8,56.1,22,7,0,1.3,2,Sí,Chat,Biblioteca digital,3.9,8,Media,0
+USR00850,2026-06-29,25,Masculino,Cuenca,Estudiante,Móvil,Baja,1,27.7,24,9,4,10.8,4,,Teléfono,Pagos,2.1,3,Baja,0
+USR00863,2025-10-10,32,Femenino,Santo Domingo,Docente,Laptop,Alta,8,68.5,23,8,0,6.3,3,Sí,Chat,Evaluaciones,4,6,Media,0
+USR00166,2026-02-08,27,Masculino,Ibarra,Estudiante,Móvil,Alta,4,35.3,19,10,1,4.6,3,Sí,Chat,Inscripciones,4.3,7,Baja,0
+USR01478,2025-04-27,44,Femenino,Cuenca,Docente,Móvil,Media,9,18.8,25,5,3,9.4,2,Sí,Chat,Soporte académico,2.9,4,Media,0
+USR00852,2026-04-03,45,Femenino,Ibarra,Estudiante,Laptop,Media,5,47.3,17,9,3,16,0,No,Autoservicio,Biblioteca digital,2.1,3,Media,0
+USR01434,2026-05-03,46,Femenino,Ibarra,Estudiante,Laptop,Media,3,25.1,13,7,1,3.2,3,Sí,Correo,Aula virtual,3.8,10,Media,0
+USR00666,2025-02-18,23,Femenino,Guayaquil,Estudiante,Computador de escritorio,Baja,5,49.7,23,9,4,6,5,Sí,Autoservicio,Aula virtual,2.4,3,Baja,0
+USR00225,2025-02-21,37,Masculino,Quito,Estudiante,Laptop,Baja,7,36.1,10,8,6,12.8,0,No,Correo,Evaluaciones,1.5,2,Media,0
+USR00959,2025-06-05,35,Masculino,Cuenca,Estudiante,Móvil,Alta,4,31,11,0,2,6.6,5,Sí,Autoservicio,Evaluaciones,3.7,5,Baja,0
+USR00735,2025-05-29,28,Masculino,Santo Domingo,Estudiante,Laptop,Baja,8,15.3,20,15,1,1.9,4,No,Chat,Inscripciones,2,3,Baja,0
+USR00712,2025-10-13,45,Masculino,Guayaquil,Estudiante,Móvil,Media,4,63.9,5,11,0,1.1,3,No,Autoservicio,Inscripciones,2.3,2,Baja,0
+USR01432,2025-06-23,23,Masculino,Santo Domingo,Administrativo,Computador de escritorio,Media,5,48.8,16,13,2,4.4,4,No,Chat,Biblioteca digital,2.8,5,Media,0
+USR01041,2025-04-17,22,Femenino,Loja,Estudiante,Móvil,Alta,6,43.6,30,1,2,6.5,5,Sí,Correo,Evaluaciones,4.2,8,Media,0
+USR01068,2025-10-23,35,Masculino,Ibarra,Estudiante,Móvil,Alta,11,36.2,30,8,0,78.2,3,Sí,Correo,Evaluaciones,4.4,8,Alta,1
+USR00802,2026-05-27,20,Prefiere no decir,Quito,Estudiante,Móvil,Baja,4,48.7,24,11,6,14.9,5,Sí,Correo,Aula virtual,1.8,1,Baja,0
+USR00867,2026-02-09,36,Masculino,Guayaquil,Estudiante,Computador de escritorio,Media,5,36.6,22,14,1,5.8,0,No,Correo,Evaluaciones,3.1,5,Baja,0
+USR00107,2026-05-19,17,Femenino,Quito,Estudiante,Móvil,Media,7,10.6,22,5,0,1.3,5,Sí,Correo,Aula virtual,3.5,2,Media,0
+USR00728,2025-02-15,19,Masculino,Quito,Estudiante,Tablet,Baja,9,61.2,11,10,2,9,2,No,Chat,Biblioteca digital,1.6,2,Baja,0
+USR00185,2026-06-14,23,Femenino,Quito,Docente,Laptop,Baja,5,29.3,20,4,4,10.6,5,Sí,Chat,Aula virtual,2.4,6,Media,0
+USR00694,2026-01-25,23,Masculino,Quito,Estudiante,Móvil,Alta,7,53.8,19,5,4,5,5,Sí,Correo,Inscripciones,3.3,5,Baja,0
+USR01316,2026-01-08,31,Masculino,Guayaquil,Estudiante,Laptop,Alta,4,55.3,17,0,2,3.9,1,Sí,Chat,Soporte académico,4.6,8,Media,0
+USR01301,2025-03-31,21,Masculino,Quito,Estudiante,Laptop,Media,4,38.7,23,6,3,5.3,1,No,Correo,Soporte académico,2.8,5,Baja,0
+USR00819,2025-07-09,50,Femenino,Manta,Estudiante,Tablet,Media,3,40.8,7,6,1,3.4,0,No,Correo,Aula virtual,2.2,4,Media,0
+USR01151,2025-03-29,40,Femenino,Guayaquil,Estudiante,Móvil,Baja,6,65,9,10,4,3.9,6,No,Chat,Biblioteca digital,2.1,2,Baja,0
+USR00258,2025-05-31,17,Masculino,Manta,Docente,Laptop,Baja,6,45.4,17,7,5,8,5,Sí,Chat,Inscripciones,2.8,4,Baja,0
+USR00413,2026-03-08,27,Masculino,Quito,Estudiante,Móvil,Baja,3,18.8,13,7,3,6.2,4,Sí,Chat,Biblioteca digital,2.7,5,Baja,0
+USR01030,2025-10-27,17,Femenino,Quito,Estudiante,Móvil,Alta,4,38.4,26,7,1,1.8,1,Sí,Teléfono,Aula virtual,3.2,6,Baja,0
+USR00367,2026-05-17,37,Masculino,Quito,Estudiante,Laptop,Baja,6,51.3,12,7,1,8.7,3,Sí,Teléfono,Aula virtual,2.4,3,Baja,0
+USR00592,2026-04-19,17,Masculino,Quito,Estudiante,Tablet,Media,6,59.1,16,5,0,4.2,1,Sí,Teléfono,Evaluaciones,4.2,8,Media,0
+USR00708,2025-02-14,17,Masculino,Quito,Estudiante,Tablet,,2,38.7,12,14,2,5.4,1,No,Chat,Pagos,1.9,2,Baja,0
+USR01313,2025-12-23,28,Femenino,Cuenca,Estudiante,Laptop,,5,92.1,7,6,2,4.2,1,No,Chat,Pagos,2.6,2,Media,0
+USR00364,2026-05-18,26,Masculino,Guayaquil,Administrativo,Laptop,Media,5,53.3,16,10,3,4.4,1,Sí,Chat,Evaluaciones,4.3,8,Alta,1
+USR00663,2026-03-28,24,Femenino,Manta,Estudiante,Laptop,Media,6,31.6,21,14,3,20.8,5,No,Correo,Inscripciones,1,2,Baja,0
+USR00986,2025-05-31,42,Femenino,Guayaquil,Estudiante,Móvil,Alta,9,54,15,5,4,6.8,5,No,Teléfono,Aula virtual,2.6,3,Media,0
+USR00717,2026-01-08,21,Masculino,Quito,Estudiante,Computador de escritorio,Alta,5,24.9,11,9,4,5.3,1,No,Chat,Biblioteca digital,3.4,4,Baja,0
+USR00550,2026-06-27,32,Femenino,Quito,Estudiante,Laptop,Alta,1,34.9,5,11,1,1.6,2,No,Correo,Evaluaciones,2.8,6,Media,0
+USR01415,2025-07-15,32,Femenino,Manta,Estudiante,Laptop,Media,2,86.9,17,4,0,1.5,0,Sí,Autoservicio,Evaluaciones,4.1,8,Alta,1
+USR00180,2025-09-14,30,Masculino,Ibarra,Estudiante,Móvil,Alta,5,34,16,9,0,4.7,0,No,Correo,Biblioteca digital,2.8,7,Baja,0
+USR00262,2026-05-20,23,Prefiere no decir,Quito,Estudiante,Móvil,Media,5,28.4,8,8,2,3.1,1,No,Correo,Biblioteca digital,2.9,4,Baja,0
+USR01266,2025-09-02,31,Masculino,Ambato,Estudiante,Tablet,Media,8,41.2,17,12,1,8.8,0,No,Chat,Pagos,2.2,5,Media,0
+USR01204,2025-02-27,31,Masculino,Santo Domingo,Estudiante,Laptop,Media,4,48.7,22,8,1,3.1,3,Sí,Correo,Aula virtual,2.6,6,Baja,0
+USR00999,2025-06-01,35,Femenino,Guayaquil,Estudiante,Tablet,Media,8,50.5,22,9,2,3.2,3,Sí,Correo,Inscripciones,3.9,7,Baja,0
+USR00026,2025-06-30,45,Masculino,Ibarra,Estudiante,Móvil,Media,4,67.1,19,3,2,4.7,1,Sí,Correo,Evaluaciones,3.7,6,Baja,0
+USR00611,2025-02-11,34,Femenino,Ibarra,Estudiante,Laptop,Baja,7,51.3,11,10,4,7.3,1,No,Teléfono,Evaluaciones,2.2,4,Baja,0
+USR00454,2025-08-26,43,Femenino,Guayaquil,Estudiante,Tablet,Media,4,47.1,19,13,1,2.4,0,,Correo,Pagos,2.2,3,Baja,0
+USR00201,2025-08-16,32,Masculino,Ibarra,Docente,Tablet,Media,10,32.6,21,6,2,2.2,3,No,Correo,Aula virtual,2.8,6,Media,0
+USR00848,2026-06-25,37,Femenino,Quito,Estudiante,Móvil,Baja,1,38,16,7,3,4.6,5,Sí,Chat,Evaluaciones,2.7,4,Baja,0
+USR00217,2025-12-06,33,Femenino,Quito,Estudiante,Móvil,Alta,5,15.8,16,10,1,3.1,2,No,Teléfono,Aula virtual,3.3,4,Baja,0
+USR00509,2026-05-14,36,Femenino,Ibarra,Estudiante,Móvil,Alta,1,23.3,10,8,1,4.6,3,No,Autoservicio,Pagos,3.6,6,Media,0
+USR00088,2025-11-23,53,Masculino,Ambato,Docente,Laptop,Alta,6,63.2,12,6,0,6,1,No,Correo,Pagos,2.9,5,Media,0
+USR01302,2026-02-04,37,Femenino,Ambato,Administrativo,Laptop,Alta,2,39.2,17,6,2,3.2,0,Sí,Autoservicio,Pagos,4.3,7,Alta,1
+USR00553,2026-04-03,17,Femenino,Quito,Estudiante,Tablet,Baja,6,49.1,25,0,4,4.7,4,Sí,Correo,Inscripciones,2.4,3,Baja,0
+USR00495,2025-12-06,44,Femenino,Manta,Estudiante,Móvil,Alta,1,15,21,10,0,4.1,0,Sí,Correo,Biblioteca digital,3.4,6,Baja,0
+USR01324,2025-05-06,42,Masculino,Guayaquil,Estudiante,Laptop,Media,6,28,22,11,1,3.2,0,No,Correo,Inscripciones,2.3,3,Baja,0
+USR00067,2026-01-28,33,Femenino,Guayaquil,Estudiante,Móvil,Baja,5,28.7,31,8,3,6.9,8,Sí,Chat,Aula virtual,2.8,3,Media,0
+USR00991,2025-04-01,27,Masculino,Guayaquil,Estudiante,Laptop,Media,1,38.2,22,1,0,1.3,4,Sí,Chat,Aula virtual,2.7,5,Baja,0
+USR00946,2025-08-16,21,Prefiere no decir,Quito,Estudiante,Laptop,Baja,5,37.1,20,5,2,4.2,3,Sí,Correo,Evaluaciones,3,5,Baja,0
+USR00158,2026-03-04,39,Masculino,Santo Domingo,Estudiante,Tablet,Media,6,39.8,18,10,3,7.9,1,Sí,Chat,Pagos,3.1,5,Media,0
+USR00635,2025-01-07,40,Prefiere no decir,Ambato,Docente,Laptop,Media,6,67.5,16,3,1,5.4,2,Sí,Correo,Aula virtual,4.6,8,Media,0
+USR00118,2025-05-01,41,Masculino,Quito,Docente,Laptop,Baja,6,47.2,17,9,4,19.8,7,No,Correo,Aula virtual,1.4,2,Media,0
+USR00058,2026-06-24,42,Femenino,Manta,Estudiante,Laptop,Media,9,112,20,11,1,5,0,No,Chat,Evaluaciones,2,3,Media,0
+USR01032,2025-08-29,42,Femenino,Ambato,Estudiante,Móvil,Media,7,54.3,18,2,1,10.6,0,Sí,Autoservicio,Aula virtual,3.7,6,Baja,0
+USR00263,2026-03-06,17,Femenino,Quito,Estudiante,Laptop,Media,1,50,15,6,4,9.1,1,No,Teléfono,Inscripciones,2,2,Baja,0
+USR00092,2025-12-12,28,Femenino,Loja,Administrativo,Móvil,Media,5,17.8,24,3,1,7,2,Sí,Teléfono,Aula virtual,3.8,6,Baja,0
+USR00704,2025-04-27,28,Prefiere no decir,Guayaquil,Estudiante,Móvil,Alta,5,32.9,13,5,2,5.9,0,Sí,Correo,Soporte académico,4.6,6,Media,0
+USR01423,2026-03-25,18,Masculino,Guayaquil,Estudiante,Laptop,Baja,1,61.9,16,8,1,6,4,,Chat,Evaluaciones,1,1,Baja,0
+USR01004,2025-11-02,20,Femenino,Quito,Estudiante,Móvil,Baja,3,38.9,17,4,3,4.7,5,Sí,Chat,Pagos,2.9,5,Baja,0
+USR00868,2025-05-26,48,Femenino,Quito,Estudiante,Laptop,Media,7,43.6,31,7,2,2.4,0,Sí,Chat,Biblioteca digital,3.8,7,Baja,0
+USR00468,2025-08-04,28,Masculino,Santo Domingo,Estudiante,Tablet,Baja,4,42.6,30,10,3,8.4,5,Sí,Autoservicio,Aula virtual,2.3,4,Baja,0
+USR01262,2025-03-04,23,Masculino,Quito,Docente,Móvil,Media,6,47.2,28,8,4,14.2,5,Sí,Autoservicio,Aula virtual,3,7,Baja,0
+USR00090,2025-08-11,39,Femenino,Loja,Estudiante,Computador de escritorio,Baja,8,38,17,15,4,7.9,8,No,Autoservicio,Aula virtual,1,1,Baja,0
+USR00925,2025-01-13,29,Femenino,Guayaquil,Administrativo,Computador de escritorio,Media,3,55.4,16,7,0,3,4,No,Correo,Aula virtual,2,3,Media,0
+USR01325,2025-12-31,36,Masculino,Manta,Estudiante,Laptop,Alta,2,73,12,7,2,2.7,2,Sí,Chat,Evaluaciones,4.8,9,Alta,1
+USR00617,2025-08-17,23,Masculino,Quito,Estudiante,Tablet,Media,6,54.7,18,2,2,2.3,0,Sí,Correo,Aula virtual,3.7,4,Media,0
+USR00256,2025-11-10,28,Femenino,Quito,Estudiante,Computador de escritorio,Alta,8,69.4,20,2,4,10.5,1,Sí,Chat,Biblioteca digital,4.3,8,Alta,1
+USR00093,2026-06-02,27,Masculino,Santo Domingo,Docente,Móvil,Baja,7,23.2,19,2,3,3.2,7,Sí,Chat,Aula virtual,3.5,4,Baja,0
+USR00710,2025-05-09,42,Femenino,Ibarra,Administrativo,Móvil,Media,7,40.4,25,4,4,7,7,Sí,Correo,Aula virtual,3,4,Baja,0
+USR01227,2025-08-10,31,Femenino,Ibarra,Estudiante,Móvil,Media,6,25.8,7,6,2,54,5,No,Chat,Biblioteca digital,3,5,Media,0
+USR01000,2025-01-31,17,Masculino,Ibarra,Estudiante,Laptop,Alta,4,41.4,22,0,0,7.5,2,Sí,Chat,Evaluaciones,4.7,7,Alta,1
+USR00963,2026-06-08,21,Masculino,Cuenca,Estudiante,Laptop,Alta,1,19,9,6,0,2.5,2,,Correo,Biblioteca digital,3.6,6,Media,0
+USR01205,2025-01-24,32,Femenino,Quito,Docente,Laptop,Media,9,46.1,10,14,1,3.2,0,No,Correo,Soporte académico,2.5,5,Baja,0
+USR01029,2025-09-02,42,Masculino,Ibarra,Estudiante,Tablet,Alta,5,9.1,21,0,0,1.5,0,Sí,Teléfono,Aula virtual,4.5,8,Alta,1
+USR00142,2026-05-25,35,Prefiere no decir,Quito,Estudiante,Laptop,Baja,5,152.7,6,9,5,47.2,3,No,Correo,Aula virtual,2.2,1,Baja,0
+USR00020,2026-04-21,23,Masculino,Ibarra,Estudiante,Computador de escritorio,Alta,6,20.4,22,6,0,1.4,2,No,Correo,Biblioteca digital,3.2,3,Baja,0
+USR01012,2025-04-17,17,Masculino,Manta,Administrativo,Laptop,Media,1,49.2,13,5,1,2.9,0,Sí,Chat,Aula virtual,3.7,7,Baja,0
+USR00524,2025-12-02,25,Femenino,Quito,Estudiante,Laptop,Media,8,61.6,19,5,4,5.8,1,Sí,Correo,Aula virtual,4.2,7,Baja,0
+USR00677,2026-05-08,26,Femenino,Loja,Estudiante,Laptop,,4,54.3,20,9,3,4.5,2,Sí,Chat,Pagos,4.9,8,Media,0
+USR00749,2025-06-10,30,Femenino,Guayaquil,Estudiante,Móvil,Alta,5,32,24,4,3,8.1,0,Sí,Chat,Pagos,3.9,7,Alta,1
+USR01103,2026-05-06,29,Prefiere no decir,Santo Domingo,Estudiante,Móvil,Baja,6,51.7,18,4,6,7.6,7,Sí,Chat,Aula virtual,2.7,2,Baja,0
+USR01015,2026-05-30,36,Femenino,Ibarra,Estudiante,Móvil,Media,3,21.4,17,12,3,12.7,4,Sí,Correo,Evaluaciones,3.2,4,Baja,0
+USR00770,2026-06-15,37,Masculino,Quito,Estudiante,Móvil,Media,3,57.2,17,8,3,4.6,1,No,Autoservicio,Evaluaciones,3.1,6,Baja,0
+USR01078,2025-09-06,38,Femenino,Ambato,Estudiante,Laptop,Alta,2,30.2,13,10,0,24.6,0,Sí,Autoservicio,Aula virtual,5,9,Media,0
+USR00320,2025-08-20,34,Prefiere no decir,Guayaquil,Estudiante,Laptop,Baja,1,46.6,9,4,2,3.4,5,Sí,Correo,Aula virtual,2.5,4,Media,0
+USR00621,2025-12-26,48,Masculino,Guayaquil,Docente,Móvil,Media,6,62.1,18,8,0,7.9,1,Sí,Correo,Biblioteca digital,3.8,5,Alta,1
+USR00348,2026-01-30,30,Masculino,Manta,Estudiante,Laptop,Alta,4,33.1,6,10,1,,4,No,Correo,Inscripciones,1.2,2,Baja,0
+USR00759,2026-01-13,40,Prefiere no decir,Guayaquil,Administrativo,Tablet,Baja,5,11.9,15,6,3,8,5,Sí,Chat,Aula virtual,2,6,Baja,0
+USR00149,2025-04-02,45,Masculino,Quito,Estudiante,Móvil,Alta,3,49.4,17,3,1,1.7,1,Sí,Chat,Aula virtual,5,10,Media,0
+USR00529,2025-11-26,30,Masculino,Quito,Estudiante,Laptop,Media,1,37.4,19,6,1,3.3,0,Sí,Teléfono,Soporte académico,3.2,6,Baja,0
+USR00062,2026-06-25,30,Femenino,Ambato,Estudiante,Laptop,Media,6,26.9,8,8,0,2.2,0,No,Correo,Aula virtual,3.2,7,Baja,0
+USR00013,2025-09-28,34,Masculino,Quito,Estudiante,Móvil,Media,6,61.6,10,11,2,10.7,2,No,Chat,Biblioteca digital,3.2,4,Alta,1
+USR01197,2025-10-31,24,Femenino,Guayaquil,Docente,Laptop,Alta,2,35.5,2,1,2,10.5,4,Sí,Chat,Inscripciones,4.5,6,Baja,0
+USR00488,2025-09-25,40,Prefiere no decir,Cuenca,Estudiante,Móvil,Alta,7,30.9,19,3,1,3.8,2,Sí,Correo,Aula virtual,4.2,7,Media,0
+USR00296,2026-02-09,46,Masculino,Quito,Estudiante,Laptop,Alta,4,44.1,14,14,2,3.2,0,No,Chat,Aula virtual,4.3,9,Baja,0
+USR00659,2025-01-18,44,Masculino,Santo Domingo,Administrativo,Tablet,,1,27,21,7,2,5.8,3,Sí,Correo,Inscripciones,2.2,3,Baja,0
+USR00515,2025-02-09,46,Masculino,Manta,Estudiante,Laptop,Baja,7,41.5,11,9,6,6.7,3,Sí,Autoservicio,Soporte académico,2.7,2,Baja,0
+USR01419,2025-02-18,26,Femenino,Ambato,Estudiante,Laptop,Alta,2,29.1,8,12,0,0.7,1,No,Teléfono,Biblioteca digital,4.7,7,Media,0
+USR01471,2026-06-27,25,Femenino,Cuenca,Estudiante,Móvil,Media,8,45.8,13,2,3,4.4,5,Sí,Teléfono,Aula virtual,3,6,Media,0
+USR00601,2025-09-05,42,Masculino,Quito,Estudiante,Laptop,,2,57.2,18,10,3,13.9,3,Sí,Correo,Evaluaciones,2.9,3,Media,0
+USR00807,2025-03-27,18,Masculino,Ibarra,Docente,Móvil,Alta,7,43.5,20,6,1,10.4,3,Sí,Correo,Aula virtual,4.2,6,Baja,0
+USR00643,2025-06-03,21,Femenino,Quito,Estudiante,Laptop,Media,7,46.4,11,13,2,5.7,2,No,Chat,Evaluaciones,3.1,6,Media,0
+USR00566,2025-09-30,18,Femenino,Guayaquil,Estudiante,Móvil,Alta,5,37.2,14,8,0,10.9,1,Sí,Teléfono,Biblioteca digital,3.6,9,Media,0
+USR01196,2026-01-10,26,Femenino,Cuenca,Estudiante,Laptop,Media,3,52.4,6,12,0,2.8,1,No,Chat,Evaluaciones,3,3,Baja,0
+USR00138,2025-07-12,24,Femenino,Santo Domingo,Estudiante,Móvil,Media,8,46.1,14,7,0,2.8,2,Sí,Chat,Evaluaciones,3.2,6,Media,0
+USR01193,2025-10-21,25,Masculino,Guayaquil,Estudiante,Móvil,,10,21,20,4,0,7.3,4,Sí,Correo,Aula virtual,3.2,4,Baja,0
+USR01280,2025-10-05,32,Masculino,Ambato,Administrativo,Laptop,Media,4,21.1,17,7,0,6.6,0,No,Autoservicio,Aula virtual,2.8,5,Baja,0
+USR00684,2026-04-28,41,Femenino,Manta,Estudiante,Laptop,Media,8,149.7,21,6,2,3.8,3,Sí,Correo,Aula virtual,3.6,6,Media,0
+USR00787,2025-07-14,27,Masculino,Guayaquil,Estudiante,Tablet,Alta,7,60.7,23,3,1,6.1,1,Sí,Correo,Aula virtual,4.5,9,Alta,1
+USR00170,2026-05-11,50,Masculino,Quito,Estudiante,Laptop,Media,6,27.7,28,1,3,6.8,2,Sí,Correo,Biblioteca digital,3.5,4,Baja,0
+USR01458,2025-05-25,28,Masculino,Guayaquil,Estudiante,Computador de escritorio,Baja,2,22.6,16,8,5,16.8,5,Sí,Chat,Soporte académico,2.1,3,Baja,0
+USR01236,2026-01-17,28,Masculino,Cuenca,Estudiante,Laptop,Alta,6,44.8,25,0,3,10.2,2,Sí,Correo,Pagos,4,6,Alta,1
+USR00615,2025-05-24,31,Masculino,Santo Domingo,Estudiante,Laptop,Alta,8,42.2,17,3,1,4.3,0,No,Correo,Evaluaciones,4.1,6,Media,0
+USR01208,2025-10-25,39,Masculino,Quito,Estudiante,Laptop,Baja,3,39.6,14,4,3,12.6,2,Sí,Chat,Aula virtual,2.8,6,Media,0
+USR01212,2026-02-27,27,Masculino,Quito,Estudiante,Laptop,Baja,2,24.6,6,1,1,6,6,Sí,Chat,Aula virtual,2.8,2,Media,0
+USR00174,2025-06-03,32,Masculino,Quito,Docente,Móvil,Alta,2,7,23,1,0,2.9,1,Sí,Teléfono,Aula virtual,3.9,7,Media,0
+USR01235,2025-03-29,42,Femenino,Quito,Estudiante,Tablet,Baja,5,11.7,24,8,4,6.4,4,Sí,Correo,Evaluaciones,2.4,4,Baja,0
+USR01146,2025-04-29,27,Masculino,Guayaquil,Docente,Móvil,Alta,8,50,18,1,1,15.1,3,Sí,Chat,Pagos,4,7,Media,0
+USR01087,2026-02-19,27,Femenino,Cuenca,Estudiante,Laptop,Media,7,53.5,15,8,2,9.6,0,No,Chat,Biblioteca digital,2.1,2,Media,0
+USR00542,2026-06-05,30,Masculino,Quito,Estudiante,Móvil,Alta,5,29.9,19,6,1,7.7,2,Sí,Autoservicio,Evaluaciones,3.6,3,Alta,1
+USR01100,2026-01-28,31,Masculino,Quito,Estudiante,Móvil,Alta,3,49.8,14,3,2,2.6,3,Sí,Chat,Inscripciones,3.8,6,Baja,0
+USR00503,2025-11-03,30,Femenino,Manta,Estudiante,Móvil,Baja,8,51,13,9,3,12.1,8,No,Chat,Aula virtual,1.5,0,Baja,0
+USR01119,2026-05-20,23,Femenino,Guayaquil,Docente,Laptop,Media,9,22.9,20,9,3,11,0,No,Chat,Aula virtual,2.6,5,Baja,0
+USR00767,2025-10-15,28,Masculino,Cuenca,Estudiante,Laptop,Alta,6,28.7,10,3,1,8.1,0,Sí,Correo,Aula virtual,4.6,8,Baja,0
+USR00330,2026-03-29,38,Femenino,Cuenca,Estudiante,Laptop,Alta,6,151.1,21,5,1,3.3,2,Sí,Correo,Evaluaciones,4.5,6,Alta,1
+USR00229,2025-05-23,45,Masculino,Quito,Estudiante,Laptop,Media,2,37.2,12,0,0,2.8,7,Sí,Correo,Aula virtual,3.1,4,Baja,0
+USR00947,2025-06-17,34,Masculino,Guayaquil,Docente,Tablet,Media,9,32.2,10,8,0,3.6,4,No,Autoservicio,Aula virtual,3.5,5,Baja,0
+USR00930,2026-02-01,19,Prefiere no decir,Quito,Estudiante,Laptop,Alta,6,41.7,9,12,1,4.2,2,No,Autoservicio,Pagos,2.8,4,Baja,0
+USR00423,2026-05-11,41,Masculino,Quito,Administrativo,Tablet,Media,7,35.6,7,1,3,18.2,3,Sí,Correo,Aula virtual,2.6,6,Media,0
+USR01270,2026-05-20,39,Femenino,Guayaquil,Docente,Tablet,Alta,5,23,21,9,4,13.9,0,Sí,Chat,Soporte académico,4.5,9,Alta,1
+USR01406,2025-04-12,44,Femenino,Guayaquil,Estudiante,Laptop,Media,5,17,24,9,1,4.2,0,No,Autoservicio,Aula virtual,3.1,5,Baja,0
+USR00740,2025-04-29,41,Femenino,Manta,Administrativo,Móvil,Media,5,29.8,25,2,2,3,3,Sí,Correo,Evaluaciones,2.8,4,Baja,0
+USR00469,2025-12-25,18,Femenino,Quito,Estudiante,Laptop,Alta,1,47,4,1,0,1.4,2,Sí,Teléfono,Pagos,4.4,8,Alta,1
+USR00323,2026-06-06,30,Masculino,Guayaquil,Estudiante,Móvil,,7,36.4,16,10,1,2.6,4,Sí,Correo,Soporte académico,3.2,7,Baja,0
+USR00069,2025-07-25,32,Femenino,Guayaquil,Estudiante,Móvil,Alta,3,15.6,22,1,1,3.5,3,Sí,Autoservicio,Aula virtual,4.4,8,Alta,1
+USR01366,2026-06-18,25,Prefiere no decir,Guayaquil,Estudiante,Tablet,Alta,8,22.6,16,5,2,4.8,0,Sí,Chat,Evaluaciones,4.3,7,Alta,1
+USR00344,2025-08-23,22,Masculino,Guayaquil,Estudiante,Móvil,Alta,4,14.5,10,10,1,2,2,No,Chat,Inscripciones,3.4,6,Alta,1
+USR00707,2025-07-13,28,Masculino,Quito,Estudiante,Laptop,Baja,6,48.6,9,5,5,4.7,1,No,Correo,Inscripciones,2.8,3,Baja,0
+USR00346,2026-05-09,30,Femenino,Guayaquil,Docente,Móvil,Alta,8,53.8,16,12,0,4.9,2,No,Chat,Evaluaciones,3.2,5,Media,0
+USR00979,2025-12-10,32,Femenino,Loja,Estudiante,Móvil,Baja,5,49.6,15,10,5,7.8,7,No,Chat,Pagos,1.1,1,Baja,0
+USR00671,2025-09-14,23,Femenino,Santo Domingo,Estudiante,Móvil,Media,5,16.8,16,3,2,4.7,4,No,Correo,Aula virtual,3.4,4,Media,0
+USR01161,2026-04-23,20,Femenino,Loja,Administrativo,Computador de escritorio,Alta,10,29.8,21,7,2,5.3,1,Sí,Teléfono,Evaluaciones,4,5,Media,0
+USR01404,2026-04-24,19,Masculino,Guayaquil,Docente,Computador de escritorio,Alta,3,25.1,10,3,0,1.9,0,Sí,Correo,Aula virtual,3.8,7,Baja,0
+USR00110,2025-05-26,37,Masculino,Quito,Estudiante,Móvil,Media,4,73,5,14,1,13.9,2,No,Chat,Biblioteca digital,2.1,2,Baja,0
+USR00578,2026-02-22,25,Femenino,Guayaquil,Estudiante,Tablet,Media,6,30.7,25,5,2,6.2,0,Sí,Correo,Evaluaciones,4,6,Baja,0
+USR01195,2026-05-23,29,Masculino,Ambato,Docente,Tablet,Alta,5,53.6,13,2,2,4,3,Sí,Chat,Inscripciones,4.7,8,Baja,0
+USR00357,2026-02-02,38,Femenino,Manta,Docente,Móvil,Media,8,24.1,29,4,2,6.2,2,Sí,Chat,Biblioteca digital,4.5,9,Alta,1
+USR01388,2026-03-26,24,Femenino,Ambato,Estudiante,Laptop,Alta,6,37.6,15,10,2,4,2,No,Correo,Biblioteca digital,2.8,5,Baja,0
+USR01439,2025-11-28,42,Masculino,Santo Domingo,Estudiante,Móvil,Media,3,42.3,19,8,3,8.3,2,No,Autoservicio,Inscripciones,2.6,2,Media,0
+USR01394,2025-03-20,35,Femenino,Cuenca,Estudiante,Laptop,Media,6,48.1,22,4,0,2.8,0,Sí,Chat,Evaluaciones,4.6,8,Alta,1
+USR01186,2026-02-23,23,Femenino,Quito,Estudiante,Tablet,Alta,7,12.3,18,5,1,3,0,No,Correo,Evaluaciones,2.5,3,Baja,0
+USR00929,2025-01-19,26,Femenino,Quito,Estudiante,Laptop,,8,61.5,23,9,0,1.2,2,Sí,Teléfono,Soporte académico,3.6,6,Media,0
+USR00279,2025-03-27,28,Femenino,Ibarra,Docente,Móvil,Alta,8,55.9,26,8,0,7.3,3,Sí,Autoservicio,Evaluaciones,3.7,8,Alta,1
+USR01354,2025-12-27,37,Masculino,Ambato,Administrativo,Laptop,Media,4,20,10,6,0,3.1,4,Sí,Autoservicio,Biblioteca digital,2.9,5,Baja,0
+USR00523,2026-02-25,37,Femenino,Ibarra,Administrativo,Computador de escritorio,Media,7,38.1,25,6,5,5.6,1,Sí,Chat,Inscripciones,3,5,Alta,1
+USR00502,2025-03-27,42,Femenino,Quito,Estudiante,Móvil,Media,5,19,14,1,0,3,0,Sí,Correo,Evaluaciones,3.6,6,Baja,0
+USR01152,2025-01-29,38,Masculino,Ibarra,Estudiante,Computador de escritorio,Media,4,45,14,8,0,4,3,Sí,Autoservicio,Pagos,3.1,5,Baja,0
+USR00586,2025-03-08,32,Femenino,Loja,Estudiante,Móvil,Media,6,37,21,6,0,4,0,Sí,Autoservicio,Aula virtual,4.7,8,Alta,1
+USR00861,2026-03-16,31,Masculino,Ambato,Estudiante,Tablet,Alta,7,44.3,10,12,1,2.5,1,No,Correo,Aula virtual,4.3,8,Alta,1
+USR00220,2025-11-12,31,Femenino,Cuenca,Estudiante,Laptop,Media,6,33.9,25,0,0,1.5,2,Sí,Correo,Soporte académico,4.4,5,Media,0
+USR00322,2026-02-25,28,Femenino,Cuenca,Estudiante,Laptop,Media,2,74.9,13,5,1,1.8,2,No,Autoservicio,Inscripciones,3.5,6,Media,0
+USR00895,2025-07-22,32,Masculino,Ambato,Estudiante,Móvil,Alta,4,26.1,20,5,0,6.3,0,Sí,Autoservicio,Evaluaciones,4.5,7,Media,0
+USR00978,2026-04-11,25,Masculino,Guayaquil,Estudiante,Tablet,Baja,8,26.3,18,8,3,5.5,3,Sí,Correo,Aula virtual,2.9,5,Media,0
+USR01039,2025-01-26,17,Femenino,Quito,Estudiante,Móvil,Media,5,12.1,16,8,3,3.7,2,No,Teléfono,Aula virtual,2.4,5,Baja,0
+USR00627,2026-02-02,34,Femenino,Guayaquil,Estudiante,Tablet,Media,8,17.7,24,0,1,3.8,1,Sí,Autoservicio,Aula virtual,4.1,8,Alta,1
+USR00609,2026-02-14,23,Femenino,Quito,Estudiante,Tablet,Baja,6,41.7,17,6,3,5.1,3,Sí,Autoservicio,Biblioteca digital,2.5,5,Baja,0
+USR00253,2025-03-10,17,Femenino,Guayaquil,Estudiante,Móvil,Alta,4,36.5,5,6,4,6.7,4,No,Autoservicio,Inscripciones,3,3,Baja,0
+USR01295,2025-12-20,35,Masculino,Manta,Estudiante,Laptop,Media,1,25.3,5,6,2,4.2,2,No,Teléfono,Biblioteca digital,2,2,Baja,0
+USR00656,2026-06-04,41,Femenino,Cuenca,Estudiante,Móvil,Media,8,34.9,25,9,0,7,0,,Chat,Soporte académico,3.3,5,Baja,0
+USR00218,2025-10-09,36,Femenino,Guayaquil,Estudiante,Laptop,Baja,8,56.4,10,7,3,8.8,2,No,Autoservicio,Biblioteca digital,1,1,Media,0
+USR00577,2026-05-16,34,Masculino,Quito,Estudiante,Laptop,Alta,1,40,9,3,3,5,0,Sí,Chat,Evaluaciones,5,8,Media,0
+USR00902,2025-07-07,17,Femenino,Santo Domingo,Estudiante,Móvil,Media,2,35,13,8,0,6.9,4,Sí,Chat,Biblioteca digital,3.3,4,Media,0
+USR00790,2025-08-22,30,Masculino,Ambato,Estudiante,Laptop,Baja,4,57.8,12,12,4,4.8,4,Sí,Autoservicio,Pagos,3.2,7,Alta,1
+USR00030,2025-09-12,44,Femenino,Ambato,Estudiante,Móvil,Media,9,5,19,8,0,1.2,0,Sí,Correo,Biblioteca digital,4.1,8,Alta,1
+USR00866,2025-12-13,41,Masculino,Quito,Docente,Móvil,Baja,11,38.4,20,7,3,4.4,5,No,Chat,Aula virtual,1.8,1,Baja,0
+USR00284,2026-05-05,19,Masculino,Quito,Estudiante,Móvil,Media,3,45.7,20,1,1,5,2,Sí,Chat,Pagos,3.7,7,Baja,0
+USR00886,2025-04-06,31,Masculino,Santo Domingo,Estudiante,Computador de escritorio,Baja,5,56.2,19,10,6,7.1,3,Sí,Chat,Aula virtual,2.4,3,Baja,0
+USR00036,2026-05-17,30,Masculino,Guayaquil,Estudiante,Laptop,Alta,7,41.6,13,8,0,2.3,2,Sí,Autoservicio,Evaluaciones,3,8,Media,0
+USR01460,2025-11-14,37,Masculino,Quito,Estudiante,Laptop,Alta,5,54.2,20,0,2,4.9,2,Sí,Chat,Evaluaciones,4.3,7,Alta,1
+USR00772,2025-05-04,32,Masculino,Ambato,Docente,Laptop,Baja,3,67.5,22,4,0,3.3,3,Sí,Chat,Pagos,2,2,Baja,0
+USR00294,2025-03-20,21,Masculino,Guayaquil,Estudiante,Laptop,Media,2,29,20,9,0,2.4,2,,Teléfono,Pagos,2.3,5,Baja,0
+USR00047,2026-02-16,27,Masculino,Guayaquil,Docente,Laptop,Baja,7,27.2,25,6,5,6.3,6,Sí,Correo,Inscripciones,2.9,5,Baja,0
+USR00952,2025-02-12,30,Masculino,Guayaquil,Administrativo,Laptop,Baja,7,33.4,13,11,3,6.1,3,No,Teléfono,Aula virtual,1,0,Baja,0
+USR00059,2026-01-21,34,Masculino,Cuenca,Docente,Móvil,Baja,8,36.4,12,7,4,9.9,4,Sí,Correo,Soporte académico,1.8,1,Baja,0
+USR00689,2026-03-25,27,Masculino,Manta,Estudiante,Móvil,,6,50,8,14,1,2.9,1,No,Chat,Aula virtual,3.9,5,Media,0
+USR00645,2026-05-01,17,Femenino,Guayaquil,Estudiante,Móvil,Baja,5,28.7,12,6,4,7.8,5,Sí,Chat,Aula virtual,1.9,3,Media,0
+USR01066,2025-03-24,33,Masculino,Ambato,Estudiante,Laptop,Media,3,68.3,8,7,0,2.8,1,No,Chat,Pagos,3.4,7,Baja,0
+USR01342,2026-05-01,48,Femenino,Guayaquil,Estudiante,Laptop,Alta,5,40.7,11,6,0,6.2,2,No,Teléfono,Aula virtual,3.4,6,Media,0
+USR01474,2025-08-24,27,Masculino,Quito,Docente,Computador de escritorio,Media,5,35.8,14,12,2,5,2,No,Autoservicio,Biblioteca digital,3,4,Media,0
+USR00144,2025-05-03,24,Masculino,Guayaquil,Estudiante,Laptop,Alta,1,28.3,11,5,0,3.3,0,Sí,Chat,Pagos,4.8,10,Alta,1
+USR01391,2025-06-03,48,Femenino,Guayaquil,Estudiante,Móvil,Media,9,66.6,30,5,0,4.2,4,Sí,Autoservicio,Inscripciones,3.3,3,Baja,0
+USR00748,2026-03-26,22,Femenino,Quito,Estudiante,Laptop,Media,8,36.6,17,3,0,2.8,0,Sí,Correo,Evaluaciones,4.5,8,Media,0
+USR00422,2025-10-25,31,Masculino,Guayaquil,Estudiante,Laptop,Baja,4,5,17,10,3,4.2,5,Sí,Teléfono,Biblioteca digital,3.3,4,Media,0
+USR00169,2025-09-24,17,Femenino,Ambato,Estudiante,Laptop,Alta,3,26.9,13,4,1,,0,,Chat,Biblioteca digital,3.3,7,Media,0
+USR00126,2026-06-23,35,Femenino,Ibarra,Estudiante,Laptop,Media,3,60.2,11,11,3,3.2,2,No,Correo,Evaluaciones,2.1,3,Baja,0
+USR00387,2025-04-17,29,Femenino,Quito,Docente,Móvil,Alta,9,29.2,22,8,0,67.7,0,No,Autoservicio,Evaluaciones,2.7,4,Baja,0
+USR00511,2025-08-19,28,Masculino,Cuenca,Estudiante,Móvil,Media,6,55.9,14,3,1,2.6,4,Sí,Autoservicio,Soporte académico,3.8,6,Alta,1
+USR01416,2025-12-23,43,Masculino,Ambato,Estudiante,Laptop,Alta,2,40.8,7,10,4,7.7,1,No,Correo,Soporte académico,3.4,5,Media,0
+USR00394,2025-04-10,17,Femenino,Santo Domingo,Estudiante,Móvil,Alta,5,32.8,23,8,3,9.8,3,Sí,Teléfono,Biblioteca digital,4,8,Alta,1
+USR00278,2025-08-30,39,Femenino,Quito,Estudiante,Laptop,Alta,5,39.5,20,6,1,5.3,5,Sí,Correo,Biblioteca digital,4.6,5,Baja,0
+USR01267,2026-04-16,33,Femenino,Ambato,Estudiante,Laptop,Media,6,78.8,27,1,0,5.4,2,Sí,Correo,Evaluaciones,3.5,7,Media,0
+USR01101,2025-01-18,24,Masculino,Cuenca,Estudiante,Tablet,Baja,9,22.8,21,6,4,9.6,4,Sí,Chat,Evaluaciones,2.4,2,Baja,0
+USR00101,2025-03-12,37,Femenino,Guayaquil,Estudiante,Laptop,Media,1,61.2,11,6,2,6.2,0,No,Teléfono,Aula virtual,3.7,4,Alta,1
+USR00482,2026-02-01,38,Femenino,Ambato,Estudiante,Móvil,Alta,4,39.8,6,9,0,6.4,2,No,Teléfono,Pagos,2.7,5,Media,0
+USR00421,2025-09-02,37,Femenino,Guayaquil,Estudiante,Computador de escritorio,Alta,8,45.2,19,5,1,3.2,5,Sí,Chat,Soporte académico,3.9,6,Alta,1
+USR00761,2025-11-25,30,Masculino,Loja,Estudiante,Computador de escritorio,Media,6,18.6,14,6,1,2.9,2,Sí,Autoservicio,Soporte académico,3.5,4,Baja,0
+USR00646,2026-01-13,36,Masculino,Loja,Estudiante,Laptop,Alta,1,67.6,13,3,2,2,1,Sí,Correo,Aula virtual,4.7,10,Alta,1
+USR01176,2025-02-06,22,Masculino,Guayaquil,Administrativo,Móvil,Media,11,39,23,3,3,6.7,2,Sí,Correo,Biblioteca digital,4,6,Alta,1
+USR00419,2025-08-06,37,Femenino,Quito,Estudiante,Laptop,Media,7,25.4,20,5,1,3.5,0,No,Correo,Aula virtual,1.7,3,Baja,0
+USR01279,2025-05-01,36,Masculino,Loja,Estudiante,Tablet,Media,2,41.2,15,1,2,,0,Sí,Chat,Soporte académico,3.4,6,Baja,0
+USR00782,2025-11-25,27,Femenino,Manta,Estudiante,Móvil,Baja,4,41.6,13,15,4,17.5,3,Sí,Chat,Aula virtual,1.6,2,Baja,0
+USR00287,2025-03-02,50,Femenino,Guayaquil,Estudiante,Móvil,Alta,7,20.3,16,13,1,2.3,1,No,Teléfono,Aula virtual,3.8,8,Baja,0
+USR00104,2025-09-07,20,Femenino,Cuenca,Estudiante,Laptop,Media,4,29.6,13,2,0,1.3,2,No,Correo,Aula virtual,2.8,3,Baja,0
+USR00221,2025-02-27,34,Masculino,Quito,Estudiante,Laptop,Alta,3,55.7,12,17,2,11.4,0,No,Autoservicio,Pagos,2.9,3,Media,0
+USR00228,2025-08-30,41,Femenino,Manta,Estudiante,Móvil,Alta,7,46,18,7,0,6.9,1,Sí,Correo,Pagos,3.8,8,Alta,1
+USR00734,2025-01-06,24,Masculino,Ibarra,Estudiante,Tablet,Alta,6,36.6,11,9,3,5.8,3,No,Chat,Biblioteca digital,3.1,5,Media,0
+USR00414,2025-12-12,30,Masculino,Quito,Estudiante,Móvil,Alta,3,140.5,13,3,0,1.6,0,Sí,Teléfono,Pagos,4.4,7,Alta,1
+USR01466,2025-03-08,40,Femenino,Ambato,Estudiante,Laptop,Media,11,63,17,8,2,5.6,0,Sí,Chat,Soporte académico,3.6,5,Baja,0
+USR01426,2026-02-04,31,Femenino,Cuenca,Estudiante,Laptop,Alta,9,17.1,17,7,3,5,3,Sí,Chat,Biblioteca digital,4.3,5,Media,0
+USR01470,2026-02-17,25,Femenino,Cuenca,Estudiante,Computador de escritorio,Media,4,47.6,13,3,1,2.7,1,Sí,Chat,Soporte académico,4.2,9,Alta,1
+USR01257,2025-09-08,29,Femenino,Manta,Estudiante,Laptop,Alta,5,38,18,7,0,2.8,0,Sí,Chat,Pagos,4.7,8,Alta,1
+USR00227,2025-10-17,32,Femenino,Quito,Docente,Móvil,Media,5,26,13,9,2,5,3,No,Teléfono,Biblioteca digital,3.3,2,Baja,0
+USR01033,2025-01-22,26,Masculino,Guayaquil,Estudiante,Laptop,Alta,6,67.2,17,11,1,6.5,3,No,Chat,Soporte académico,3,5,Baja,0
+USR00513,2026-02-13,35,Masculino,Quito,Administrativo,Móvil,Media,9,60.5,19,0,5,7,4,Sí,Chat,Aula virtual,3.7,4,Baja,0
+USR00427,2026-03-03,23,Femenino,Cuenca,Estudiante,Móvil,Media,4,23,15,13,0,3.3,1,No,Correo,Aula virtual,3,6,Baja,0
+USR00120,2025-03-12,45,Masculino,Loja,Estudiante,Laptop,Baja,6,17.4,20,9,8,19.6,3,Sí,Chat,Aula virtual,1.3,1,Media,0
+USR01265,2025-06-05,31,Masculino,Guayaquil,Estudiante,Laptop,Alta,7,70.2,21,9,3,6.7,4,No,Autoservicio,Soporte académico,2.2,3,Baja,0
+USR00678,2025-04-10,40,Femenino,Guayaquil,Docente,Laptop,,4,37,22,5,0,,2,Sí,Autoservicio,Inscripciones,5,9,Alta,1
+USR00612,2025-08-18,44,Masculino,Quito,Docente,Móvil,Alta,7,60.1,6,12,2,6.2,0,No,Chat,Biblioteca digital,2.5,5,Baja,0
+USR00714,2026-02-10,23,Masculino,Cuenca,Estudiante,Móvil,Media,1,12.6,12,8,2,5.7,3,No,Autoservicio,Pagos,3,3,Baja,0
+USR00732,2026-03-06,25,Masculino,Quito,Estudiante,Móvil,Media,6,16.9,9,8,0,1.2,2,No,Chat,Inscripciones,2.3,2,Baja,0
+USR00638,2026-04-01,21,Femenino,Quito,Estudiante,Móvil,Alta,1,27.9,17,3,0,1.1,0,Sí,Chat,Pagos,4.7,8,Media,0
+USR00774,2025-07-08,29,Femenino,Ibarra,Estudiante,Laptop,Alta,2,14.5,13,15,1,6,0,No,Autoservicio,Aula virtual,3.2,7,Baja,0
+USR00935,2025-02-01,23,Masculino,Quito,Estudiante,Tablet,Baja,6,34.2,19,5,4,4.3,3,Sí,Teléfono,Aula virtual,2.1,5,Baja,0
+USR00701,2026-05-02,34,Femenino,Guayaquil,Estudiante,Computador de escritorio,Media,5,20.6,20,0,2,3.9,2,Sí,Chat,Aula virtual,3,6,Media,0
+USR00853,2025-08-16,18,Masculino,Ibarra,Estudiante,Tablet,Baja,5,36.9,23,8,4,18.3,5,Sí,Correo,Aula virtual,2.5,4,Baja,0
+USR00492,2025-10-13,29,Femenino,Guayaquil,Estudiante,Tablet,Alta,1,57.9,6,9,2,8.4,0,No,Chat,Biblioteca digital,3.1,6,Baja,0
+USR00932,2025-01-30,34,Femenino,Quito,Estudiante,Laptop,Alta,2,47.4,12,10,0,3,0,No,Correo,Pagos,3.3,4,Media,0
+USR00950,2026-06-03,35,Femenino,Quito,Estudiante,Tablet,Alta,4,38.3,21,4,1,1.8,1,Sí,Teléfono,Pagos,3.8,8,Alta,1
+USR00938,2025-01-08,44,Femenino,Guayaquil,Estudiante,Computador de escritorio,Alta,7,44.6,22,4,2,,2,No,Autoservicio,Evaluaciones,2.8,4,Baja,0
+USR01022,2025-09-17,22,Masculino,Quito,Estudiante,Tablet,Baja,1,25.4,18,8,3,10.9,6,Sí,Chat,Pagos,2.9,1,Baja,0
+USR00847,2025-05-14,37,Femenino,Cuenca,Estudiante,Móvil,Alta,6,57.8,14,11,0,8.2,2,No,Autoservicio,Pagos,3.6,3,Baja,0
+USR01482,2025-01-29,26,Femenino,Ambato,Estudiante,Laptop,Media,9,53.6,16,4,1,4,1,Sí,Chat,Biblioteca digital,3.7,7,Baja,0
+USR01485,2026-02-20,43,Femenino,Santo Domingo,Docente,Laptop,Baja,6,36.7,15,11,7,9.3,5,No,Correo,Aula virtual,1.2,1,Baja,0
+USR00995,2025-04-24,26,Masculino,Ibarra,Estudiante,Móvil,Baja,3,48.6,19,5,4,8.1,2,Sí,Chat,Inscripciones,4.5,8,Media,0
+USR00851,2025-04-10,29,Femenino,Santo Domingo,Estudiante,Laptop,Baja,3,38.8,15,6,2,10.2,4,No,Correo,Inscripciones,1.2,2,Baja,0
+USR00493,2025-06-26,29,Masculino,Guayaquil,Estudiante,Laptop,,4,61.2,21,6,3,6.5,2,Sí,Correo,Biblioteca digital,2.3,4,Media,0
+USR01189,2026-04-29,18,Femenino,Quito,Estudiante,Tablet,Alta,3,55.2,14,12,1,3.2,2,Sí,Correo,Inscripciones,5,9,Alta,1
+USR00065,2025-05-08,33,Femenino,Guayaquil,Administrativo,Laptop,Media,3,42.3,15,6,2,4.2,1,No,Chat,Evaluaciones,3.1,3,Baja,0
+USR00137,2026-02-16,49,Femenino,Quito,Estudiante,Tablet,Alta,6,34.5,25,4,0,6,3,Sí,Teléfono,Aula virtual,3.9,7,Alta,1
+USR01402,2025-08-01,24,Masculino,Guayaquil,Docente,Móvil,Alta,4,25.3,15,7,3,17.9,1,No,Chat,Biblioteca digital,3.5,5,Baja,0
+USR00325,2025-02-13,17,Masculino,Manta,Estudiante,Laptop,Media,5,31.5,18,9,1,2.1,0,No,Teléfono,Evaluaciones,2.7,3,Baja,0
+USR00099,2025-03-20,17,Masculino,Guayaquil,Estudiante,Móvil,Baja,9,12.8,29,4,4,14.7,4,Sí,Chat,Evaluaciones,2,2,Baja,0
+USR01107,2026-02-22,23,Masculino,Quito,Estudiante,Móvil,Alta,7,42.1,18,0,0,4,0,Sí,Teléfono,Pagos,4.9,9,Alta,1
+USR01134,2025-11-18,24,Femenino,Ambato,Estudiante,Móvil,Alta,9,39.5,28,0,1,3.7,2,Sí,Correo,Biblioteca digital,4.5,5,Alta,1
+USR00966,2026-04-03,19,Masculino,Loja,Estudiante,Móvil,Media,4,51.9,5,9,4,4,3,No,Chat,Pagos,2.4,2,Baja,0
+USR00456,2025-10-16,40,Masculino,Cuenca,Estudiante,Móvil,Alta,6,21.6,16,5,4,8.1,0,Sí,Chat,Inscripciones,4.2,7,Media,0
+USR00179,2025-03-12,40,Masculino,Cuenca,Estudiante,Laptop,Alta,4,41.7,18,6,3,6.5,1,Sí,Autoservicio,Biblioteca digital,4.5,7,Media,0
+USR00408,2026-01-06,49,Masculino,Quito,Estudiante,Móvil,Media,1,52.2,12,2,2,17.7,4,Sí,Correo,Aula virtual,2.1,2,Baja,0
+USR01239,2026-01-11,47,Femenino,Guayaquil,Docente,Móvil,Media,11,30.3,25,3,0,2.2,5,Sí,Correo,Evaluaciones,3.8,5,Baja,0
+USR01292,2026-02-13,27,Masculino,Ibarra,Estudiante,Móvil,Alta,2,43.9,14,4,0,5.4,5,No,Chat,Biblioteca digital,2,3,Media,0
+USR00033,2025-06-29,18,Masculino,Quito,Estudiante,Móvil,Media,6,20.8,11,2,3,11,1,Sí,Chat,Pagos,3.6,5,Baja,0
+USR01387,2026-05-18,30,Femenino,Cuenca,Estudiante,Tablet,Media,8,29.3,20,7,2,2.4,0,Sí,Chat,Biblioteca digital,3.9,9,Alta,1
+USR00371,2026-01-24,42,Femenino,Manta,Docente,Tablet,Alta,10,36.4,16,5,2,4.7,0,Sí,Correo,Aula virtual,4.5,7,Alta,1
+USR01362,2025-05-19,39,Masculino,Cuenca,Estudiante,Móvil,Media,4,37.1,19,2,2,6,1,,Teléfono,Biblioteca digital,3.6,5,Media,0
+USR00112,2025-05-16,39,Masculino,Quito,Docente,Tablet,Baja,7,33.8,19,2,2,3.4,5,Sí,Chat,Inscripciones,3.3,6,Baja,0
+USR00881,2026-05-21,38,Femenino,Cuenca,Docente,Laptop,Media,9,55,25,2,2,4.3,3,Sí,Teléfono,Evaluaciones,3,4,Baja,0
+USR01337,2026-05-06,41,Masculino,Quito,Estudiante,Móvil,Media,2,50.9,14,10,2,5,3,No,Chat,Evaluaciones,1.4,0,Media,0
+USR00860,2026-03-20,34,Masculino,Cuenca,Estudiante,Laptop,Media,4,16.2,12,7,3,9,3,No,Chat,Pagos,2.1,3,Baja,0
+USR00512,2025-03-12,30,Femenino,Quito,Estudiante,Laptop,Media,5,57.7,25,9,0,2.6,3,Sí,Chat,Soporte académico,3.5,4,Baja,0
+USR00618,2025-11-10,30,Masculino,Manta,Estudiante,Móvil,Media,7,28.8,20,3,1,3.8,2,Sí,Teléfono,Evaluaciones,3.7,8,Media,0
+USR01332,2025-12-21,40,Femenino,Loja,Estudiante,Computador de escritorio,Media,6,29.7,15,8,2,3.9,0,No,Chat,Evaluaciones,2.3,7,Baja,0
+USR01084,2025-07-16,48,Masculino,Quito,Estudiante,Laptop,Alta,4,58,15,1,2,3.6,3,Sí,Correo,Evaluaciones,3.3,5,Baja,0
